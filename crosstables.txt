@@ -1,0 +1,1748 @@
+2018 125th NZ Congress Open, Palmerston North
+
+ 1 GM  Demuth, Adrien       2538 FRA  8.0  +W13 +B6  +W9  +B12 +W3  +B10 =W2  =B8  +W7
+ 2 GM  Libiszewski, Fabien  2530 FRA  7.0  +B16 =W11 =B3  +B7  =W6  +W15 =B1  +B9  +W8
+ 3 IM  Dive, Russell John   2309  WE  6.0  +W32 +B8  =W2  +B4  -B1  -W11 +B23 =W14 +B6
+ 4 CM  Ang, Alphaeus Wei Er 2219  AC  6.0  +B35 =W15 +B29 -W3  =B19 =W20 =B13 +W12 +B14
+ 5 CM  Fan, Allen Chi Zhou  2073  AC  5.5  -B36 +W32 -B31 +W34 +B22 -W12 +B28 +W13 =B15
+ 6 FM  Gong, Daniel Hanwen  2272  HP  5.5  +B18 -W1  +B26 =W23 =B2  +W28 =B11 +B10 -W3
+ 7 FM  Smith, Robert W      2201  MC  5.5  =W30 +B27 =B15 -W2  =W8  +B21 +W17 +B11 -B1
+ 8 FM  Steadman, Michael V  2166  AC  5.5  +B37 -W3  +B34 =W15 =B7  +W19 +B12 =W1  -B2
+ 9 IM  Ker, Anthony F       2311  WE  5.5  +B25 +W22 -B1  =W11 =B14 =W23 +B20 -W2  +B21
+10 FM  Hague, Ben           2368  AC  5.5  =B21 +W36 =B23 +W31 +B11 -W1  =B14 -W6  +B20
+11 FM  Stojic, Dusan        2251 AUS  5.5  +W31 =B2  +W14 =B9  -W10 +B3  =W6  -W7  +B19
+12 IM  Borsos, Bogdan       2315 UKR  5.0  +W34 =B14 +W19 -W1  =B23 +B5  -W8  -B4  +W17
+13     Dowden, R. Anthony   2028  OT  5.0  -B1  +W18 +B36 -W14 =W17 +B24 =W4  -B5  +W25
+14     Gao, Hans            2167  AC  5.0  +W24 =W12 -B11 +B13 =W9  +B27 =W10 =B3  -W4
+15 GM  Johansen, Darryl K   2374 AUS  5.0  +W26 =B4  =W7  =B8  =W27 -B2  +W24 =B19 =W5
+16 CM  Rains, Edward        2008  CA  4.5  -W2  -B31 +W18 -B19 -W34 +B35 +W32 +B36 =B23
+17 FM  Lukey, Stephen G     2179  CA  4.5  -B22 +W33 =B21 =W20 =B13 +W36 -B7  +W29 -B12
+18     Li, Xiang Wei Willia 1958  AC  4.5  -W6  -B13 -B16 =W25 +B38 +W33 +B36 =W23 =B22
+19     Salasan, Haran       1660 AUS  4.5  =B29 +W20 -B12 +W16 =W4  -B8  +B26 =W15 -W11
+20 WIM Jule, Alexandra      2033 AUS  4.5  =W38 -B19 +W24 =B17 +W30 =B4  -W9  +B27 -W10
+21 CM  Schmitz, Andreas Arn 1998 GER  4.5  =W10 =B28 =W17 -B27 +W35 -W7  +B31 +B34 -W9
+22 WFM Schmitz, Manuela     1896 GER  4.5  +W17 -B9  =W28 =B30 -W5  =B32 =W34 +B24 =W18
+23 FM  Goormachtigh, Johan  2159 BEL  4.5  =W27 +B30 =W10 =B6  =W12 =B9  -W3  =B18 =W16
+24     Seabrook, Roy        1784  AC  4.0  -B14 +W25 -B20 +W26 +B29 -W13 -B15 -W22 +B37
+25     Savige, Colin B      1964 AUS  4.0  -W9  -B24 -W35 =B18 =B33 +W38 +W30 +B28 -B13
+26 WIM Timergazi, Layla     2000  WE  4.0  -B15 +W35 -W6  -B24 =W32 +B37 -W19 =B33 +W34
+27     Yan, Caroline        1759  AC  4.0  =B23 -W7  +B38 +W21 =B15 -W14 =B29 -W20 =B31
+28 CM  Duneas, John         2035  AC  4.0  =B33 =W21 =B22 =W29 +B31 -B6  -W5  -W25 +B35
+29 CM  James, Jack          2064  MK  4.0  =W19 +B38 -W4  =B28 -W24 +B30 =W27 -B17 =W32
+30     Jackson, L. Ross     1906  WE  3.5  =B7  -W23 +B33 =W22 -B20 -W29 -B25 =B37 +W36
+31     Goodhue, Nathan      1908  AC  3.5  -B11 +W16 +W5  -B10 -W28 =B34 -W21 =B35 =W27
+32 CM  Milligan, Helen      1958  NS  3.5  -B3  -B5  =W37 =W33 =B26 =W22 -B16 +W38 =B29
+33 WCM Qin, Nicole Shu Yu   1613  AC  3.5  =W28 -B17 -W30 =B32 =W25 -B18 +W37 =W26 =B38
+34 WCM Punsalan, Vyanla M   1987  NS  3.0  -B12 +W37 -W8  -B5  +B16 =W31 =B22 -W21 -B26
+35     Nicholls, Leighton   1906  OT  3.0  -W4  -B26 +B25 =W36 -B21 -W16 +B38 =W31 -W28
+36 WCM Qin, Joy Shu Yan     1739  AC  2.5  +W5  -B10 -W13 =B35 +W37 -B17 -W18 -W16 -B30
+37     Caldeira, John       1779 FIJ  2.0  -W8  -B34 =B32 +W38 -B36 -W26 -B33 =W30 -W24
+38     Li, Rodney Xiang Rei 1487  NS  1.0  =B20 -W29 -W27 -B37 -W18 -B25 -W35 -B32 =W33
+
+2018 125th NZ Congress Major Open, Palmerston North
+
+ 1 CM  Kempen, Leon         1888 AUS 7.5 =B35 +W19 +B5  +W8  +B12 +W4  =B2  =W3  +B14
+ 2 CM  Yee, Stanley         1898  HP 7.0 +W29 -B39 +W33 =B14 +W10 +B6  =W1  +B12 +B8
+ 3     Winfield, Alan W     1726  KP 6.5 +B31 +W10 +B9  -W12 -B8  +W15 +B25 =B1  +W13
+ 4     Goormachtigh, Lauren 1692 BEL 6.5 +W42 -B18 +W13 +B34 +W21 -B1  +W24 +B17 =W5
+ 5     Winter, Ryan         1470  WE 6.5 +W21 =B23 -W1  +B30 +W39 +B11 +B12 =W8  =B4
+ 6     Charles, Dion        1747  MK 6.0 +B37 -W9  +B29 +W15 =B25 -W2  +W21 =B13 +W12
+ 7     Wei, Louie           1609  AC 6.0 -W18 +B20 =W21 -B23 +W41 =B10 +W19 +W26 +B24
+ 8 CM  Picken, Oliver       1769  PT 5.5 +W22 +B28 +W18 -B1  +W3  -W12 +B23 =B5  -W2
+ 9     Clouston, Bevan      1651 AUS 5.5 +W20 +B6  -W3  -B11 +W38 -B24 =W18 +B39 +W25
+10     Dai, Oliver          1623  HP 5.5 +W36 -B3  =W22 +B33 -B2  =W7  +B34 =W11 +B23
+11     Carpinter, Bernard   1774  HB 5.5 =B15 +W35 =B16 +W9  =B17 -W5  =W13 =B10 +W18
+12     Post, Martin         1850  WA 5.0 +W13 +B14 +W39 +B3  -W1  +B8  -W5  -W2  -B6
+13     Yan, Sarah           1484  AC 5.0 -B12 +W44 -B4  +W19 +B26 +W27 =B11 =W6  -B3
+14     Knightbridge, Wayne  1646  NS 5.0 +B41 -W12 +B19 =W2  =B15 +W16 =W17 =B25 -W1
+15     He, Caleb            1463     5.0 =W11 +B24 +W23 -B6  =W14 -B3  +W39 =B21 =W17
+16     Day, Fabian          1465  WE 5.0 +B25 =W17 =W11 =B24 =W23 -B14 =B27 +W33 =B26
+17     Gold, Hamish         1749  OT 5.0 +W38 =B16 =W34 +B18 =W11 =W25 =B14 -W4  =B15
+18     Sashikumar           0    IND 4.5 +B7  +W4  -B8  -W17 -B27 +W37 =B9  +W35 -B11
+19     Polyakevich, Arkadi  0    RUS 4.5 +W30 -B1  -W14 -B13 +W36 +B28 -B7  +W37 =B27
+20     He, Paul             1183     4.5 -B9  -W7  -B31 +W43 -B40 +W44 +B41 +B32 =W22
+21     Stewart, James       1835  PN 4.5 -B5  +W32 =B7  +W37 -B4  +W22 -B6  =W15 =B35
+22     Qin, Oscar Shu Xuan  1438  AC 4.5 -B8  +W41 =B10 -W29 +B37 -B21 +W28 =W27 =B20
+23     Cooper, Nigel        1692  CA 4.5 +B40 =W5  -B15 +W7  =B16 +W34 -W8  =B24 -W10
+24     Lyall, Simon         1760  AC 4.5 =B32 -W15 +B35 =W16 +B29 +W9  -B4  =W23 -W7
+25     Sole, Michael D      1801  WE 4.5 -W16 +B42 +W28 +B39 =W6  =B17 -W3  =W14 -B9
+26     Booth, Anthony       1742  HP 4.5 =W34 -B33 =W38 +B42 -W13 +B30 +W29 -B7  =W16
+27     Calitz, Hananke      1699  MK 4.5 =W33 -B34 +W32 =B38 +W18 -B13 =W16 =B22 =W19
+28     Steadman, Mathew     1509  AC 4.0 +B43 -W8  -B25 +W31 -B34 -W19 -B22 +W44 +B41
+29     Murdoch, Stephen     1500  CA 4.0 -B2  +W40 -W6  +B22 -W24 +B32 -B26 =W34 =B33
+30     Stracy, Don          1610  WE 4.0 -B19 +W31 =B37 -W5  +B33 -W26 -B35 +W38 =B34
+31     Liu, John            1337  AC 4.0 -W3  -B30 +W20 -B28 =W32 =B41 -B36 +W43 +B40
+32     Lopez Sanz, David    1423 ESP 4.0 =W24 -B21 -B27 +W44 =B31 -W29 +B40 -W20 +B43
+33     Lukey, Bryce         1322  CA 4.0 =B27 +W26 -B2  -W10 -W30 +B42 +W38 -B16 =W29
+34     Ross, Sol            1343  MK 4.0 =B26 +W27 =B17 -W4  +W28 -B23 -W10 =B29 =W30
+35     Wang, Aaron Ziwen    1487  HP 4.0 =W1  -B11 -W24 =B41 +W42 =B38 +W30 -B18 =W21
+36     Xu, Hannah           814      3.5 -B10 -W37 =B44 -W40 -B19 +B43 +W31 -W41 +B39
+37     Wang, Ying           1352  AC 3.5 -W6  +B36 =W30 -B21 -W22 -B18 +W43 -B19 +W42
+38     Ning, Isabelle Yixua 1391  AC 3.5 -B17 +W43 =B26 =W27 -B9  =W35 -B33 -B30 +W44
+39     Pakenham, John       1681  AC 3.0 +B44 +W2  -B12 -W25 -B5  +W40 -B15 -W9  -W36
+40     Li, Leo Xiang Yu     1277  AC 3.0 -W23 -B29 -W41 +B36 +W20 -B39 -W32 +B42 -W31
+41     Warren, Elizabeth    1155 AUS 3.0 -W14 -B22 +B40 =W35 -B7  =W31 -W20 +B36 -W28
+42     Malton, Isabella     1270  MK 2.0 -B4  -W25 +B43 -W26 -B35 -W33 +B44 -W40 -B37
+43     Zheng, Yantao        0        1.0 -W28 -B38 -W42 -B20 +B44 -W36 -B37 -B31 -W32
+44     Ryu, Rosa            1185  AC 0.5 -W39 -B13 =W36 -B32 -W43 -B20 -W42 -B28 -B38
+
+2017 North Shore Open A Grade
+
+ 1 FM  Hague, Ben           2326 NZL AC  4.5  +B12  +W6   +B5   =W2   +B4
+ 2 CM  Ang, Alphaeus Wei    2141 NZL AC  4.5  +B23  +W13  +W3   =B1   +W7
+ 3 FM  McLaren, Leonard     2208 NZL HP  4.0  +B10  +W8   -B2   +W6   +B5
+ 4 FM  Gong, Daniel Hanwen  2278 NZL HP  3.0  +W9   =B16  =W7   +B14  -W1
+ 5 FM  Steadman, Michael    2194 NZL AC  3.0  +W17  +B14  -W1   +B18  -W3
+ 6 CM  Fan, Allen Chi Zhou  2055 NZL AC  3.0  +W20  -B1   +W16  -B3   +W17
+ 7     Polishchuk, Kirill   2132 NZL MM  3.0  =BYE  +W15  =B4   +W8   -B2
+ 8     Li, Shenyue (Sherry) 2038 CHN     3.0  +W19  -B3   +W17  -B7   +W18
+ 9     Runcan, Daniel-Ioan  1936 ROU AC  3.0  -B4   +W22  =BYE  +B13  =W11
+10 CM  Lim, Benjamin U      1927 NZL HP  3.0  -W3   =B19  =BYE  +W15  +B12
+11     Morrell, Gordon      2042 CAN AC  3.0  -B15  +W21  =B12  +W23  =B9
+12     Goodhue, Nathan      1968 NZL AC  2.5  -W1   +B20  =W11  +B16  -W10
+13     Krstev, Antonio      2034 NZL NS  2.5  +W18  -B2   =BYE  -W9   +B19
+14     Mistry, Prashant     2006 NZL NS  2.5  +B24  -W5   +B15  -W4   =B16
+15     Wright, Caleb        1864 NZL MM  2.0  +W11  -B7   -W14  -B10  +W20
+16 CM  Duneas, John         2034 NZL AC  2.0  +B22  =W4   -B6   -W12  =W14
+17     Johns, Daniel        1909 NZL NS  2.0  -B5   +W24  -B8   +W22  -B6
+18     Seabrook, Roy        1814 NZL AC  2.0  -B13  +W23  +B21  -W5   -B8
+19 CM  Nagorski, Alex       1859 NZL AC  1.5  -B8   =W10  -B23  +W24  -W13
+20 CM  Picken, Oliver       1866 NZL PT  1.5  -B6   -W12  =B24  +W21  -B15
+21     Mukkattu, Philip     1674 NZL AC  1.5  =BYE  -B11  -W18  -B20  +W23
+22     Hair, Philip         1847 NZL NS  1.5  -W16  -B9   =BYE  -B17  +W24
+23 WFM Zhang, Jasmine Haomo 1880 NZL AC  1.0  -W2   -B18  +W19  -B11  -B21
+24 WCM Qin, Nicole Shu Yu   1551 NZL AC  0.5  -W14  -B17  =W20  -B19  -B22
+
+2017 Trusts Open A Grade
+
+ 1  FM  Hague, Ben           2453 AC  5.0  +B21 +W10 =B3  +W15 +W2  =B4
+ 2  IM  Dive, Russell J      2426 WE  5.0  +W9  +BYE +B5  +W3  -B1  +W7
+ 3  FM  Smith, Robert W      2348 MC  4.5  +B18 +W16 =W1  -B2  +B15 +W10
+ 4  IM  Ker, Anthony F       2474 WE  4.5  =W13 +B17 =W15 +B21 +W5  =W1
+ 5  FM  Gong, Daniel Hanwen  2325 HP  4.0  +B23 +W24 -W2  +B7  -B4  +W11
+ 6  CM  Duneas, John         2164 AC  4.0  -B15 =W14 +B23 =W16 +B18 +W12
+ 7  FM  McLaren, Leonard J   2348 HP  3.5  =W17 +B22 +W8  -W5  +B16 -B2
+ 8  CM  Milligan, Helen      2116 NS  3.5  =W22 +B13 -B7  =W11 =B17 +W15
+ 9  CM  Lim, Benjamin U      2044 HP  3.5  -B2  +W20 =B10 -W12 +B25 +W16
+10  CM  Fan, Allen Chi Zhou  2174 AC  3.0  +W25 -B1  =W9  =B18 +BYE -B3
+11      Goodhue, Nathan      2093 AC  3.0  +B20 -BYE =W18 =B8  +W19 -B5
+12  FM  Steadman, Michael V  2309 AC  3.0  +W14 -B15 -W21 +B9  +W13 -B6
+13      Macdonald, Paul      2059 AC  3.0  =B4  -W8  =B14 +W20 -B12 +W17
+14  CM  Nagorski, Alex       1924 AC  3.0  -B12 =B6  =W13 -B19 +W24 +W25
+15  CM  Picken, Oliver       1882 PT  2.5  +W6  +W12 =B4  -B1  -W3  -B8
+16      Guico, Leonides      2073 WT  2.5  +W26 -B3  +W24 =B6  -W7  -B9
+17      Runcan, Daniel-Ioan  1995 AC  2.5  =B7  -W4  =W19 +B22 =W8  -B13
+18  WFM Zhang, Jasmine Haomo 2029 AC  2.5  -W3  +B26 =B11 =W10 -W6  =B19
+19      Morrell, Gordon      2178 AC  2.5  -B24 =W23 =B17 +W14 -B11 =W18
+20      Mukkattu, Philip     1817 AC  2.5  -W11 -B9  +W26 -B13 =W22 +B24
+21      Krstev, Antonio  (W) 2056 NS  2.0  -W1  +B25 +B12 -W4  -BYE
+22      Chen, Meng Boon Marc 1863     2.0  =B8  -W7  =B25 -W17 =B20 =W23
+23      Wright, Caleb        1942 MM  2.0  -W5  =B19 -W6  =B24 =W26 =B22
+24      Sarmiento, Noel      1906 WT  1.5  +W19 -B5  -B16 =W23 -B14 -W20
+25      Shen, Terry          1892 HP  1.5  -B10 -W21 =W22 +B26 -W9  -B14
+26  WCM Qin, Nicole Shu Yu   1763 AC  1.5  -B16 -W18 -B20 -W25 =B23 +BYE
+
+2017 Auckland Chess Centre ANZAC Weekender
+
+ 1 FM  Steadman, Michael V  2237 AC  5.5 +W32 +B21 +W5  =W6  +B8  +B7
+ 2 FM  Gong, Daniel Hanwen  2295 HP  5.0 +B31 =W12 =B3  +W20 +B16 +W6
+ 3 CM  Fan, Allen Chi Zhou  2044 AC  4.5 +W41 +B14 =W2  =B8  =W4  +B13
+ 4 IM  Garbett, Paul A      2218 NS  4.5 +B22 +W29 -B6  +W12 =B3  +W11
+ 5     Krstev, Antonio      2010 NS  4.5 +B30 +W33 -B1  =W14 +B19 +W12
+ 6 FM  Hague, Ben           2305 AC  4.0 +W23 +B13 +W4  =B1  =W7  -B2
+ 7     Polishchuk, Kirill   2122 MM  4.0 +B39 =W17 +B18 +W11 =B6  -W1
+ 8 FM  Kulashko, Alexei     2341 AC  4.0 +B19 +W16 =B11 =W3  -W1  +B17
+ 9     Lyall, Simon         1741 AC  4.0 -B33 +W30 +B34 +W31 -B11 +W16
+10 CM  Nagorski, Alex       1788 AC  4.0 +B34 -W11 =B22 =W18 +B31 +W20
+11     Thornton, Giovanni A 2144 NS  3.5 +W36 +B10 =W8  -B7  +W9  -B4
+12 WFM Zhang, Jasmine Haomo 1855 AC  3.5 +W35 =B2  +W15 -B4  +W22 -B5
+13 CM  Lim, Benjamin U      1931 HP  3.5 +B25 -W6  +B17 =W19 +B14 -W3
+14     Dai, Oliver          1666 HP  3.5 +B40 -W3  +B33 =B5  -W13 +W18
+15     Holdo, Karl          1640 AC  3.5 =BYE +W24 -B12 =W29 =B21 +W30
+16     Macdonald, Paul      2002 AC  3.0 +W26 -B8  +W23 +B32 -W2  -B9
+17     van den Heuvel, Arno 1747 NS  3.0 +W38 =B7  -W13 =BYE +B25 -W8
+18     Cooper, Nigel        1681 CA  3.0 =BYE +B37 -W7  =B10 +W32 -B14
+19     Liu, Xinyang         1583 AC  3.0 -W8  +B26 +W37 =B13 -W5  =B22
+20     Ha, Huy Minh (Timoth 1697 AC  3.0 -W37 +B41 +W40 -B2  +W23 -B10
+21 CM  Eade, Don            1844 AC  3.0 +B27 -W1  -B31 +W28 =W15 =B26
+22 WCM Braganza, Nadia      1465 NS  3.0 -W4  +B28 =W10 +B38 -B12 =W19
+23     Wang, Aaron Ziwen    1579 HP  3.0 -B6  +W25 -B16 +W27 -B20 +W33
+24     Taylor, David        1500 PT  3.0 =BYE -B15 =W38 +W34      +B35
+25     Qiu, Daniel          1285 HP  3.0 -W13 -B23 +W36 +B40 -W17 +B32
+26 WCM Lourenco, Eva        1327 NS  3.0 -B16 -W19 =B39 +W33 +B29 =W21
+27     Barry, Jacob         1227 AC  3.0 -W21 -B32 +W41 -B23 +W34 +B38
+28     Ghadiali, Saasha     1038 AC  3.0 -B29 -W22 +BYE -B21 +W40 +W31
+29     Peak, Stephen        1826 AC  2.5 +W28 -B4  -W32 =B15 -W26 +B37
+30 WCM Ghadiali, Renae      1329 AC  2.5 -W5  -B9  +W35 =B37 +W38 -B15
+31     Qin, Oscar Shu Xuan  1495 AC  2.0 -W2  +B35 +W21 -B9  -W10 -B28
+32 WCM Qin, Nicole Shu Yu   1493 AC  2.0 -B1  +W27 +B29 -W16 -B18 -W25
+33     Jin, Owen             911     2.0 +W9  -B5  -W14 -B26 +W36 -B23
+34     Weng, Xintong (Winst  945 AC  2.0 -W10 +B36 -W9  -B24 -B27 +W41
+35     Ning, Isabelle Yixua 1237 AC  2.0 -B12 -W31 -B30 +B41 +W37 -W24
+36     Wang, Ying           1411 AC  2.0 -B11 -W34 -B25 +W39 -B33 +W40
+37     Jain, Uday            883 AC  1.5 +B20 -W18 -B19 =W30 -B35 -W29
+38     Zhang, Kendrick       922 AC  1.5 -B17 +W39 =B24 -W22 -B30 -W27
+39     Liu, John            1394 AC  1.5 -W7  -B38 =W26 -B36 -W41 +BYE
+40     White, Calvin         622     1.0 -W14 +BYE -B20 -W25 -B28 -B36
+41     Patel, Rishit        1353 AC  1.0 -B3  -W20 -B27 -W35 +B39 -B34
+
+2017 Bay of Plenty Rapid A Group
+
+ 1  FM  Hague, Ben           2298  NZL  5.5  +B11  +W3   +B4   +W2   +B5   =W6
+ 2      Polishchuk, Kirill   2071  NZL  4.0  +W10  +B12  +W9   -B1   -W3   +B8
+ 3  FM  Gong, Daniel Hanwen  2061  NZL  4.0  +W15  -B1   +W12  +B7   +B2   -W4
+ 4  FM  Smith, Robert W      2192  NZL  4.0  +W14  +B8   -W1   -B5   +W7   +B3
+ 5      Fulo, Nunilon III    2054  PHI  4.0  -B7   +W13  +B6   +W4   -W1   +B11
+ 6  CM  Fan, Allen Chi Zhou  1910  NZL  3.5  -W8   +B14  -W5   +B16  +W10  =B1
+ 7  CM  Picken, Oliver             NZL  3.0  +W5   -B9   +W8   -W3   -B4   +B16
+ 8      Pinic, Noel          2066  NZL  3.0  +B6   -W4   -B7   +W13  +B11  -W2
+ 9  CM  Ang, Alphaeus Wei Er 2129  NZL  3.0  =B13  +W7   -B2   -W11  =B12  +W14
+10      Jackson, L Ross      1913  NZL  3.0  -B2   +W16  -B11  +W12  -B6   +W13
+11  CM  Bennett, Hilton P    1965  NZL  2.5  -W1   =B15  +W10  +B9   -W8   -W5
+12  CM  Lim, Benjamin U      1988  NZL  2.5  +W16  -W2   -B3   -B10  =W9   +B15
+13  CM  Milligan, Helen      1928  NZL  2.0  =W9   -B5   +W15  -B8   =W14  -B10
+14      Wright, Caleb        1947  NZL  2.0  -B4   -W6   =B16  +W15  =B13  -B9
+15      Carpinter, Bernard   1871  NZL  1.0  -B3   =W11  -B13  -B14  =W16  -W12
+16 WCM  Qin, Joy Shu Yan     1703  NZL  1.0  -B12  -B10  =W14  -W6   =B15  -W7
+
+2017 Oceania Zonal Open, Auckland, Howick Pakaranga
+
+  1 IM Smirnov, Anton    2519 AU 7.5 +W80  +B33  +W30  +B62  =W4   =B3   +W2   +B20  =W5
+  2 IM Ker, Anthony F    2300 NZ 7.0 +W37  +B34  +W25  -B3   +W17  +B11  -B1   +W22  +B13
+  3 GM Illingworth, Max  2481 AU 7.0 +B74  +W41  +B16  +W2   +B5   =W1   =B20  =W4   =B6
+  4 IM Dale, Ari         2333 AU 7.0 +B73  +W31  +B14  +W21  =B1   =W20  +B5   =B3   =W9
+  5 FM Zelesco, Karl     2345 AU 6.5 +W57  +B12  +W11  +B40  -W3   +B6   -W4   +B25  =B1
+  6    Choong, Yita      2275 AU 6.5 +W51  +B35  -W21  +B12  +W33  -W5   +B64  +B40  =W3
+  7 IM Lane, Gary W      2404 AU 6.5 +W24  +B27  -W40  +W15  =B13  =B21  +W41  +B11  =W10
+  8 FM Nakauchi, Gene    2238 AU 6.5 -W52  +B84  +W49  =B34  =W96  =B44  +W35  +B41  +W24
+  9 FM Kulashko, Alexei  2344 NZ 6.5 +B26  +W43  =B36  +W18  =B22  =W10  =B13  +W33  =B4
+ 10 CM Gong, Daniel Han  2090 NZ 6.5 +W101 =B67  +W38  =W23  +B19  =B9   =W30  +B48  =B7
+ 11 CM Hu, Jason         2181 AU 6.0 +B75  +W45  -B5   +W59  +B58  -W2   +B71  -W7   +B33
+ 12 CM Louie, Ryan       1972 AU 6.0 +B89  -W5   +B61  -W6   +B83  +W60  +B32  =W23  =B22
+ 13    Chan, Luis        2135 AU 6.0 +B61  -W15  +B53  +W54  =W7   +B34  =W9   +B30  -W2
+ 14    Mallari, Donato   2036 AU 6.0 +W84  +B52  -W4   +B50  -W30  =B63  +W51  =W19  +B40
+ 15    Tsai, Charles     1908 AU 6.0 +W107 +B13  =W20  -B7   -W64  +B92  +W66  +B62  =W16
+ 16    McLaren, Leonard  2254 NZ 6.0 +W82  +B69  -W3   =B96  +W66  -B41  +W44  +W27  =B15
+ 17    Kethro, Michael   2091 AU 6.0 +B81  -W60  +B83  +W26  -B2   +W45  =W48  +B49  =W30
+ 18    Chew Lee, Max     2204 AU 6.0 +W97  +B50  =W48  -B9   -W34  +B52  +W96  +B63  =W20
+ 19 FM Croad, Nicholas   2278 NZ 6.0 -B83  +W104 +B73  +W72  -W10  =B96  +W34  =B14  +W38
+ 20 FM Gong, Patrick     2303 AU 6.0 +B53  +W72  =B15  +W42  +B36  =B4   =W3   -W1   =B18
+ 21    Soo-Burrowes, El. 2040 AU 6.0 +B85  +W83  +B6   -B4   =W62  =W7   =B46  +W28  =B23
+ 22 IM Dive, Russell J   2304 NZ 6.0 +W65  =B96  +W63  +B29  =W9   =B40  +W24  -B2   =W12
+ 23 FM Hague, Ben        2333 NZ 6.0 =W68  +B79  +W66  =B10  +W25  =B30  =W40  =B12  =W21
+ 24    Winkelman, Albert 1860 AU 5.5 -B7   +W88  +B91  +W43  =B48  +W36  -B22  +W46  -B8
+ 25    Chan, Kris        2120 AU 5.5 +B78  +W71  -B2   +W45  -B23  +W58  +B42  -W5   =W26
+ 26 CM Davis, Tony J     1851 AU 5.5 -W9   +B90  +W103 -B17  +W81  -B35  +W59  +W42  =B25
+ 27    Perera, Pasan     2004 AU 5.5 +B88  -W7   +B75  +W92  -W40  =B50  +W55  -B16  +W71
+ 28 CM Ng, Clive         1997 AU 5.5 +W56  -B48  +W37  -B58  +W67  =B51  +W50  -B21  +W49
+ 29 CM Parsonage, Ian P  2043 AU 5.5 =W79  +B68  +W67  -W22  -B71  -B49  +W87  +B57  +W63
+ 30 FM Smith, Robert W   2238 NZ 5.5 +B99  +W59  -B1   +W44  +B14  =W23  =B10  -W13  =B17
+ 31    Goodhue, Nathan   1966 NZ 5.5 +W115 -B4   =W52  =B65  +W37  -BYE  =B47  +B53  +W50
+ 32    Zhang, Leo        2099 NZ 5.5 +W87  =B38  =W96  =B35  =W63  +B69  -W12  =B71  +W54
+ 33 CM Rains, Edward     2017 NZ 5.0 +B77  -W1   +B55  +W60  -B6   +W47  +W62  -B9   -W11
+ 34 CM Bennett, Hilton P 1955 NZ 5.0 +B95  -W2   +B78  =W8   +B18  -W13  -B19  +W83  =B46
+ 35    Fan,Allen Chi Zh. 1952 NZ 5.0 +B86  -W6   +B81  =W32  -B42  +W26  -B8   +B55  =W36
+ 36    Wheeler, Bruce    2120 NZ 5.0 +W98  +B58  =W9   +B48  -W20  -B24  -W63  +B67  =B35
+ 37    Eade, Don         1831 NZ 5.0 -B2   +W95  -B28  +W77  -B31  +W88  +B58  =W54  =B43
+ 38 CM Lam, Ross         1883 AU 5.0 +B113 =W32  -B10  +W94  -B41  =W75  +B77  +W64  -B19
+ 39    Notley, David G   2036 NZ 5.0 -B92  +W85  -B99  -W81  +B90  +W97  =B80  +W60  =B45
+ 40 IM Garbett, Paul A   2229 NZ 5.0 +B55  +W54  +B7   -W5   +B27  =W22  =B23  -W6   -W14
+ 41    James, Jack       2012 NZ 5.0 +W100 -B3   =W65  +B52  +W38  +W16  -B7   -W8   =B47
+ 42 CM Yan, Matthew      2019 AU 5.0 +W76  =B49  +W64  -B20  +W35  =B62  -W25  -B26  +W80
+ 43    Huang, Alex       1993 NZ 5.0 +W90  -B9   +W51  -B24  +W53  =B55  -W49  +B68  =W37
+ 44    Yu, Bobby         1955 AU 5.0 +W103 -B62  +W98  -B30  +W70  =W8   -B16  +B51  =W48
+ 45    Wang, Tony        1913 NZ 5.0 +W105 -B11  +W76  -B25  +W97  -B17  =W53  +B56  =W39
+ 46    Polishchuk,Kirill 2175 NZ 5.0 -W49  -B76  +W114 +B56  +W65  +B59  =W21  -B24  =W34
+ 47    Zhang, William J  1856 NZ 5.0 -W48  -B56  +W106 +B87  +W78  -B33  =W31  +B96  =W41
+ 48 FM Wastney, Scott    2350 NZ 5.0 +B47  +W28  =B18  -W36  =W24  +BYE  =B17  -W10  =B44
+ 49    Crowley, Regan    1761 AU 4.5 +B46  =W42  -B8   -B63  +W56  +W29  +B43  -W17  -B28
+ 50 CM Narenthran, Thar. 1909 AU 4.5 +B93  -W18  +B77  -W14  +B61  =W27  -B28  +W86  -B31
+ 51 CM Willathgamuwa, R  1806 AU 4.5 -B6   +W86  -B43  +W88  +B72  =W28  -B14  -W44  +B90
+ 52    Plaganyi, Gyula   1790 AU 4.5 +B8   -W14  =B31  -W41  +B102 -W18  -B86  +W108 +B88
+ 53    Maligin, William  1834 AU 4.5 -W20  +B108 -W13  +B84  -B43  +W76  =B45  -W31  +B85
+ 54    Nicholls,Leighton 1929 NZ 4.5 +W106 -B40  +W101 -B13  -W55  +B78  +W65  =B37  -B32
+ 55    Korenevski, Oleg  1782 AU 4.5 -W40  +B106 -W33  +B95  +B54  =W43  -B27  -W35  +B86
+ 56    Fikh, Anthony     1553 AU 4.5 -B28  +W47  =B71  -W46  -B49  +W95  +B99  -W45  +B83
+ 57    Picken, Oliver    1853 NZ 4.5 -B5   -W89  -B95  +W74  +B110 +W99  =B72  -W29  +B94
+ 58    Louie, Jared      1895 AU 4.5 +B111 -W36  +B89  +W28  -W11  -B25  -W37  +B92  =W62
+ 59    Crossman, Tom     1945 AU 4.5 +W114 -B30  +W87  -B11  +W82  -W46  -B26  +B79  =W70
+ 60    Russell, Paul     1882 AU 4.5 +W116 +B17  -W62  -B33  +W98  -B12  +W94  -B39  =W64
+ 61    Buciu,Aurel-John  1718 AU 4.5 -W13  +B107 -W12  +B111 -W50  =B68  -W70  +B100 +W96
+ 62 CM Ang,Alphaeus Wei  2271 NZ 4.5 +B70  +W44  +B60  -W1   =B21  =W42  -B33  -W15  =B58
+ 63    Lim, Benjamin U   1920 NZ 4.5 =B104 +W102 -B22  +W49  =B32  =W14  +B36  -W18  -B29
+ 64    Duneas, John      2054 NZ 4.5 =B94  +W92  -B42  +W68  +B15  =W71  -W6   -B38  =B60
+ 65    Zhao, Isaac       1838 AU 4.5 -B22  +W110 =B41  =W31  -B46  +W79  -B54  +W77  =B72
+ 66    Bhat, Vishal      1995 AU 4.5 =B102 +W94  -B23  +W99  -B16  +W73  -B15  =W80  =B75
+ 67 CM Chan, Anthony     1881 AU 4.5 +B109 =W10  -B29  +W102 -B28  =W94  =B75  -W36  +B87
+ 68    Taylor, Richard   1848 NZ 4.5 =B23  -W29  +B104 -B64  =W79  =W61  +B85  -W43  +B84
+ 69    Yee, Stanley      1931 NZ 4.5 +B91  -W16  -B92  +W85  +B99  -W32  =B83  =W75  =B73
+ 70    Dragalchuk, Vlad  1800 AU 4.5 -W62  -B103 +W105 +B89  -B44  =W86  +B61  =W72  =B59
+ 71 CM Kempen, Leon      1887 AU 4.5 +W112 -B25  =W56  +B79  +W29  =B64  -W11  =W32  -B27
+ 72 CM Kumar, Manoj      1962 FJ 4.5 +W108 -B20  +W97  -B19  -W51  +B98  =W57  =B70  =W65
+ 73    Rains, Timothy    1839 NZ 4.5 -W4   +B115 -W19  +B101 =W92  -B66  =W100 +B76  =W69
+ 74    Yung, Cameron     1862 AU 4.5 -W3   =B100 -W79  -B57  +W109 +B103 =W92  =B84  +W81
+ 75    Nagorski, Alex    1771 NZ 4.5 -W11  +B105 -W27  =B103 +W100 =B38  =W67  =B69  =W66
+ 76    Renjith, Sravan   1612 NZ 4.0 -B42  +W46  -B45  -W83  +B113 -B53  +W82  -W73  +B99
+ 77    Wang,Aaron Ziwen  1598 NZ 4.0 -W33  +B80  -W50  -B37  +W114 +B82  -W38  -B65  +W97
+ 78    Lu, Lillian       1710 AU 4.0 -W25  +B112 -W34  +B109 -B47  -W54  -B90  +W111 +W100
+ 79    Lim, Christopher  1691 AU 4.0 =B29  -W23  +B74  -W71  =B68  -B65  +W115 -W59  +B102
+ 80    Hair, Philip I    1877 NZ 4.0 -B1   -W77  -B102 +W106 +W89  +B81  =W39  =B66  -B42
+ 81    Shen, Terry       1706 NZ 3.5 -W17  +B116 -W35  +B39  -B26  -W80  +B89  =W88  -B74
+ 82    Lane, Ryan        1793 AU 3.5 -B16  -W91  +B86  +W110 -B59  -W77  -B76  =W102 +B109
+ 83    Lin, Kerry        1828 AU 3.5 +W19  -B21  -W17  +B76  -W12  +B84  =W69  -B34  -W56
+ 84    Shen, Kevin       1672 AU 3.5 -B14  -W8   +B93  -W53  +B91  -W83  +B97  =W74  -W68
+ 85    Jacobs, Hilton J  1678 NZ 3.5 -W21  -B39  +W107 -B69  =W95  +B93  -W68  +B104 -W53
+ 86    Dias, Douglas     1399 AU 3.5 -W35  -B51  -W82  +B112 +W101 =B70  +W52  -B50  -W55
+ 87    Borg, Zen         1709 FJ 3.5 -B32  +W113 -B59  -W47  =B108 +W102 -B29  +W91  -W67
+ 88    Oka, Hikaru       1559 AU 3.5 -W27  -B24  +W112 -B51  +W111 -B37  +W98  =B81  -W52
+ 89    Hooton, Barry R   1478 NZ 3.5 -W12  +B57  -W58  -W70  -B80  +B116 -W81  =B103 +W104
+ 90    Li, Rodney Xiang  1525 NZ 3.5 -B43  -W26  -B111 +W105 -W39  +B113 +W78  =B94  -W51
+ 91    Qin, Oscar Shu X  1375 NZ 3.5 -W69  +B82  -W24  -B97  -W84  +B101 =W103 -B87  +W105
+ 92    Cooper, Nigel     1643 NZ 3.5 +W39  -B64  +W69  -B27  =B73  -W15  =B74  -W58  =B95
+ 93    Oka, Tsukasa      1276 AU 3.5 -W50  -B97  -W84  =B115 +B107 -W85  =B110 =W114 +B108
+ 94    Kumar, Viney      1703 AU 3.5 =W64  -B66  +W100 -B38  +W103 =B67  -B60  =W90  -W57
+ 95    Dai, Oliver       1432 NZ 3.5 -W34  -B37  +W57  -W55  =B85  -B56  =W101 +B98  =W92
+ 96 CM Willathgamuwa, K  1966 AU 3.5 +B110 =W22  =B32  =W16  =B8   =W19  -B18  -W47  -B61
+ 97    Cabunagan, Tito   1779 PW 3.0 -B18  +W93  -B72  +W91  -B45  -B39  -W84  +W110 -B77
+ 98    Booth, Anthony J  1716 NZ 3.0 -B36  +W111 -B44  +W113 -B60  -W72  -B88  -W95  +B114
+ 99    Gold, Hamish R    1792 NZ 3.0 -W30  +B114 +W39  -B66  -W69  -B57  -W56  +B115 -W76
+100    Prasad, Rudr      1566 FJ 3.0 -B41  =W74  -B94  +W104 -B75  +W108 =B73  -W61  -B78
+101    Mukkattu, Philip  1705 NZ 3.0 -B10  +W109 -B54  -W73  -B86  -W91  =B95  +W112 =B103
+102    Perrin, Kevin J   1537 AU 3.0 =W66  -B63  +W80  -B67  -W52  -B87  +W114 =B82  -W79
+103    Archer, Saffron   1417 AU 3.0 -B44  +W70  -B26  =W75  -B94  -W74  =B91  =W89  =W101
+104    Li, Leo Xiang Yu  1322 NZ 2.5 =W63  -B19  -W68  -B100 -B105 +W106 +B109 -W85  -B89
+105    Qiu, Daniel       1295 NZ 2.5 -B45  -W75  -B70  -B90  +W104 =W110 -B108 +W116 -B91
+106    Nylund, Timothy   1346 NZ 2.5 -B54  -W55  -B47  -B80  =W115 -B104 +W113 -W109 +B116
+107    Barry, Jacob      1224 NZ 2.5 -B15  -W61  -B85  -B108 -W93  -B112 +W116 +W113 =B110
+108    Murdoch, Stephen  1438 NZ 2.5 -B72  -W53  -B109 +W107 =W87  -B100 +W105 -B52  -W93
+109    Madden, Danny          NZ 2.5 -W67  -B101 +W108 -W78  -B74  =B114 -W104 +B106 -W82
+110    Liu, John         1440 NZ 2.5 -W96  -B65  +W116 -B82  -W57  =B105 =W93  -B97  =W107
+111    Dukeson, Ryan     1150 NZ 2.0 -W58  -B98  +W90  -W61  -B88  -B115 +W112 -B78  -B113
+112    Gao, Hugh         1121 NZ 2.0 -B71  -W78  -B88  -W86  -B116 +W107 -B111 -B101 +W115
+113    Yuan, Kimberley    962 NZ 2.0 -W38  -B87  +W115 -B98  -W76  -W90  -B106 -B107 +W111
+114    Nylund, Benjamin  1390 NZ 2.0 -B59  -W99  -B46  +W116 -B77  =W109 -B102 =B93  -W98
+115    Nylund, Micah     1477 NZ 2.0 -B31  -W73  -B113 =W93  =B106 +W111 -B79  -W99  -B112
+116    Zhao, Jay Zi Xuan  781 NZ 1.0 -B60  -W81  -B110 -B114 +W112 -W89  -B107 -B105 -W106
+
+2017 Oceania Zonal Women, Auckland, Howick Pakaranga
+
+ 1 WFM Timergazi, Layla     2069 NZL  7.5  +W18 +B15 +W4  +B3  -W2  +B11 +W8  +B5  =W9
+ 2     Hardegen, Kathryn    1797 AUS  6.5  +B19 =W11 =B6  +W7  +B1  =W3  -B5  +W10 +B8
+ 3     Chibnall, Alana      1842 AUS  6.5  +W8  +B16 +W9  -W1  +B5  =B2  =W11 =B4  +W15
+ 4 WCM Guo, Zhi Lin         1872 AUS  6.0  +B12 +W5  -B1  =W6  -B11 +W19 +B16 =W3  +W17
+ 5 WCM Zhang, Jasmine Haomo 1719 NZL  6.0  +W23 -B4  +W13 +B17 -W3  +B18 +W2  -W1  +B11
+ 6     Yao, Licia           1687 AUS  5.5  +B24 =W7  =W2  =B4  +W16 -B8  -W9  +B14 +W18
+ 7 WIM Lane, Nancy L        1902 AUS  5.0  =W17 =B6  +W18 -B2  -W8  -B13 +W23 +B24 +B21
+ 8     Qin, Nicole Shu Yu   1327 NZL  5.0  -B3  +W14 =B10 +W12 +B7  +W6  -B1  =W11 -W2
+ 9 CM  Milligan, Helen      2062 NZL  5.0  +B21 +W10 -B3  -W11 =B19 =W17 +B6  =W16 =B1
+10     Punsalan, Vyanla M   1782 NZL  5.0  +W13 -B9  =W8  =B16 =W17 =B15 +W18 -B2  +B20
+11     Qin, Joy Shu Yan     1708 NZL  5.0  +W20 =B2  =W17 +B9  +W4  -W1  =B3  =B8  -W5
+12     Braganza, Nadia      1489 NZL  4.5  -W4  +B23 =W15 -B8  +W14 -B16 +W13 -B17 +B22
+13     Lourenco, Eva        1272 NZL  4.5  -B10 +W24 -B5  +W20 -B18 +W7  -B12 +W22 =B16
+14     Ghadiali, Renae       991 NZL  4.5  -W16 -B8  =B21 +W24 -B12 +W22 +B20 -W6  +B23
+15 WFM Smith, Vivian J      1741 NZL  4.5  +B22 -W1  =B12 -W18 +B20 =W10 =B17 +W19 -B3
+16     Lim, Cassandra       1711 AUS  4.5  +B14 -W3  +B19 =W10 -B6  +W12 -W4  =B9  =W13
+17     Chew Lee, Alanna     1597 AUS  4.5  =B7  +W21 =B11 -W5  =B10 =B9  =W15 +W12 -B4
+18     Shen, Fiona          1658 AUS  4.0  -B1  +W22 -B7  +B15 +W13 -W5  -B10 +W21 -B6
+19     Chen, Paula          1279 AUS  4.0  -W2  +B20 -W16 +B23 =W9  -B4  +W21 -B15 =W24
+20     Lal, Krystal          692 NZL  2.5  -B11 -W19 +B22 -B13 -W15 +B24 -W14 =B23 -W10
+21     Parrado, Angelica    1655 PLW  2.5  -W9  -B17 =W14 -B22 +W24 +W23 -B19 -B18 -W7
+22     Prasad, Tanvi        1265 FIJ  2.0  -W15 -B18 -W20 +W21 +B23 -B14 -W24 -B13 -W12
+23     Ghadiali, Saasha     1035 NZL  1.5  -B5  -W12 +B24 -W19 -W22 -B21 -B7  =W20 -W14
+24     Oka, Itsuki           403 AUS  1.5  -W6  -B13 -W23 -B14 -B21 -W20 +B22 -W7  =B19
+
+2017 Wellington Open
+
+  1 IM  Ker, Anthony F       2474  NZL  5.5  +W31  +B18  +W10  =B2   +W4   +B6
+  2 FM  Croad, Nicholas      2375  NZL  5.5  +W26  +B15  +W16  =W1   +B5   +B12
+  3     Polishchuk, Kirill   2225  NZL  4.5  =BYE  +B24  =W7   +B11  =W12  +B13
+  4 IM  Dive, Russell J      2426  NZL  4.0  +B14  =W12  +B6   +W8   -B1   =W5
+  5 CM  James, Jack          2145  NZL  4.0  +W25  +B11  +W8   =B12  -W2   =B4
+  6     Nyberg, Michael      2032  NZL  4.0  +W28  +B13  -W4   +B16  +B17  -W1
+  7     Goodhue, Nathan      2093  NZL  4.0  +B30  =W19  =B3   =W9   =B13  +W22
+  8 FM  Steadman, Michael V  2309  NZL  4.0  +B29  +W9   -B5   -B4   +W25  +B15
+  9     Wells, Clinton A     1934  NZL  4.0  +W33  -B8   +W21  =B7   =W15  +B18
+ 10     Jackson, L Ross      2054  NZL  4.0  +B37  +W27  -B1   -W13  +B29  +W17
+ 11     Masters, Andrew      1911  NZL  4.0  +B35  -W5   +B34  -W3   +B24  +W20
+ 12     Quere, Alexandre     2022  FRA  3.5  +W21  =B4   +B19  =W5   =B3   -W2
+ 13     Chen, Wei Kai        1732  NZL  3.5  +B17  -W6   +B38  +B10  =W7   -W3
+ 14     Winter, Ryan         1715  NZL  3.5  -W4   -B21  =W24  +W38  +B34  +B23
+ 15     Rossiter, Philip E   1945  NZL  3.0  +B36  -W2   +B30  =W23  =B9   -W8
+ 16     Heppenstall, Lara    1506  CAN  3.0  +B20  +W22  -B2   -W6   -W19  +B31
+ 17     O'Brien, Jarrod            NZL  3.0  -W13  +BYE  +B27  +B18  -W6   -B10
+ 18 WFM Zhang, Jasmine Haomo 2029  NZL  3.0  +B34  -W1   +B29  -W17  +B27  -W9
+ 19     Lyall, Simon         1819  NZL  3.0  +B32  =B7   -W12  -W20  +B16  =W27
+ 20     Nicholls, Leighton   2057  NZL  3.0  -W16  +B28  =W25  +B19  =W23  -B11
+ 21     Sinclair, Zephan     1313  NZL  3.0  -B12  +W14  -B9   -W27  +B38  +W29
+ 22     Cooper, Nigel        1821  NZL  3.0  =W24  -B16  +W28  =B25  +W26  -B7
+ 23     Robinson, John             NZL  3.0  =BYE  =BYE  +W26  =B15  =B20  -W14
+ 24     Benitez, Edgar             NZL  2.5  =B22  -W3   =B14  +W34  -W11  =B25
+ 25     Sole, Michael D      1586  NZL  2.5  -B5   +W35  =B20  =W22  -B8   =W24
+ 26     Wight, Joshua        1629  NZL  2.5  -B2   +W36  -B23  +W32  -B22  =W28
+ 27     List, Robert         1747  NZL  2.5  +W38  -B10  -W17  +B21  -W18  =B19
+ 28     He, Caleb            1416  NZL  2.5  -B6   -W20  -B22  +W37  +W35  =B26
+ 29     Murdoch, Stephen     1608  NZL  2.0  -W8   +B33  -W18  +B35  -W10  -B21
+ 30     Meravanage, Satwi(W) 1524  NZL  2.0  -W7   +B32  -W15  +B33
+ 31     Day, Fabian          1726  NZL  2.0  -B1   -W34        +W36  +B32  -W16
+ 32     Daley, Monty               NZL  2.0  -W19  -W30  +B36  -B26  -W31  +BYE
+ 33     Stannard, Lars       1260  NZL  2.0  -B9   -W29  +B37  -W30  -B36  +W38
+ 34     Del Favero, Marcus   1410  NZL  1.5  -W18  +B31  -W11  -B24  -W14  =B35
+ 35     He, Paul             1051  NZL  1.5  -W11  -B25  +BYE  -W29  -B28  =W34
+ 36     Burt, James          1291  NZL  1.5  -W15  -B26  -W32  -B31  +W33  =B37
+ 37     Stannard, Bobby      1481  NZL  1.5  -W10  -B38  -W33  -B28  +BYE  =W36
+ 38     Legner, James              NZL  1.0  -B27  +W37  -W13  -B14  -W21  -B33
+
+2017 124th NZ Congress Open, Wellington
+
+1  IM Dale, Ari            2333 AUS  7.5  +W25 +B11 +W20 =B7  =W4  +B2  +W3  +B10 =W5
+2  FM Wastney, Scott       2417 NZL  7.0  -B37 +W31 +B32 +W24 +B12 -W1  +B15 +W8  +B11
+3  FM Smith, Robert        2324 NZL  6.5  +B36 +W24 +B12 +B9  +W7  =W10 -B1  =W6  =B4
+4  FM Reilly, Tim          2166 AUS  6.5  +B48 +W37 +B10 =W14 =B1  =W5  =B6  +B9  =W3
+5  CM Gong, Daniel Hanwen  2255 NZL  6.5  +B50 +W19 -W7  +B21 +W26 =B4  =W8  +B20 =B1
+6  IM Dive, Russell        2440 NZL  6.5  +W39 -B20 +W25 =B16 +W28 +B22 =W4  =B3  +W10
+7  IM Ker, Anthony         2461 NZL  6.0  +B18 +W15 +B5  =W1  -B3  +W16 -B10 =W21 +B22
+8  CM Peng, Shunkai        2021 CHN  6.0  +B58 +W23 =B14 =B13 =W9  +W17 =B5  -B2  +W20
+9  FM Lukey, Stephen       2356 NZL  6.0  +B34 +W16 +B17 -W3  =B8  =W15 +B23 -W4  +B21
+10 FM Croad, Nicholas      2398 NZL  5.5  +W30 +B21 -W4  +B11 +W20 =B3  +W7  -W1  -B6
+11 CM Forster, William     2081 NZL  5.5  +B33 -W1  +B48 -W10 =B43 +W36 +B12 +W16 -W2
+12    Fan, Allen Chi Zhou  2153 NZL  5.5  +W27 +B53 -W3  +B19 -W2  =B24 -W11 +W25 +B34
+13    Morrell, Gordon      2181 CAN  5.5  +B45 =W32 +B29 =W8  =B15 =W14 =B21 =W22 =W18
+14 FM Green, Ewen          2255 NZL  5.5  +W44 +B26 =W8  =B4  =W22 =B13 -W20 =B24 +W28
+15    James, Jack          2125 NZL  5.5  +W51 -B7  +W43 +B56 =W13 =B9  -W2  =B27 +W26
+16 WFM Timergazi, Layla    2117 NZL  5.5  +W40 -B9  +W27 =W6  +B50 -B7  +W28 -B11 +W24
+17    Nijman, Brian        2192 NZL  5.5  +W43 +B22 -W9  -B26 +W39 -B8  =W38 +B36 +W27
+18    Watharow, Sean       1949 AUS  5.5  -W7  -B27 +W38 +B51 +W52 -B21 +W30 +W23 =B13
+19    Kulkarni, Yogesh     2029 NZL  5.5  +W54 -B5  +W52 -W12 +B45 -B20 =W24 +B38 +W29
+20 CM Rains, Edward        2123 NZL  5.0  +B31 +W6  -B1  +W37 -B10 +W19 +B14 -W5  -B8
+21    Perry, Roger         2114 NZL  5.0  +B46 -W10 +B45 -W5  +B25 +W18 =W13 =B7  -W9
+22    Goodhue, Nathan      2035 NZL  5.0  +B49 -W17 +B33 +W23 =B14 -W6  +W29 =B13 -W7
+23 CM Milligan, Helen      2178 NZL  5.0  +W47 -B8  +W44 -B22 +W30 +B26 -W9  -B18 +W40
+24    Jackson, L Ross      2049 NZL  4.5  +W55 -B3  +W51 -B2  +W27 =W12 =B19 =W14 -B16
+25    Jellyman, Riley      1838 NZL  4.5  -B1  +W38 -B6  +W46 -W21 +B51 +W32 -B12 =W30
+26    Yee, Stanley         2049 NZL  4.5  +B38 -W14 +B41 +W17 -B5  -W23 +B37 =W34 -B15
+27    Lu, Lillian          1710 AUS  4.5  -B12 +W18 -B16 +W34 -B24 +BYE +W39 =W15 -B17
+28    Nicholls, Leighton   2076 NZL  4.5  -W52 =B35 +W40 +W29 -B6  +W50 -B16 +W46 -B14
+29    Fuatai, Fuatai       2106 NZL  4.5  =W42 +B52 -W13 -B28 +W40 +W37 -B22 +W43 -B19
+30    Picken, Oliver       1900 NZL  4.5  -B10 -W33 +B58 +W31 -B23 +W41 -B18 +W50 =B25
+31    Wight, Joshua        1629 NZL  4.5  -W20 -B2  +W54 -B30 +W55 -B35 +W42 +B39 =W36
+32    Christie, Richie     1974 NZL  4.5  +W57 =B13 -W2  =W50 =B33 =W43 -B25 =B35 +W44
+33    Oka, Hikaru          1559 AUS  4.5  -W11 +B30 -W22 +B44 =W32 -B39 -B36 +BYE +W43
+34    Rossiter, Philip     1900 NZL  4.5  -W9  -B51 +W55 -B27 +W42 +B52 +W35 =B26 -W12
+35    Pomeroy, Arthur      2137 NZL  4.5  =B41 =W28 -B50 +W36 -B37 +W31 -B34 =W32 +B46
+36    Brockway, Andrew     1826 NZL  4.0  -W3  =B40 +W42 -B35 +W56 -B11 +W33 -W17 =B31
+37    Post, Martin         1936 NZL  4.0  +W2  -B4  +W53 -B20 +W35 -B29 -W26 -B40 +W50
+38    Dias, Douglas        1399 AUS  4.0  -W26 -B25 -B18 +W47 +B48 +W45 =B17 -W19 =B41
+39    Barraza Perez, Jesus 1947 NZL  4.0  -B6  +W46 -B56 +W41 -B17 +W33 -B27 -W31 +B47
+40    Murdoch, Stephen     1593 NZL  4.0  -B16 =W36 -B28 +W49 -B29 +W48 =B50 +W37 -B23
+41    Austin, Tama         1681 NZL  4.0  =W35 =B42 -W26 -B39 +W54 -B30 +W49 =B44 =W38
+42    Reid, Anton          1583 NZL  4.0  =B29 =W41 -B36 -W45 -B34 +W53 -B31 +B51 +W52
+43    Shaw, Robin          1778 AUS  3.5  -B17 +W58 -B15 +W53 =W11 =B32 =W44 -B29 -B33
+44    Gold, Hamish         1788 NZL  3.5  -B14 +W49 -B23 -W33 =B46 +W47 =B43 =W41 -B32
+45    Stracy, Don          1747 NZL  3.5  -W13 +B54 -W21 +B42 -W19 -B38 =W52 -BYE +B53
+46    Winter, Ryan         1592 NZL  3.5  -W21 -B39 +W57 -B25 =W44 +B49 +W51 -B28 -W35
+47    Pakenham, John       1724 NZL  3.5  -B23 -W56 =B49 -B38 +W58 -B44 +W55 +B52 -W39
+48    Cunningham, Patrick  1717 NZL  3.5  -W4  +B57 -W11 -B52 -W38 -B40 =B54 +W55 +B58
+49    Oka, Itsuki             0 AUS  3.5  -W22 -B44 =W47 -B40 +B57 -W46 -B41 +W58 +B54
+50    List, Robert         1780 NZL  3.0  -W5  +B55 +W35 =B32 -W16 -B28 =W40 -B30 -B37
+51    Wevers, Alexis       1649 NZL  3.0  -B15 +W34 -B24 -W18 +B53 -W25 -B46 -W42 +B57
+52    Lukey, Bryce         1526 NZL  2.5  +B28 -W29 -B19 +W48 -B18 -W34 =B45 -W47 -B42
+53    Oka, Tsukasa         1276 AUS  2.5  +BYE -W12 -B37 -B43 -W51 -B42 +B57 =W54 -W45
+54    He, Caleb            1145 NZL  2.5  -B19 -W45 -B31 +W57 -B41 =B55 =W48 =B53 -W49
+55    Zhao, Aiden Tyler    1298 NZL  2.5  -B24 -W50 -B34 +W58 -B31 =W54 -B47 -B48 +BYE
+56    Molina Barrera,G (W) 2038 MEX  2.0       +B47 +W39 -W15 -B36 -BYE
+57    Luukonen, Marius      694 NZL  2.0  -B32 -W48 -B46 -B54 -W49 +B58 -W53 +BYE -W51
+58    He, Paul              957 NZL  1.0  -W8  -B43 -W30 -B55 -B47 -W57 +BYE -B49 -W48
+
+2016 North Shore Open A Grade
+
+ 1     McLaren, Leonard J     2340 NZL  4.5  +W11   +B10   +W9    +W2    =B4
+ 2 FM  Hague, Ben             2480 NZL  4.0  +W16   +B4    +W3    -B1    +W6
+ 3     Polishchuk, Kirill     2231 NZL  4.0  +W12   +B7    -B2    +W5    +B8
+ 4 CM  Ang, Alphaeus Wei Er   2210 NZL  3.5  +B15   -W2    +B12   +B9    =W1
+ 5     Morrell, Gordon        2161 CAN  3.5  =W8    +B13   +W7    -B3    +W9
+ 6     Capel, Evan T          2411 MAS  3.0  -B9    +B8    +W11   +W10   -B2
+ 7 CM  Gong, Daniel Hanwen    2264 NZL  3.0  +B17   -W3    -B5    +W12   +B16
+ 8     Picken, Oliver         1751 NZL  2.5  =B5    -W6    +W14   +B15   -W3
+ 9     Fan, Allen Chi Zhou    2053 NZL  2.0  +W6    +B14   -B1    -W4    -B5
+10     Browne, Jeremy A       2136 NZL  2.0  +B18   -W1    =BYE   -B6    =W13
+11     Johns, Daniel P        1979 NZL  2.0  -B1    +W18   -B6    =W16   =B17
+12 WCM Zhang, Jasmine Haomo   1940 NZL  2.0  -B3    +W17   -W4    -B7    +W15
+13     Goodhue, Nathan        2036 NZL  2.0  =BYE   -W5    -B16   +W18   =B10
+14     Duneas, John           2205 NZL  2.0  =BYE   -W9    -B8    =W17   +B18
+15     Riding, Christopher    1844 NZL  1.5  -W4    +B16   =BYE   -W8    -B12
+16     Krstev, Antonio        2086 NZL  1.5  -B2    -W15   +W13   =B11   -W7
+17     Hair, Philip I         1942 NZL  1.5  -W7    -B12   =BYE   =B14   =W11
+18     Ha, Huy Minh (Timothy) 1746 VIE  0.5  -W10   -B11   =BYE   -B13   -W14
+
+2016 Trusts Open A Grade
+
+1  FM Hague, Ben            2428 NZL  6.0 +B17 +W16 +B8  +W4  +B5  +W3
+2  FM Noble, Mark F         2307 NZL  4.5 +B20 +W14 -B4  +W15 +B13 =W7
+3  IM Dive, Russell J       2452 NZL  4.0 +B12 +W9  =B5  +W16 =B4  -B1
+4  FM Kulashko, Alexei      2429 NZL  4.0 +W22 +B7  +W2  -B1  =W3  =B6
+5  NM McLaren, Leonard J    2330 NZL  4.0 +W19 +B13 =W3  +B6  -W1  =B10
+6  FM Smith, Robert W       2337 NZL  4.0 +B11 +W15 +B23 -W5  =B7  =W4
+7     Duneas, John          2220 NZL  4.0 +B29 -W4  +B11 +W23 =W6  =B2
+8     McNabb, Matthew D     2187 NZL  4.0 +B24 +W10 -W1  -B13 +W14 +B15
+9     Thornton, Giovanni A  2235 NZL  3.5 +W18 -B3  +W17 =B14 -W10 +W13
+10 IM Garbett, Paul A       2346 NZL  3.5 +W27 -B8  -W13 +B19 +B9  =W5
+11    Macdonald, Paul       2040 NZL  3.5 -W6  +B30 -W7  =B18 +W27 +B21
+12 CM Forster, William      2075 NZL  3.5 -W3  -B18 +W28 =B26 +W22 +B20
+13    James, Jack           2097 NZL  3.0 +B25 -W5  +B10 +W8  -W2  -B9
+14    Li, William Xiang We  2149 NZL  3.0 +W26 -B2  +W18 =W9  -B8  =B17
+15 CM Vincenti, David       2180 MLT  3.0 +W30 -B6  +W20 -B2  +W24 -W8
+16 CM Gong, Daniel Hanwen   2218 NZL  3.0 +W28 -B1  +W19 -B3  =W17 =B18
+17 CM Bennett, Hilton P     2052 NZL  3.0 -W1  +B28 -B9  +W24 =B16 =W14
+18 CM Marko, Helmut S       1993 PNG  3.0 -B9  +W12 -B14 =W11 +B25 =W16
+19    Lim, Benjamin U       2037 NZL  3.0 -B5  +W25 -B16 -W10 +B29 +W23
+20    Runcan, Daniel I      2004 ROU  2.5 -W2  +B26 -B15 =W21 +B23 -W12
+21 WFM Timergazi, Layla     2152 NZL  2.5 -B23 +W29 -B24 =B20 +W26 -W11
+22    Goodhue, Nathan       2074 NZL  2.5 -B4  -W23 +B30 =W25 -B12 +B24
+23    Ha, Huy Minh          1850 VIE  2.0 +W21 +B22 -W6  -B7  -W20 -B19
+24    Sarmiento, Noel       1922 NZL  2.0 -W8  +B27 +W21 -B17 -B15 -W22
+25 WCM Zhang, Jasmine Haomo 1859 NZL  2.0 -W13 -B19 +W27 =B22 -W18 =B26
+26    Shen, Terry           1813 NZL  2.0 -B14 -W20 +B29 =W12 -B21 =W25
+27    Fan, Allen Chi Zhou   2047 NZL  2.0 -B10 -W24 -B25 +W30 -B11 +W28
+28    Wright, Caleb         1982 NZL  1.0 -B16 -W17 -B12 =W29 =B30 -B27
+29    Lyall, Simon          1988 NZL  1.0 -W7  -B21 -W26 =B28 -W19 =W30
+30    Gilmour, Mark         1850 NZL  1.0 -B15 -W11 -W22 -B27 =W28 =B29
+
+2016 Wellington Open
+
+ 1 FM Wastney, Scott       2448 NZL  5.5  +W17  +B9   +W10  +B6   +W5   =B2
+ 2 FM Croad, Nicholas      2412 NZL  5.0  +W31  +B8   +W11  =B5   +W13  =W1
+ 3 IM Dive, Russell J      2452 NZL  5.0  +B23  +W12  =B13  =W4   +B18  +W7
+ 4    Thornton, Giovanni A 2235 NZL  5.0  +W24  =B7   +W12  =B3   +W9   +B8
+ 5 IM Ker, Anthony F       2415 NZL  4.5  +B25  +W16  +B19  =W2   -B1   +W15
+ 6 FM Steadman, Michael V  2338 NZL  4.5  +B32  +W18  +B14  -W1   =B15  +B13
+ 7    Nicholls, Leighton   1985 NZL  4.0  +B43  =W4   =B16  +W19  +B14  -B3
+ 8    Jackson, L Ross      2027 NZL  4.0  +B36  -W2   +B32  +W21  +B16  -W4
+ 9    Goodhue, Nathan      2074 NZL  4.0  +B35  -W1   +B25  +W23  -B4   +W21
+10    Nijman, Brian        2141 NZL  4.0  +B37  +W33  -B1   -W13  +B23  +W18
+11 CM Forster, William     2075 NZL  4.0  +B28  +W41  -B2   -W15  +B25  +W22
+12    James, Jack          2097 NZL  4.0  +W39  -B3   -B4   +W37  +W31  +B20
+13 CM Vincenti, David      2179 MLT  3.5  +B21  +W15  =W3   +B10  -B2   -W6
+14    Sellen, Ian          2116 NZL  3.5  +W29  +B20  -W6   +B30  -W7   =B17
+15    Kulkarni, Yogesh     1854 NZL  3.5  +W38  -B13  +W31  +B11  =W6   -B5
+16    Nyberg, Michael      2068 NZL  3.5  +W34  -B5   =W7   +B24  -W8   +B28
+17    Song, Kate           1701 NZL  3.5  -B1   +W35  -B18  +W34  +B19  =W14
+18    Lyall, Simon         1988 NZL  3.0  +W40  -B6   +W17  +B20  -W3   -B10
+19 FM Timergazi, Layla     2152 NZL  3.0  +W26  +B22  -W5   -B7   -W17  +B34
+20    Paul, David          1886 NZL  3.0  +B27  -W14  +B41  -W18  +B24  -W12
+21    Wight, Joshua        1534 NZL  3.0  -W13  +B38  +W22  -B8   +W30  -B9
+22    Barraza Perez, Jesus 1925 NZL  3.0  +BYE  -W19  -B21  +W35  +B32  -B11
+23    Stracy, Don M        1742 NZL  3.0  -W3   +B29  +W26  -B9   -W10  +B36
+24    Day, Fabien             0 NZL  3.0  -B4   +W43  +B33  -W16  -W20  +B30
+25    List, Robert         1661 NZL  3.0  -W5   +B39  -W9   +B27  -W11  +B38
+26    Renjith, Sravan      1510 NZL  3.0  -B19  +W27  -B23  +W33  -W28  +B31
+27    Phease, Tristan       987 NZL  3.0  -W20  -B26  +BYE  -W25  +B37  +W32
+28    Braganza, Nadia      1364 NZL  2.5  -W11        =B36  +W41  +B26  -W16
+29    Steadman, Mathew     1368 NZL  2.5  -B14  -W23  -B34  =W36  +B42  +W35
+30    Roberts, Michael H   1843 NZL  2.0  -B41  +W37  +B42  -W14  -B21  -W24
+31    Burns, Guy           1642 NZL  2.0  -B2   +W36  -B15  +W42  -B12  -W26
+32    Murdoch, Stephen     1625 NZL  2.0  -W6   +B40  -W8   +B39  -W22  -B27
+33    Cunningham, Patrick  1744 NZL  2.0  +W42  -B10  -W24  -B26  -W36  +B43
+34    Lourenco, Eva        1060 NZL  2.0  -B16        +W29  -B17  +W41  -W19
+35    Zhao, Aiden Tyler    1231 NZL  2.0  -W9   -B17  +W38  -B22  +W40  -B29
+36    Austin, Tama         1178 NZL  2.0  -W8   -B31  =W28  =B29  +B33  -W23
+37    Theodosiou, Andreas  1489 NZL  2.0  -W10  -B30  +W40  -B12  -W27  +B41
+38    Wevers, Alexis          0 NZL  2.0  -B15  -W21  -B35  +BYE  +W39  -W25
+39    Marko, H Nigel A     1300 PNG  2.0  -B12  -W25  +B43  -W32  -B38  +W42
+40    Leman, Dominic          0 NZL  2.0  -B18  -W32  -B37  +W43  -B35  BYE1
+41    Winter, Ryan         1099 NZL  1.0  +W30  -B11  -W20  -B28  -B34  -W37
+42    Dai, Zhiheng         1129 NZL  1.0  -B33  +BYE  -W30  -B31  -W29  -B39
+43    Luo, Vincent          200 NZL  1.0  -W7   -B24  -W39  -B40  +BYE  -W33
+44    Milne-Lewer, Jose(W)    0 NZL  0.0  -BYE
+
+
+2016 123rd NZ Congress Open, Auckland, Devonport
+
+  1 Jones, Gawain C B  GM 2625 ENG  7.5  +B39 +W20 =B14 +W11 +W2  +B6  +W8  =B3  =W5
+  2 Ju, Wenjun         GM 2548 CHN  7.0  +B42 +W25 +B19 +W4  -B1  +W13 =B5  +W11 =B7
+  3 Ma, Qun            GM 2606 CHN  7.0  +B32 +W40 +B13 =W6  =B5  =W4  +B15 =W1  +B14
+  4 Short, Nigel D     GM 2684 ENG  7.0  +W41 +B23 +W7  -B2  +W10 =B3  +W6  =B5  +W8
+  5 Fier, Alexandr     GM 2607 BRA  6.5  +W26 +B17 +W8  =B9  =W3  +B18 =W2  =W4  =B1
+  6 Cornette, Matthieu GM 2591 FRA  6.5  +W28 +B38 +W10 =B3  +W9  -W1  -B4  +W19 +W13
+  7 Daulyte, Deimante  IM 2378 LTU  6.5  +B53 +W24 -B4  +W25 -B13 +W20 +B12 +W10 =W2
+  8 Kulashko, Alexei   FM 2341 NZL  6.0  +B51 +W30 -B5  +W31 +B20 +W14 -B1  +W9  -B4
+  9 Steadman, Michael  FM 2252 NZL  6.0  +B50 +W43 +B11 =W5  -B6  +W22 =B13 -B8  +W18
+ 10 Maisuradze, Nino  WGM 2288 FRA  6.0  +B45 +W48 -B6  +W16 -B4  +W31 +B29 -B7  +W22
+ 11 Koop, Thorben      IM 2417 GER  6.0  +W47 +B22 -W9  -B1  +W26 +B30 +W18 -B2  +W20
+ 12 Drummond, Matthew     2255 AUS  6.0  -W65 +B50 =W33 +B41 =W30 +B17 -W7  +B26 +B24
+ 13 Dive, Russell J    IM 2311 NZL  5.5  +W49 +B33 -W3  +B38 +W7  -B2  =W9  +W15 -B6
+ 14 Wastney, Scott     FM 2345 NZL  5.5  +W35 +B27 =W1  =B18 =W15 -B8  +W16 +B21 -W3
+ 15 Ker, Anthony F     IM 2283 NZL  5.5  =B36 +W46 =B31 +W45 =B14 +W21 -W3  -B13 +W34
+ 16 Dowden, R Anthony  NM 2088 NZL  5.5  =W54 =B29 +W49 -B10 +W44 =B38 -B14 +W47 +B32
+ 17 Smith, Robert W    FM 2208 NZL  5.5  +B44 -W5  -B32 +W36 +B45 -W12 =B31 +W43 +B35
+ 18 Richards, Heather WIM 2165 AUS  5.0  =B46 +W36 +B21 =W14 +B19 -W5  -B11 +W39 -B9
+ 19 Hague, Ben         FM 2287 NZL  5.0  +W34 +B65 -W2  =B32 -W18 +B52 +W33 -B6  =W28
+ 20 Garbett, Paul A    IM 2250 NZL  5.0  +W60 -B1  +W43 +B44 -W8  -B7  +W27 +B30 -B11
+ 21 McLaren, Leonard J NM 2236 NZL  5.0  =W29 +B37 -W18 +B33 +W32 -B15 +W23 -W14 =B25
+ 22 Schaefer, Reyk        2134 GER  5.0  +B61 -W11 =B51 +W39 +B47 -B9  =W34 +W29 -B10
+ 23 Noble, Mark F      FM 2241 NZL  5.0  +B55 -W4  =B39 +W42 +B48 =W29 -B21 -W24 +B40
+ 24 Moskow, Eric          2127 USA  5.0  +W57 -B7  =W47 -B29 +BY  +W32 =B39 +B23 -W12
+ 25 Gao, Hans             2183 NZL  5.0  +W56 -B2  +W28 -B7  -W29 +B51 +W41 =B34 =W21
+ 26 Rains, Edward      CM 2016 NZL  5.0  -B5  -W44 +B62 +W46 -B11 +W45 +B48 -W12 +B39
+ 27 Duneas, John          2110 NZL  5.0  +B58 -W14 -B45 -W34 +B46 +W55 -B20 +W53 +B42
+ 28 Perry, Roger L        2005 NZL  5.0  -B6  +W59 -B25 =W57 -B52 +W61 +B55 +W31 =B19
+ 29 Timergazi, Layla  WFM 1915 NZL  4.5  =B21 =W16 =B48 +W24 +B25 =B23 -W10 -B22 =W30
+ 30 Zhang, Leo            2087 NZL  4.5  +B66 -B8  =W65 +W51 =B12 -W11 +B40 -W20 =B29
+ 31 Ang, Alphaeus Wei  CM 2136 NZL  4.5  =W37 +B54 =W15 -B8  +W49 -B10 =W17 -B28 +W41
+ 32 Li, Shenyue           2007 CHN  4.5  -W3  +B52 +W17 =W19 -B21 -B24 +W56 +B38 -W16
+ 33 Vincenti, David    CM 2061 MLT  4.5  +B62 -W13 =B12 -W21 +B36 +W42 -B19 -W35 +B47
+ 34 Milligan, Helen    CM 1957 NZL  4.5  -B19 =W62 =B46 +B27 =W38 +W48 =B22 =W25 -B15
+ 35 Klyszcz, Michael      1979 GER  4.5  -B14 =W58 -B44 +W61 +B57      +W37 +B33 -W17
+ 36 Macdonald, Paul       1946 NZL  4.5  =W15 -B18 +W54 -B17 -W33 +W57 -B43 +B52 +W53
+ 37 Fan, Allen Chi Zho    1825 NZL  4.5  =B31 -W21 -B42 +W62 +B53 -W39 -B35 +W55 +B48
+ 38 Reilly, Tim        FM 2203 AUS  4.0  +B59 -W6  +B53 -W13 =B34 =W16 =B47 -W32 =B43
+ 39 Chan, Kim Yew         2019 MAS  4.0  -W1  +B60 =W23 -B22 +W56 +B37 =W24 -B18 -W26
+ 40 Thornton, Giovanni    2207 NZL  4.0  +W52 -B3  =W41 -B47 =W51 +B49 -W30 +B54 -W23
+ 41 Li, William Xiang     2030 NZL  4.0  -B4  +W55 =B40 -W12 +B59 =W47 -B25 +W50 -B31
+ 42 Zhu, Karl Kai         1996 NZL  4.0  -W2  =B56 +W37 -B23 +W54 -B33 =W52 +B51 -W27
+ 43 Gong, Daniel       CM 2055 NZL  4.0  +W64 -B9  B20  =W52 -B55 +W44 +W36 -B17 =W38
+ 44 Watharow, Sean        1913 AUS  4.0  -W17 +B26 +W35 -W20 -B16 -B43 =W49 =B60 +W54
+ 45 Bennett, Hilton P  CM 1958 NZL  4.0  -W10 +B64 +W27 -B15 -W17 -B26 -W51 +B63 +W52
+ 46 Jackson, L Ross       1884 NZL  4.0  =W18 -B15 =W34 -B26 -W27 =B60 +W58 =B49 +W51
+ 47 Goodhue, Nathan       1990 NZL  3.5  -B11 +W61 =B24 +W40 -W22 =B41 =W38 -B16 -W33
+ 48 McNabb, Matthew D     2083 NZL  3.5  +W63 -B10 =W29 +B65 -W23 -B34 -W26 +B56 -W37
+ 49 Yee, Stanley          1975 NZL  3.5  -B13 +W66 -B16 +W58 -B31 -W40 =B44 =W46 =B50
+ 50 Hair, Philip I        1932 NZL  3.5  -W9  -W12 =B61 -B54 =W58 +W62 +B59 -B41 =W49
+ 51 Forster, William   CM 1975 NZL  3.0  -W8  +B63 =W22 -B30 =B40 -W25 +B45 -W42 -B46
+ 52 Nicholls, Leighton    1910 NZL  3.0  -B40 -W32 +B66 =B43 +W28 -W19 =B42 -W36 -B45
+ 53 Zhu, Leo Lei          1989 NZL  3.0  -W7  +B57 -W38 =B56 -W37 +B58 =W54 -B27 -B36
+ 54 Yan, Caroline         1672 NZL  3.0  =B16 -W31 -B36 +W50 -B42 +W59 =B53 -W40 -B44
+ 55 Benson, Christopher   1920 NZL  3.0  -W23 -B41 =W63 +B64 +W43 -B27 -W28 -B37 =W58
+ 56 Taylor, Richard       1888 NZL  3.0  -B25 =W42 =B58 =W53 -B39 +W66 -B32 -W48 =B57
+ 57 Qin, Joy Shu Yan      1685 NZL  3.0  -B24 -W53 +W60 =B28 -W35 -B36 =W63 =B62 =W56
+ 58 Zhang, Jasmine    WCM 1674 NZL  3.0  -W27 =B35 =W56 -B49 =B50 -W53 -B46 +W66 =B55
+ 59 Power, P Wayne        1889 NZL  3.0  -W38 -B28 =W64 +B63 -W41 -B54 -W50 +BYE =B61
+ 60 Carpinter, Bernard(W) 1928 NZL  3.0  -B20 -W39 -B57 =W66 =B62 =W46 +B61 =W44
+ 61 Wolstencroft, Alan    1796 AUS  3.0  -W22 -B47 =W50 -B35 +W63 -B28 -W60 +B64 =W59
+ 62 Punsalan, Vyanla M    1356 NZL  3.0  -W33 =B34 -W26 -B37 =W60 -B50 +B66 =W57 =B64
+ 63 Oka, Hikaru           1449 AUS  3.0  -B48 -W51 =B55 -W59 -B61 +W64 =B57 -W45 +B66
+ 64 Lourenco, Eva         1306 NZL  2.0  -B43 -W45 =B59 -W55 -B66 -B63 +BYE -W61 =W62
+ 65 James, Jack      (W)  1935 NZL  1.5  +B12 -W19 =B30 -W48 -BYE
+ 66 Wei, Louie            1669 NZL  1.5  -W30 -B49 -W52 =B60 +W64 -B56 -W62 -B58 -W63
+
+2015 North Shore Open, Open Grade
+
+  1 Capel, Evan T        2270     MAS  4.5 | +B17  +W20  +B5   +W6   =B3
+  2 McLaren, Leonard J   2336  NM NZL  4.0 | +W21  -B5   +B24  +W17  +B6
+  3 Kulashko, Alexei     2411  FM NZL  3.5 | =B9   +W23  =B7   +W8   =W1
+  4 Milligan, Helen      2092  CM NZL  3.5 | =W18  +B15  =BYE  =W7   +B5
+  5 Ang, Alphaeus Wei Er 2165  CM NZL  3.0 | +B12  +W2   -W1   +B13  -W4
+  6 Gong, Daniel Hanwen  2128  CM NZL  3.0 | +B14  +W13  +B8   -B1   -W2
+  7 Morrell, Gordon      2191     CAN  3.0 | =B19  +W9   =W3   =B4   =W13
+  8 Duneas, John         2181     NZL  3.0 | +W10  +B11  -W6   -B3   +W19
+  9 Zhang, Leo           2089     NZL  3.0 | =W3   -B7   +W15  =B12  +W18
+ 10 Post, Martin J       1918     NZL  3.0 | -B8   =B22  +W21  +W14  =B11
+ 11 Lyall, Simon         1808     NZL  3.0 | +W22  -W8   +B20  =B19  =W10
+ 12 Hair, Philip I       1910     NZL  3.0 | -W5   +B21  =BYE  =W9   +B22
+ 13 Hart, Ralph          2253     NZL  2.5 | +W16  -B6   +W18  -W5   =B7
+ 14 Riding, Christopher  1824     NZL  2.5 | -W6   +B16  =BYE  -B10  +W23
+ 15 Mukkattu, Philip     1767     NZL  2.5 | =BYE  -W4   -B9   +W25  +B17
+ 16 Johns, Daniel P      1987     NZL  2.5 | -B13  -W14  =BYE  =B23  +W24
+ 17 Fan, Allen Chi Zhou  2017     NZL  2.0 | -W1   +B25  +W23  -B2   -W15
+ 18 Serrate, Michael     1822     NZL  2.0 | =B4   =W19  -B13  +W20  -B9
+ 19 Runcan, Daniel I     1973     ROU  2.0 | =W7   =B18  =BYE  =W11  -B8
+ 20 Krstev, Antonio      2133     NZL  2.0 | +W24  -B1   -W11  -B18  +BYE
+ 21 Lim, Benjamin U      2080     NZL  2.0 | -B2   -W12  -B10  +BYE  +W25
+ 22 Kumar, Vinod         2091     IND  2.0 | -B11  =W10  =BYE  +B24  -W12
+ 23 Zhang, Jasmine Haoma 1769 WCM NZL  1.5 | +W25  -B3   -B17  =W16  -B14
+ 24 Gilmour, Mark        1870     NZL  1.0 | -B20  +BYE  -W2   -W22  -B16
+ 25 Cooper, Nigel        1876     NZL  0.5 | -B23  -W17  =BYE  -B15  -B21
+
+2015 Waikato Open
+
+ 1 Steadman, Michael V  2304  FM NZL  5.0 | +W17  =B9   +W16  =B3   +B4   +W2
+ 2 Dive, Russell J      2429  IM NZL  4.0 | +B23  +W6   +B4   =BYE  =W3   -B1
+ 3 Smith, Robert W      2373  FM NZL  4.0 | +W20  =B14  +W11  =W1   =B2   =B7
+ 4 Hague, Ben           2455  FM NZL  4.0 | +W8   +B15  -W2   +B9   -W1   +B14
+ 5 Gong, Daniel Hanwen  2128  CM NZL  4.0 | =BYE  +B13  +W9   =B14  =W8   =W6
+ 6 Timergazi, Layla     2180 WFM NZL  4.0 | +W19  -B2   +W15  =B8   +W14  =B5
+ 7 Ang, Alphaeus Wei Er 2165  CM NZL  4.0 | =BYE  -B11  +W20  +B10  +W16  =W3
+ 8 James, Jack          2005     NZL  3.5 | -B4   +W22  +B18  =W6   =B5   =W11
+ 9 Noble, Mark F        2314  FM NZL  3.5 | +B21  =W1   -B5   -W4   +B15  +W12
+10 Lim, Benjamin U      2080     NZL  3.5 | =BYE  =W18  =B17  -W7   +B13  +B16
+11 Runcan, Daniel I     1973     ROU  3.0 | =BYE  +W7   -B3    --   +W18  =B8
+12 Duneas, John         2181     NZL  3.0 | =BYE  -B16  =W13  +B19  +W17  -B9
+13 Fan, Allen Chi Zhou  2017     NZL  3.0 | =BYE  -W5   =B12  +BYE  -W10  +B17
+14 Han, Daniel          2247     NZL  2.5 | =B18  =W3   +B19  =W5   -B6   -W4
+15 Gibbons, Robert E    2083     NZL  2.5 | +B22  -W4   -B6   =BYE  -W9   +B19
+16 Post, Martin J       1918     NZL  2.0 | =BYE  +W12  -B1   =W17  -B7   -W10
+17 Smith, Vivian J      1826 WFM NZL  2.0 | -B1   +W23  =W10  =B16  -B12  -W13
+18 Dare, Richard J      1806     NZL  2.0 | =W14  =B10  -W8   =BYE  -B11  =W20
+19 Zhang, Jasmine Haomo 1769 WCM NZL  2.0 | -B6   +B20  -W14  -W12  +B22  -W15
+20 Cooper, Nigel        1876     NZL  2.0 | -B3   -W19  -B7   =W21  +BYE  =B18
+21 Lynn, K William      1849     NZL  1.5 | -W9    --    --   =B20   --   +W22
+22 Qin, Nicole Shu Yu   1318     NZL  1.5 | -W15  -B8   +B23  =BYE  -W19  -B21
+23 Krishnamachari, R(W) 1930     NZL  0.0 | -W2   -B17  -W22  -BYE  -BYE   –
+
+
+
+2015 George Trundle Masters
+
+1   Solomon, Stephen J  2366 IM AUS  7.5  |  -   =W  =W  +B  =W  +B  +W  +B  +B  +W
+2   Johansen, Darryl K  2419 GM AUS  7.0  |  =B  -   =W  +W  =B  +W  =B  +B  +B  +W
+3   Croad, Nicholas     2257 FM NZL  6.0  |  =B  =B  -   +W  =W  =W  +B  +W  +W  -B
+4   Le Roy, Brice       2260 FM FRA  4.5  |  -W  -B  -B  -   +W  +W  =B  -W  +W  +B
+5   Wastney, Scott      2340 FM NZL  4.5  |  =B  =W  =B  -B  -   =W  =W  +W  =B  =B
+6   Watson, Bruce R     2232 FM NZL  4.0  |  -W  -B  =B  -B  =B  -   =W  +W  +W  =B
+7   Garbett, Paul A     2262 IM NZL  3.5  |  -B  =W  -W  =W  =B  =B  -   -B  +B  =W
+8   Zelesco, Karl       2306 FM AUS  3.0  |  -W  -W  -B  +B  -B  -B  +W  -   -W  +B
+9   Smith, Robert W     2233 FM NZL  2.5  |  -W  -W  -B  -B  =W  -B  -W  +B  -   +W
+10  Reilly, Tim         2226 FM AUS  2.5  |  -B  -B  +W  -W  =W  =W  =B  -W  -B  -
+
+
+2015 38th Trusts Open, A Grade
+
+ 1 Garbett, Paul        2353  IM NZL  5.0  | +B14  =W12  +B2   =W4   +B17  +W7
+ 2 Thornton, Giovanni   2212     NZL  4.5  | +W21  +B6   -W1   +B13  +W5   =B3
+ 3 Hague, Ben           2465  FM NZL  4.5  | =W8   +B20  +B9   +W12  =B4   =W2
+ 4 Smith, Robert        2363  FM NZL  4.0  | +W13  +B15  =W5   =B1   =W3   =B6
+ 5 McLaren, Leonard     2294  NM NZL  4.0  | +B16  +W17  =B4   =W7   -B2   +W9
+ 6 Dive, Russell        2454  IM NZL  4.0  | +B18  -W2   +B14  =W17  +B12  =W4
+ 7 Steadman, Michael    2308  FM NZL  3.5  | +W24  =B10  =W8   =B5   +W15  -B1
+ 8 Zhang, Leo           2100     NZL  3.5  | =B3   +W25  =B7   -W9   +B14  =W11
+ 9 Krstev, Mario        2159     NZL  3.5  | =B25  +BYE  -W3   +B8   +W10  -B5
+10 Krstev, Antonio      2113     NZL  3.5  | +B22  =W7   -B12  +W18  -B9   +W17
+11 Goodhue, Nathan      2129     NZL  3.5  | -W20  -BYE  +B19  +B24  +W13  =B8
+12 Li, William Xiang We 2163     NZL  3.0  | +W23  =B1   +W10  -B3   -W6   =B15
+13 Timergazi, Layla     2085 WFM NZL  3.0  | -B4   +W19  +B16  -W2   -B11  +W18
+14 Gong, Daniel Hanwen  2061     NZL  3.0  | -W1   +B23  -W6   +B20  -W8   +B21
+15 Duneas, John         2180     NZL  3.0  | +B19  -W4   =B18  +W22  -B7   =W12
+16 Marko, Helmut        1994  CM PNG  3.0  | -W5   =B26  -W13  =B21  +W20  +B22
+17 Milligan, Helen      2111  CM NZL  2.5  | +W26  -B5   +W20  =B6   -W1   -B10
+18 Lim, Benjamin        2095     NZL  2.5  | -W6   +B21  =W15  -B10  +W24  -B13
+19 Runcan, Daniel       1984     ROU  2.5  | -W15  -B13  -W11  +W23  =B25  +B24
+20 Sarmiento, Noel      1889     NZL  2.0  | +B11  -W3   -B17  -W14  -B16  +W26
+21 Zhang, William Jiewe 1988     NZL  2.0  | -B2   -W18  +B23  =W16  =B22  -W14
+22 Cooper, Nigel        1796     NZL  2.0  | -W10  =B24  +W26  -B15  =W21  -W16
+23 Macdonald, Paul      1966     NZL  2.0  | -B12  -W14  -W21  -B19  +W26  +B25
+24 Wright, Caleb        2006     NZL  1.5  | -B7   =W22  +B25  -W11  -B18  -W19
+25 Hair, Philip         1900     NZL  1.5  | =W9   -B8   -W24  =B26  =W19  -W23
+26 Qin, Joy Shu Yan     1756     NZL  1.0  | -B17  =W16  -B22  =W25  -B23  -B20
+
+
+2015 Upper Hutt Rapid
+
+1  Wastney, Scott        2327  5.5  | 18:W 12:D 19:W  8:W 11:W  2:W
+2  Dive, Russell         2390  5    | 20:W  7:W  8:W 11:W  3:W  1:L
+3  Ker, Anthony          2381  5    | 21:W 17:W  6:W  4:W  2:L  5:W
+4  Nijman, Brian         2032  5    | 24:W 10:W 15:W  3:L 12:W  7:W
+5  Jackson, L Ross       1963  4    | 22:W 26:W 11:L 14:W  9:W  3:L
+6  Sellen, Ian           1990  4    | 25:W 14:W  3:L 12:D 20:W 11:D
+7  Timergazi, Layla      1833  4    | 27:W  2:L 23:W 16:W 10:W  4:L
+8  Knowles, Jeremy       2004  4    | 23:W 13:W  2:L  1:L 22:W 14:W
+9  McGowan, Alistair     1678  4    | 31:W 11:L 24:W 15:W  5:L 18:W
+10 Brockway, Andrew      1641  4    | 30:W  4:L 25:W 22:W  7:L 16:W
+11 Nyberg, Michael       2054  3.5  | 16:W  9:W  5:W  2:L  1:L  6:D
+12 Carter, Gerald        1778  3.5  | 33:W  1:D 17:W  6:D  4:L 13:D
+13 Capper, David S       1638  3.5  | 29:W  8:L 22:L 25:W 15:W 12:D
+14 Wiemers, Allister     1600  3    | 32:W  6:L 27:W  5:L 23:W  8:L
+15 Fam, Yiannis          1003  3    | 19:W 21:W  4:L  9:L 13:L 29:W
+16 Orr, William          1395  3    | 11:L 31:W 26:W  7:L 21:W 10:L
+17 List, Bob             1800  3    | 28:W  3:L 12:L 24:W 18:L 25:W
+18 Li, Henry             1432  3    |  1:L 27:L 30:W 26:W 17:W  9:L
+19 Marko, H Nigel A      1301  3    | 15:L 28:W  1:L 23:L 27:W 22:W
+20 Cunningham, Pat       1578  3    |  2:L 25:L 31:W 27:W  6:L 23:W
+21 Catterall, Richard    1452  3    |  3:L 15:L 29:W 28:W 16:L 24:W
+22 Konakanchi, Pramodh   1089  2    |  5:L 32:W 13:W 10:L  8:L 19:L
+23 Brearton, Joshua      1360  2    |  8:L 29:W  7:L 19:W 14:L 20:L
+24 Shenoy, Vikas         1377  2    |  4:L 30:W  9:L 17:L 28:W 21:L
+25 Konakanchi, Karthik   1276  2    |  6:L 20:W 10:L 13:L 26:W 17:L
+26 Li, Huajin            993   2    |  0:W  5:L 16:L 18:L 25:L 32:W
+27 Winter, Ryan          1000  2    |  7:L 18:W 14:L 20:L 19:L 31:W
+28 Darr, Samuel          999   2    | 17:L 19:L 32:W 21:L 24:L 30:W
+29 You, Jason            995   1.5  | 13:L 23:L 21:L 31:W 30:D 15:L
+30 Zong, Kenyan          996   1    | 10:L 24:L 18:L 32:D 29:D 28:L
+31 Li, Zac               997   1    |  9:L 16:L 20:L 29:L 32:W 27:L
+32 Yang, Jason           994   .5   | 14:L 22:L 28:L 30:D 31:L 26:L
+33 Luukkonen, Marius     998   0    | 12:L  0:   0:   0:   0:   0:
+
+2015 Bay of Plenty Rapid, A Grade
+
+ 1  Smith, Robert W         2276  FM  NZL 5.0 | +B11  +W12  =B2   +B6   +W8   =B5
+ 2  Berthier, Hugo          2204      FRA 5.0 | +W16  =B4   =W1   +B9   +W3   +B8
+ 3  Pinic, Noel             2269      NZL 4.0 | =W6   +B14  +W5   =B8   -B2   +W9
+ 4  Thornton, Giovanni A    2181      NZL 4.0 | +B13  =W2   -B8   +W10  +B6   =B7
+ 5  Steadman, Michael V     2261  FM  NZL 4.0 | +B18  =W8   -B3   +W12  +B11  =W1
+ 6  Ang, Alphaeus Wei Er    1947  CM  NZL 3.5 | =B3   +W15  +B13  -W1   -W4   +B11
+ 7  Gong, Daniel Hanwen     1975      NZL 3.5 | -W14  +B17  -W9   +B16  +B15  =W4
+ 8  Tan, Eddie K C          2000      ENG 3.0 | +B10  =B5   +W4   =W3   -B1   -W2
+ 9  Runcan, Daniel I        1973      ROU 3.0 | -B12  +W18  +B7   -W2   +B13  -B3
+10  Marko, Helmut S         1884  CM  PNG 3.0 | -W8   =B11  +W17  -B4   +W14  =B12
+11  Jackson, L Ross         1959      NZL 2.5 | -W1   =W10  +B15  +B14  -W5   -W6
+12  Wright, Caleb           1847      NZL 2.5 | +W9   -B1   =W14  -B5   =W16  =W10
+13  Wagner, Stefan          1931      NZL 2.5 | -W4   +B16  -W6   =B17  -W9   +B18
+14  Carpinter, Bernard      1852      NZL 2.0 | +B7   -W3   =B12  -W11  -B10  =W17
+15  Bennett, Hilton P       2001  CM  NZL 2.0 | =W17  -B6   -W11  +B18  -W7   =B16
+16  Milligan, Helen         1932  CM  NZL 2.0 | -B2   -W13  +B18  -W7   =B12  =W15
+17  Spiller, Paul S         1913  CM  NZL 1.5 | =B15  -W7   -B10  =W13  -W18  =B14
+18  Post, Martin J          1947      NZL 1.0 | -W5   -B9   -W16  -W15  +B17  -W13
+
+2015 Oceania Seniors
+
+ 1 McLaren, Leonard J   2294  NM NZL  6.0 | +B18  +W3   +W11  +B2   =B4   +W6   =B7
+ 2 Smith, Robert W      2363  FM NZL  5.0 | +B19  +W6   =B4   -W1   +W13  +B11  =B3
+ 3 Noble, Mark F        2305  FM NZL  5.0 | +W17  -B1   +W23  +B7   +W11  =B4   =W2
+ 4 Garbett, Paul A      2353  IM NZL  4.5 | +W20  +B13  =W2   +B5   =W1   =W3   -B6
+ 5 Milligan, Helen      2111  CM NZL  4.5 | =BYE  +B24  +W9   -W4   =B8   =B10  +W15
+ 6 Krstev, Antonio      2113     NZL  4.5 | +W21  -B2   =B14  +W19  +B12  -B1   +W4
+ 7 Morrell, Gordon      2187     CAN  4.0 | +W15  -B11  +W17  -W3   +B21  =B8   =W1
+ 8 Gibbons, Robert E    2086     NZL  4.0 | =BYE  =B10  =W16  +B20  =W5   =W7   =B12
+ 9 Cooper, Nigel        1796     NZL  4.0 | +W14  =W12  -B5   -B13  +W23  +B21  =W10
+10 Bennett, Hilton P    2065  CM NZL  4.0 | =B23  =W8   -B12  +W24  +B16  =W5   =B9
+11 Steadman, Michael V  2308  FM NZL  3.5 | +B25  +W7   -B1   +W12  -B3   -W2   =W13
+12 Yee, Stanley         2009     NZL  3.5 | +W26  =B9   +W10  -B11  -W6   =B14  =W8
+13 Spiller, Paul S      2007  CM NZL  3.5 | +B22  -W4   =B19  +W9   -B2   =W18  =B11
+14 Stuart, Peter W      2118  NM NZL  3.5 | -B9   +B26  =W6   =W16  =B15  =W12  =B18
+15 Smith, Vivian J      1830 WFM NZL  3.5 | -B7   =W25  +B22  =B17  =W14  +W19  -B5
+16 Power, P Wayne       1903     NZL  3.5 | =BYE  =W23  =B8   =B14  -W10  +W22  =B19
+17 Hair, Philip I       1900     NZL  3.5 | -B3   +W18  -B7   =W15  -B19  +W25  +W20
+18 Taylor, Richard      1898     NZL  3.5 | -W1   -B17  =W24  +B25  +W20  =B13  =W14
+19 Kempen, Leon         2000  CM AUS  3.0 | -W2   +B21  =W13  -B6   +W17  -B15  =W16
+20 Eade, Don            1988     NZL  2.5 | -B4   =W22  +B25  -W8   -B18  +W24  -B17
+21 Booth, Anthony J     1678     NZL  2.5 | -B6   -W19  +B26  +B23  -W7   -W9   =B22
+22 List, Robert         1629     NZL  2.5 | -W13  =B20  -W15  =W26  +B24  -B16  =W21
+23 Benson, James        1668     NZL  2.0 | =W10  =B16  -B3   -W21  -B9   -W26  +B25
+24 Ansell, David        1448     NZL  2.0 | =BYE  -W5   =B18  -B10  -W22  -B20  +W26
+25 Post, Martin J       1974     NZL  1.5 | -W11  =B15  -W20  -W18  +B26  -B17  -W23
+26 Murdoch, Steve       1667     NZL  1.5 | -B12  -W14  -W21  =B22  -W25  +B23  -B24
+
+2015 Wellington Open
+
+  1 Timergazi, Layla        2085 WFM NZL  5.0 | +B25  +W8   -B3   +W18  +B11  +W4
+  2 Vincenti, David         2110  CM MLT  5.0 | +B28  +W22  +B13  =W3   =B4   +W10
+  3 Ker, Anthony F          2423  IM NZL  4.5 | +W12  +B10  +W1   =B2   =W5   =B6
+  4 Nyberg, Michael         2098     NZL  4.5 | +W20  +B21  +W6   +B7   =W2   -B1
+  5 Dive, Russell J         2454  IM NZL  4.5 | +B18  =W7   =B11  +W9   =B3   +W15
+  6 Croad, Nicholas         2371  FM NZL  4.5 | +B17  +W9   -B4   +W13  +B15  =W3
+  7 Nicholls, Leighton      1883     NZL  4.0 | +W30  =B5   +W19  -W4   =B8   +B17
+  8 Chen, Wei Kai           1688     NZL  4.0 | +W32  -B1   +W23  =B10  =W7   +B16
+  9 Nijman, Arie J          1835     NZL  4.0 | +W31  -B6   +W16  -B5   +W24  +B14
+ 10 Jackson, L Ross         1903     NZL  3.5 | +B14  -W3   +B25  =W8   +B21  -B2
+ 11 Nijman, Brian           2172     NZL  3.5 | +W16  =B19  =W5   =B21  -W1   +B22
+ 12 Bongalon, Ray           1656     SIN  3.5 | -B3   -W14  +B30  +B19  =W22  +W21
+ 13 Cunningham, Patrick     1705     NZL  3.0 | +B24  +W15  -W2   -B6   -W17  +B27
+ 14 Nylund, Benjamin        1308     NZL  3.0 | -W10  +B12  -W21  +B20  +W23  -W9
+ 15 Rossiter, Philip E      1908     NZL  3.0 | +W27  -B13  +W17  +B22  -W6   -B5
+ 16 List, Robert            1629     NZL  3.0 | -B11  +W29  -B9   +BYE  +W18  -W8
+ 17 Capper, David S         1638     NZL  3.0 | -W6   +B31  -B15  +W27  +B13  -W7
+ 18 Gloistein, Bruce H      1674     NZL  3.0 | -W5   +B30  +W24  -B1   -B16  +W25
+ 19 Brockway, Andrew        1846     NZL  3.0 | +B29  =W11  -B7   -W12  =B25  +BYE
+ 20 Rose, Nathan            1466     NZL  3.0 | -B4   -W26  +B29  -W14  +B30  +B24
+ 21 Winfield, Alan W        1825     NZL  2.5 | +B26  -W4   +B14  =W11  -W10  -B12
+ 22 Stracy, Don M           1801     NZL  2.5 | +W23  -B2   +BYE  -W15  =B12  -W11
+ 23 Marko, Helmut Jr        1000     PNG  2.5 | -B22  +W28  -B8   =W25  -B14  +W30
+ 24 Zinque, Esteban         1000     NZL  2.0 | -W13  +B27  -B18  +W28  -B9   -W20
+ 25 Murdoch, Stephen        1426     NZL  2.0 | -W1   +B32  -W10  =B23  =W19  -B18
+ 26 Conlon, Barry           1000     NZL  2.0 | -W21  +B20  -BYE  -BYE  +W29  -BYE
+ 27 Theodosiou, Andreas     1323     NZL  2.0 | -B15  -W24  +B32  -B17  +W28  -W13
+ 28 Asplet, Mike            1614     NZL  2.0 | -W2   -B23  +W31  -B24  -B27  +W32
+ 29 Nylund, Timothy         1225     NZL  1.5 | -W19  -B16  -W20  =W32  -B26  +B31
+ 30 Aumeier, Beate          1227     NZL  1.0 | -B7   -W18  -W12  +B31  -W20  -B23
+ 31 Nylund, Henrik          1104     NZL  1.0 | -B9   -W17  -B28  -W30  +B32  -W29
+ 32 Ryu, Rosa                719     NZL  0.5 | -B8   -W25  -W27  =B29  -W31  -B28
+
+
+2015 Auckland Chess Centre Waitangi Weekender
+
+ 1  Hague, Ben              2462  FM  NZL 5.5 | +B17  +W4   +B3   +W6   +B7   =W5
+ 2  Gibbons, Robert E       2064      NZL 5.0 | +B29  +W14  =W7   =B18  +B20  +W6
+ 3  Ang, Alphaeus Wei Er    2104  CM  NZL 4.5 | +W23  +B13  -W1   +B15  +W18  =B4
+ 4  Fan, Allen Chi Zhou     2000      NZL 4.5 | +W5   -B1   +W36  +B13  +W11  =W3
+ 5  Steadman, Michael V     2311  FM  NZL 4.5 | +W36  -B21  +W26  +B12  +W8   =B1
+ 6  Duneas, John            2180      NZL 4.0 | +W26  +B10  +W9   -B1   +W19  -B2
+ 7  Gao, Hans               2293      NZL 4.0 | +B22  +W12  =B2   +W8   -W1   =B10
+ 8  Gong, Daniel Hanwen     2044      NZL 4.0 | +W28  +B15  +W11  -B7   -B5   +W20
+ 9  Martin-Buss, Sean       2031      NZL 4.0 | +B27  +W24  -B6   -W20  +B22  +W18
+10  Seabrook, Roy           1886      NZL 4.0 | +B33  -W6   =B19  +W24  +B16  =W7
+11  Bennett, Hilton P       2130  CM  NZL 3.5 | +B32  +W20  -B8   +W21  -B4   =W12
+12  Lyall, Simon            1823      NZL 3.5 | +W31  -B7   +W23  -W5   +B24  =B11
+13  Shen, Terry             1722      NZL 3.5 | +B38  -W3   +B29  -W4   +B23  =W21
+14  Zhang, Jasmine          1594      NZL 3.5 | +W37  -B2   +W25  -B19  =W28  +B26
+15  Yan, Caroline           1557      NZL 3.5 | +B41  -W8   +B35  -W3   =B25  +W27
+16  Cooper, Nigel           1815      NZL 3.5 | -B35  +W39  +B22  =BYE  -W10  +B25
+17  Ansell, David           1454      NZL 3.5 | -W1   -B25  =B27  +W32  +W35  +B28
+18  Serrate, Michael        1408      NZL 3.0 | =BYE  +B31  +W21  =W2   -B3   -B9
+19  Macdonald, Paul (W)     1957      NZL 3.0 | +B39  =BYE  =W10  +W14  -B6
+20  Mukkattu, Philip        1736      NZL 3.0 | +W34  -B11  +W28  +B9   -W2   -B8
+21  Gilmour, Mark           1892      NZL 3.0 | +W30  +W5   -B18  -B11  =W26  =B13
+22  Picken, Oliver          1433      NZL 3.0 | -W7   +B30  -W16  +B31  -W9   +B34
+23  Li, Rodney Xiang Rei    1379      NZL 3.0 | -B3   +W38  -B12  +W30  -W13  +B36
+24  McDougall, Wayne        1477      NZL 2.5 | +W40  -B9   +W34  -B10  -W12  =B30
+25  Pan, Darrick            1178      NZL 2.5 | -B4   +W17  -B14  +B36  =W15  -W16
+26  Wang, Aaron Ziwen       1409      NZL 2.5 | -B6   +W33  -B5   +W27  =B21  -W14
+27  McDougall, Euan         1193      NZL 2.5 | -W9   +B40  =W17  -B26  +W34  -B15
+28  Nylund, Micah           1200      NZL 2.5 | -B8   +W41  -B20  +W40  =B14  -W17
+29  Braganza, Nadia         1334      NZL 2.5 | -W2   +B37  -W13  -B34  =W31  +B38
+30  Meng, Richard           1106      NZL 2.5 | -B21  -W22  +B38  -B23  +W37  =W24
+31  Ang, Beatrice Sze Ni    1008      NZL 2.5 | -B12  -W18  +B41  -W22  =B29  +W40
+32  Nylund, Timothy         1405      NZL 2.5 | -W11  -B34  =W37  -B17  +B40  +W35
+33  Steadman, Mathew        1103      NZL 2.5 | -W10  -B26  -W40  +B41  =W36  +B37
+34  Fu, Alex                 970      NZL 2.0 | -B20  +W32  -B24  +W29  -B27  -W22
+35  Lourenco, Eva           1000      NZL 1.5 | +W16  -B36  -W15  =BYE  -B17  -B32
+36  Nylund, Benjamin        1453      NZL 1.5 | -B5   +W35  -B4   -W25  =B33  -W23
+37  Li, Leo Xiang Yu         955      NZL 1.5 | -B14  -W29  =B32  +W39  -B30  -W33
+38  Barry, Jacob             965      NZL 1.5 | -W13  -B23  -W30  =BYE  +B39  -W29
+39  Su, Danny               1110      NZL 1.5 | -W19  -B16  =BYE  -B37  -W38  +W41
+40  Ryu, Rosa                684      NZL 1.0 | -B24  -W27  +B33  -B28  -W32  -B31
+41  Qin, Oscar Shu Xuan      745      NZL 1.0 | -W15  -B28  -W31  -W33  +BYE  -B39
+
+
+2015 122nd NZ Congress Open, Auckland, Devonport
+
+1  GM Zhao, Xue         2514 8.0 +B47  +W61  +B35  =W3   +B11  +W10  +B2   =W6   +W7
+2  GM Bischoff, Klaus   2490 7.0 +W84  +B49  +W29  +B6   =B10  +W3   -W1   =B12  +W16
+3  GM Howell, David     2670 7.0 +B81  +W106 +B18  =B1   +W7   -B2   +W9   =W4   +B6
+4  GM Rasmussen, Allan  2526 7.0 +W63  +B70  =W26  =B19  =W23  +B27  +W24  =B3   +W12
+5  CM Teh, Eu Wen Aron  2300 7.0 +W105 +B21  -W14  +B112 =W24  =B16  +W18  +B37  +B11
+6  IM Sukandar, Irine   2392 6.5 +B69  +W59  +B20  -W2   +W52  +B15  +W23  =B1   -W3
+7     Zelesco, Karl     2210 6.5 +B85  +W39  =B11  +W17  -B3   +W36  +B14  +W10  -B1
+8     Drummond, Matthew 2231 6.5 +B58  =W30  +B71  =W9   +B81  =W14  -B10  +W36  +B29
+9  IM Van Riemsdijk, H. 2356 6.5 +W50  =B43  +W16  =B8   =W35  +B40  -B3   +W25  +B15
+10 IM Dive, Russell     2441 6.0 +W56  +B52  +W15  +B14  =W2   -B1   +W8   -B7   =W21
+11 FM Croad, Nicholas   2366 6.0 +W100 +B38  =W7   +B12  -W1   +B35  =W19  +B34  -W5
+12 FM Hague, Ben        2462 6.0 +B76  +W44  =B17  -W11  +B83  +W26  +B13  =W2   -B4
+13 IM Garbett, Paul     2355 6.0 +W48  +B62  =W23  =B24  +W34  +B18  -W12  -B16  +W43
+14 IM Ker, Anthony      2435 6.0 +B51  +W75  +B5   -W10  +W21  =B8   -W7   =B43  +W40
+15    Thornton, Gino    2195 6.0 +B82  +W42  -B10  +W47  +B39  -W6   +W52  +B23  -W9
+16 CM Schmitz, Andreas  2066 6.0 +B91  =W46  -B9   +W77  +B31  =W5   +B39  +W13  -B2
+17 FM Smith, Robert     2367 6.0 +W40  +B55  =W12  -B7   +W41  =B38  =W28  =B19  +W37
+18 FM Stojic, Dusan     2123 6.0 +W99  +B53  -W3   +W85  +B25  -W13  -B5   +W69  +B42
+19 FM Reilly, Tim       2238 6.0 +B86  =W71  +B31  =W4   -B69  +W33  =B11  =W17  +B27
+20 NM McLaren, Leonard  2299 6.0 +W74  +B45  -W6   =B70  +W48  -B24  +W56  =B28  +W34
+21 WIM Jule, Alexandra  1939 6.0 +B110 -W5   +B75  +W46  -B14  =W81  +B31  +W26  =B10
+22    Morrell, Gordon   2190 6.0 =W98  +B54  -W24  +B99  =W37  =B56  +W46  =B40  +W35
+23    Gao, Hans         2293 5.5 +B33  +W72  =B13  +W36  =B4   +W69  -B6   -W15  =B30
+24 FM Steadman, Michael 2311 5.5 +B66  =W31  +B22  =W13  =B5   +W20  -B4   -W29  +B44
+25    Krstev, Antonio   2071 5.5 +W79  =B34  +W37  =B26  -W18  +B49  +W38  -B9   =W28
+26 FM Le Roy, Brice     2290 5.5 +B94  +W73  =B4   =W25  =W38  -B12  +W41  -B21  +B60
+27 CM Ang, Alphaeus Wei 2104 5.5 +B107 -W35  +B59  =W30  +B71  -W4   +W48  +B53  -W19
+28    Duneas, John      2180 5.5 +B87  =W36  =B46  -W81  +B59  +W30  =B17  =W20  =B25
+29    Goodhue, Nathan   2118 5.5 +B83  +W32  -B2   -W69  =B57  +W87  +W70  +B24  -W8
+30 CM Milligan, Helen   2098 5.5 +W104 =B8   =W34  =B27  =W45  -B28  +W54  +B41  =W23
+31    Li, William Xiang 2167 5.5 +W96  =B24  -W19  +B74  -W16  +B63  -W21  +B84  +W52
+32 CM Vincenti, David   2125 5.5 +W60  -B29  +W98  -B52  -W40  +W77  +B73  =B55  +W57
+33    Opasiak, Dustin   1729 5.5 -W23  +B79  -W41  +B62  +W105 -B19  +W64  =B46  +W55
+34 NM Dowden, Tony      2194 5.0 +B89  =W25  =B30  +W44  -B13  +W82  +B53  -W11  -B20
+35    Zulfic, Fedja     2114 5.0 +W68  +B27  -W1   +W86  =B9   -W11  =B42  +W47  -B22
+36    McNabb, Matthew   2100 5.0 +W41  =B28  +W43  -B23  +W70  -B7   +W50  -B8   =W48
+37 WIM Lauterbach,Ingrid2089 5.0 =B65  +W67  -B25  +W82  =B22  +W44  +B69  -W5   -B17
+38    Rains, Edward     2106 5.0 +B88  -W11  +B57  +W73  =B26  =W17  -B25  -W44  +B79
+39    Zhu, Leo Lei      1978 5.0 +W95  -B7   +W105 +B84  -W15  +B45  -W16  -W42  +B72
+40    Louie, Jared      1783 5.0 -B17  =W77  +B67  +W60  +B32  -W9   +B72  =W22  -B14
+41    Zhu, Karl Kai     1689 5.0 -B36  +W91  +B33  +W42  -B17  +W57  -B26  -W30  +B69
+42    Macdonald, Paul   1957 5.0 +W78  -B15  +W63  -B41  =W50  +B60  =W35  +B39  -W18
+43    Louie, Ryan       1927 5.0 +B109 =W9   -B36  -W71  +B61  +W86  +B81  =W14  -B13
+44    Zhang, Leo        2098 5.0 +W115 -B12  +W55  -B34  +W84  -B37  +W71  +B38  -W24
+45    Lim, Benjamin     2109 5.0 +B77  -W20  =B61  +W58  =B30  -W39  +W49  =B52  =B51
+46    Lee, Edward       2061 5.0 +W64  =B16  =W28  -B21  +W112 =BYE  -B22  =W33  +B78
+47    Gong, Daniel      2044 5.0 -W1   +B80  +W53  -B15  +W55  -B52  +W62  -B35  +W70
+48    Rains, Timothy    2050 5.0 -B13  =W88  +B94  +W61  -B20  +W89  -B27  +W82  =B36
+49    D'arcy, Michael   1916 5.0 +B111 -W2   -B73  +W75  +B72  -W25  -B45  +W92  +B76
+50    Tsagarakis, Angel 1855 5.0 -B9   +W101 -B86  +W66  =B42  +W51  -B36  =W58  +B74
+51    Burke, Matthew    1833 5.0 -W14  +B114 -W70  =B63  +W98  -B50  +W100 +B56  =W45
+52 WFM Timergazi, Layla 2074 4.5 +B101 -W10  +B76  +W32  -B6   +W47  -B15  =W45  -B31
+53    Fuatai, Fuatai    2089 4.5 +B92  -W18  -B47  +W108 +B65  +B54  -W34  -W27  =B67
+54    Turner, Justin    1434 4.5 +B57  -W22  =B83  =W65  +B85  -W53  -B30  +W77  =B75
+55    Gunawan, Boy      1980 4.5 +B113 -W17  -B44  +W109 -B47  +W88  +B83  =W32  -B33
+56    Seabrook, Roy     1886 4.5 -B10  +W110 -B82  +W76  +B73  =W22  -B20  -W51  +W90
+57 CM Forster, William  2081 4.5 -W54  +B90  -W38  +B93  =W29  -B41  +W105 +B59  -B32
+58    Rossiter, Philip  1935 4.5 -W8   +B95  =W74  -B45  +W90  -B70  +W68  =B50  =W66
+59    Aldridge, Alan    1966 4.5 +W80  -B6   -W27  +B95  -W28  =B68  +B90  -W57  +B89
+60    Cooper, Nigel     1815 4.5 -B32  =W87  +B107 -B40  +W74  -W42  +B86  +BYE  -W26
+61    Watharow, Sean    1876 4.5 +B112 -B1   =W45  -B48  -W43  +W94  =B67  =W85  +B84
+62 WFM Schmitz, Manuela 1966 4.5 +B108 -W13  -B69  -W33  +B113 +W85  -B47  =W87  +B88
+63    Taylor, Richard   1891 4.5 -B4   +W111 -B42  =W51  +B94  -W31  =B75  =W83  +B85
+64    Holdo, Karl       1606 4.5 -B46  =W89  =B87  +W92  -B82  +W65  -B33  =W75  +B83
+65    Pakenham, John    1704 4.5 =W37  -B98  +W96  =B54  -W53  -B64  +W101 =BYE  +B82
+66    Shaw, Robin A.    1813 4.5 -W24  +B93  -W81  -B50  +B106 =W67  =B76  +W73  =B58
+67    Huang, Alex       2114 4.5 =W90  -B37  -W40  =B68  +W103 =B66  =W61  +B99  =W53
+68    Brockway, Andrew  1791 4.5 -B35  -W83  =B88  =W67  +B101 =W59  -B58  +W107 +B87
+69    Eade, Don         1977 4.0 -W6   +B115 +W62  +B29  +W19  -B23  -W37  -B18  -W41
+70    Maris, Robert     1895 4.0 +B103 -W4   +B51  =W20  -B36  +W58  -B29  =W74  -B47
+71    Hair, Philip      1912 4.0 +W93  =B19  -W8   +B43  -W27  =W83  -B44  -B79  +W101
+72 CM Bennett, Hilton   2130 4.0 +W102 -B23  -W84  +B78  -W49  +B93  -W40  +B98  -W39
+73    Jackson, Ross     1977 4.0 +W114 -B26  +W49  -B38  -W56  +B112 -W32  -B66  +W99
+74 WFM Smith, Vivian    1836 4.0 -B20  +W92  =B58  -W31  -B60  +W102 +B89  =B70  -W50
+75    Power, Wayne      1939 4.0 +W97  -B14  -W21  -B49  +W109 =B91  =W63  =B64  =W54
+76    Hielscher, Ursula 1845 4.0 -W12  +B97  -W52  -B56  +W104 =B105 =W66  +B91  -W49
+77    Wei, Louie        1423 4.0 -W45  =B40  +W90  -B16  =W91  -B32  +W112 -B54  +W98
+78    Wang, Aaron Ziwen 1409 4.0 -B42  -W85  +B103 -W72  +BYE  -B84  +W108 +B105 -W46
+79    Maris, Fred A     1519 4.0 -B25  -W33  =B91  -W94  =W96  +B104 +B113 +W71  -W38
+80    Chandraveer Singh    0 4.0 -B59  -W47  -B109 +BYE  =W102 =B98  -W99  +B112 +W100
+
+             (Players scoring 4 points or more shown, 115 total players)
+
+
+2015 122nd NZ Congress Rapid, Auckland, Devonport
+
+ 1  Rasmussen, Allan Sti 2526 GM DEN 8.0 +W39 +B34 +W31 +B5  +W2  +B4  +W10 -W3  +B9
+ 2  Zhao, Xue            2489 GM CHN 8.0 +B8  +W62 +B12 +W11 -B1  +W27 +B8  +W9  +B3
+ 3  Howell, David W L    2649 GM ENG 7.0 +B54 +W57 +W23 -B4  +W32 +B13 +W11 +B1  -W2
+ 4  Sukandar, Irine Khar 2400 IM INA 7.0 +B49 +W76 +B16 +W3  +B7  -W1  -B9  +W30 +B15
+ 5  Dive, Russell J      2381 IM NZL 7.0 +B50 +W21 +B22 -W1  +B15 -W9  +B53 +W7  +W10
+ 6  Gao, Hans            2284    NZL 7.0 +W55 +B32 =W28 -B10 +W43 +W33 =B14 +B29 +W12
+ 7  Van Riemsdijk, Herma 2410 IM BRA 6.5 +W42 +B37 =W10 +B43 -W4  +W24 +B12 -B5  +W11
+ 8  Hague, Ben           2386 FM NZL 6.5 +W48 +B58 -W27 +B14 +W18 +B29 -W2  =B17 +W28
+ 9  Ker, Anthony F       2371 IM NZL 6.0 +W35 +B47 +W13 =B27 =W28 +B5  +W4  -B2  -W1
+10  Smith, Robert W      2276 FM NZL 6.0 +B52 +W38 =B7  +W6  =B27 +W16 -B1  +W14 -B5
+11  Li, William Xiang We 2033    NZL 6.0 +BYE +B45 +W19 -B2  +W44 +W30 -B3  +W22 -B7
+12  Steadman, Michael V  2261 FM NZL 6.0 +W71 +B26 -W2  +B39 +W31 +B28 -W7  +W23 -B6
+13  Garbett, Paul A      2301 IM NZL 6.0 +B40 +W46 -B9  +W59 +B21 -W3  +B36 -W15 +W34
+14  Runcan, Daniel I     1973    ROU 6.0 +B64 =W33 +B20 -W8  +W25 +B41 =W6  -B10 +W35
+15  Hart, Ralph          2243    NZL 6.0 +W63 -B19 +W34 +B58 -W5  +B48 +W31 +B13 -W4
+16  Gong, Daniel Hanwen  1975    NZL 6.0 +W70 +B29 -W4  +B45 +W38 -B10 -W17 +B42 +W37
+17  James, Jack          2030    NZL 6.0 +B56 -W22 +B62 -W18 +B68 +W46 +B16 =W8  =B23
+18  Ang, Alphaeus Wei Er 1947 CM NZL 6.0 +W82 -B27 +W71 +B17 -B8  +W21 -B22 +W54 +B30
+19  Duffin, Mike         1904    AUS 6.0 +B81 +W15 -B11 -W21 +W60 +B38 -W29 +B39 +W31
+20  Croad, Nicholas      2315 FM NZL 6.0 +W80 =B25 -W14 +W52 -B30 +B72 +W26 +W24 =B22
+21  Rains, Timothy       1813    NZL 6.0 +W93 -B5  +W37 +B19 -W13 -B18 +W55 +B32 +W29
+22  Polishchuk, Kiril    2051    NZL 5.5 +W92 +B17 -W5  +B55 -W29 +B34 +W18 -B11 =W20
+23  Krstev, Antonio      2034    NZL 5.5 +B61 +W53 -B3  -W30 +W70 +B55 +W28 -B12 =W17
+24  Zulfic, Fedja        2114    AUS 5.5 +W60 =B43 +W25 -B28 +W35 -B7  +W33 -B20 +W44
+25  Notley, David G      1829    NZL 5.5 +B83 =W20 -B24 +W51 -B14 +W49 =W35 =B45 +W43
+26  Lim, Benjamin U      1895    NZL 5.5 +B75 -W12 =B49 +W56 -B33 +W47 -B20 +W68 +W45
+27  Dowden, R Anthony(W) 2244 NM NZL 5.0 +B69 +W18 +B8  =W9  =W10 -B2  +W32
+28  Wastney, Scott       2347 FM NZL 5.0 +B59 +W44 =B6  +W24 =B9  -W12 -B23 +W56 -B8
+29  Krstev, Mario        2115    NZL 5.0 +B65 -W16 +B41 +W54 +B22 -W8  +B19 -W6  -B21
+30  Mistry, Prashant     1357    NZL 5.0 +W41 -B94 +W78 +B23 +W20 -B11 +W43 -B4  -W18
+31  Rains, Edward        2070    NZL 5.0 +B84 +W36 -B1  +W40 -B12 +W54 -B15 +W50 -B19
+32  Nicholls, Leighton   1892    NZL 5.0 +B74 -W6  +B76 +W46 -B3  +W40 -B27 -W21 +B59
+33  Carpinter, Anthony L 2151    NZL 5.0 +W79 =B14 -W43 +B72 +W26 -B6  -B24 +W51 =B41
+34  Seabrook, Roy        1756    NZL 5.0 +B78 -W1  -B15 +W64 +B56 -W22 +B57 +W53 -B13
+35  Zhu, Leo Lei         1611    NZL 5.0 -B9  +W83 =B52 +W49 -B24 +W71 =B25 +W47 -B14
+36  Goodhue, Nathan      2018    NZL 5.0 +W77 -B31 -W47 +B42 +W39 +B44 -W13 -B37 +W55
+37  Hair, Philip I       1757    NZL 5.0 +B90 -W7  -B21 +W50 +B76 -W53 +B59 +W36 -B16
+38  Zhang, Leo           1904    NZL 5.0 +W86 -B10 +W80 +B57 -B16 -W19 -B50 +W81 +B65
+39  Eade, Don            1745    NZL 5.0 -B1  +W90 +B61 -W12 -B36 +W64 +B40 -W19 +B56
+40  Yan, Caroline        1468    NZL 5.0 -W13 +B85 +W42 -B31 +W79 -B32 -W39 +W64 +B54
+41  Thornton, Giovanni A 2181    NZL 5.0 -B30 +B66 -W29 +B91 +W45 -W14 =B69 +B49 =W33
+42  Lam, Byron           1719    NZL 5.0 -B7  +W67 -B40 -W36 +B75 +W62 +B46 -W16 +B53
+43  Wilson, Mark C.      2000    NZL 4.5 +B89 =W24 +B33 -W7  -B6  +W51 -B30 +W69 -B25
+44  Timergazi, Layla     1837    NZL 4.5 +W88 -B28 +W77 +B47 -B11 -W36 =B68 +W73 -B24
+45  Kerr, Grant          2050    NZL 4.5 +B51 -W11 +B68 -W16 -B41 +W81 +B76 =W25 -B26
+46  Aldridge, Alan L     1894    NZL 4.5 +W85 -B13 +W48 -B32 +W80 -B17 -W42 +W75 =B50
+47  Nolan, Graham        1808    NZL 4.5 +B87 -W9  +B36 -W44 =W71 -B26 +W72 -B35 +W60
+48  Pakenham, John       1678    NZL 4.5 -B8  +W87 -B46 +W81 +B57 -W15 -B54 =W61 +B68
+49  Fan, Allen Chi Zhou  1689    NZL 4.5 -W4  +B95 =W26 -B35 +W78 -B25 +B71 -W41 +B73
+50  Macfarlane, Magnus   1615    NZL 4.5 -W5  +B93 -W58 -B37 +W91 +B77 +W38 -B31 =W46
+51  Xu, David            1260    NZL 4.5 -W45 =B72 +W73 -B25 +W95 -B43 +W80 -B33 +W70
+52  Gothorp, Thomas H T  1432    NZL 4.5 -W10 +B86 =W35 -B20 -W72 -B73 +W95 +B71 +B69
+53  Browne, Jeremy A     2039    NZL 4.0 +W72 -B23 -W57 +B86 +W58 +B37 -W5  -B34 -W42
+54  Coghini, Philip G    1747    NZL 4.0 -W3  +B73 +W70 -B29 +W77 -B31 +W48 -B18 -W40
+55  Zhang, Jasmine       1445    NZL 4.0 -B6  +W75 +B69 -W22 +B59 -W23 -B21 +W74 -B36
+56  Li, Rodney Xiang Rei 1203    NZL 4.0 -W17 +B60 +W63 -B26 -W34 +B70 +W58 -B28 -W39
+57  Qin, Joy Shu Yan     1756    NZL 4.0 +W66 -B3  +B53 -W38 -W48 +B63 -W34 =B70 =B61
+58  Zajkowski, Richard   1800    NZL 4.0 +B67 -W8  +B50 -W15 -B53 +W61 -B56 -W65 +B82
+59  Zhu, Karl Kai        1606    NZL 4.0 -W28 +B88 +W79 -B13 -W55 +B80 -W37 +B63 -W32
+60  Maroroa, Temu A      1333    NZL 4.0 -B24 -W56 +B84 +W62 -B19 -W69 +B89 +W76 -B47
+61  Starr, Aaron         1255    NZL 4.0 -W23 +B92 -W39 -B70 +W85 -B58 +W82 =B48 =W57
+62  Lyall, Simon         1763    NZL 4.0 +W91 -B2  -W17 -B60 +W66 -B42 -W70 +B72 +W79
+63  Qin, Nicole Shu Yu   1389    NZL 4.0 -B15 +W64 -B56 -W76 +B65 -W57 +B88 -W59 +B78
+64  Sivabalan, Brijesh D 1151    NZL 4.0 -W14 -B63 +W85 -B34 +W82 -B39 +W90 -B40 +W77
+65  Meng, Richard        1338    NZL 4.0 -W29 -B70 -W72 +B92 -W63 +B84 +W77 +B58 -W38
+66  Ghadiali, Renae       395    NZL 4.0 -B57 -W41 +B67 -W68 -B62 -W87 +B93 +W89 +B76
+67  Lin, Selwyn           709    NZL 4.0 -W58 -B42 -W66 -B88 -B89 +W93 +W91 +B80 +B81
+68  Gilmour, Mark        1719    NZL 3.5 -W2  +B91 -W45 +B66 -W17 +B79 =W44 -B26 -W48
+69  Pan, Darrick         1390    NZL 3.5 -W27 +B82 -W55 -B79 +W86 +B60 =W41 -B43 -W52
+70  Mallela, Raivath     1190    NZL 3.5 -B16 +W65 -B54 +W61 -B23 -W56 +B62 =W57 -B51
+71  Picken, Oliver       1391    NZL 3.5 -B12 +W81 -B18 +W74 =B47 -B35 -W49 -W52 +B87
+72  Wei, Louie           1258    NZL 3.5 -B53 =W51 +B65 -W33 +B52 -W20 -B47 -W62 +B92
+73  Cooper, Nigel        1518    NZL 3.5 =BYE -W54 -B51 -B95 +W83 +W52 +B74 -B44 -W49
+74  Steadman, Mathew     1029    NZL 3.5 -W32 -B80 +W88 -B71 +W84 +B95 -W73 -B55 =B75
+75  Zhang, Toby          1064    NZL 3.5 -W26 -B55 +W82 -B77 -W42 +B83 +W79 -B46 =W74
+76  Prentice, Andrew     1800    NZL 3.0 +W95 -B4  -W32 +B63 -W37 +B78 -W45 -B60 -W66
+77  Hutchinson, Al       1202    NZL 3.0 -B36 +W84 -B44 +W75 -B54 -W50 -B65 +W83 -B64
+78  Braganza, Nadia       383    NZL 3.0 -W34 +BYE -B30 +W87 -B49 -W76 -B81 +B85 -W63
+79  Laughland, Alexander 1354    NZL 3.0 -B33 +W89 -B59 +W69 -B40 -W68 -B75 +W88 -B62
+80  Judkins, Gary L      1537    NZL 3.0 -B20 +W74 -B38 +W83 -B46 -W59 -B51 -W67 +B89
+81  Li, Leo Xiang Yu     1078    NZL 3.0 -W19 -B71 +W92 -B48 +W88 -B45 +W78 -B38 -W67
+82  Nylund, Benjamin     1116    NZL 3.0 -B18 -W69 -B75 +W89 -B64 +W85 -B61 +B84 -W58
+83  Barry, Jacob          971    NZL 3.0 -W25 -B35 +W93 -B80 -B73 -W75 +W86 -B77 +W90
+84  Holdaway, Steven     1325    NZL 3.0 -W31 -B77 -W60 +B93 -B74 -W65 +B87 -W82 +B88
+85  Nylund, Timothy      1037    NZL 2.5 -B46 -W40 -B64 +W90 -B61 -B82 +W92 -W78 =B86
+86  Nylund, Micah        1069    NZL 2.5 -B38 -W52 +B89 -W53 -B69 -W90 -B83 +B91 =W85
+87  Ghadiali, Saasha      873    NZL 2.5 -W47 -B48 =W95 -B78 -W92 +B66 -W84 +B90 -W71
+88  Fu, Alex             1027    NZL 2.0 -B44 -W59 -B74 +W67 -B81 +B91 -W63 -B79 -W84
+89  Syabani, Muhammad Na 1200    NZL 2.0 -W43 -B79 -W86 -B82 +W67 +B92 -W60 -B66 -W80
+90  Hu, Selena Xi         652    NZL 2.0 -W37 -B39 -W91 -B85 +W93 +B86 -B64 -W87 -B83
+91  Ryu, Rosa             684    NZL 2.0 -B62 -W68 +B90 -W41 -B50 -W88 -B67 -W86 +BYE
+92  Patuwai, Bubbles     1280    NZL 2.0 -B22 -W61 -B81 -W65 +B87 -W89 -B85 +B95 -W72
+93  Qin, Oscar Shu Xuan   901    NZL 2.0 -B21 -W50 -B83 -W84 -B90 -B67 -W66 +BYE +W95
+94  Press, Shaun (W)     2034 FM PNG 1.5 =BYE +W30
+95  Hu, Erica Yue         783    NZL 1.5 -B76 -W49 =B87 +W73 -B51 -W74 -B52 -W92 -B93
+96  Yan, Sarah (W)       1239    NZL 0.0 -BYE
+
+2014 41st North Shore Open 6/7 September 2014
+ 
+ 1 WANG, Pu Chen        2456  IM NZL  4.5 | +B13  +W21  +B6   +W4   =W2
+ 2 HAGUE, Ben           2451  FM NZL  4.0 | +W11  +B5   =BYE  +W6   =B1
+ 3 BROWNE, Jeremy A     2130  -- NZL  4.0 | =W14  +B16  =W7   +B12  +W10
+ 4 MCLAREN, Leonard J   2317  NM NZL  3.5 | +W17  =B7   +W10  -B1   +W12
+ 5 STEADMAN, Michael V  2294  FM NZL  3.5 | +B12  -W2   =BYE  +B11  +W7
+ 6 GARBETT, Paul A      2362  IM NZL  3.0 | +B15  +W8   -W1   -B2   +B14
+ 7 ZHANG, Leo           2077  -- NZL  3.0 | +B19  =W4   =B3   +W14  -B5
+ 8 JOHNS, Daniel P      1923  -- NZL  3.0 | +W18  -B6   =B13  +BYE  =W9
+ 9 FAN, Allen Chi Zhou  1879  -- NZL  3.0 | -B21  =W15  +B19  +W13  =B8
+10 DUNEAS, John         2194  -- NZL  2.5 | =B22  +W20  -B4   +W16  -B3
+11 ANG, Alphaeus Wei Er 2060  CM NZL  2.5 | -B2   =W19  +B22  -W5   +W20
+12 MACDONALD, Paul      1977  -- NZL  2.0 | -W5   +B18  +B21  -W3   -B4
+13 MCCRONE, Jeffrey     2073  -- NZL  2.0 | -W1   +B17  =W8   -B9   =W15
+14 HAIR, Philip I       1926  -- NZL  2.0 | =B3   +W22  =BYE  -B7   -W6
+15 MILLIGAN, Helen      2048  CM NZL  2.0 | -W6   =B9   =BYE  =W18  =B13
+16 ZHANG, William Jiewe 1961  -- NZL  2.0 | +B20  -W3   =BYE  -B10  =W17
+17 RUNCAN, Daniel I     2046  -- ROU  2.0 | -B4   -W13  =BYE  +W19  =B16
+18 KRSTEV, Antonio      2130  -- NZL  2.0 | -B8   -W12  =BYE  =B15  +W22
+19 LYALL, Simon         1841  -- NZL  1.5 | -W7   =B11  -W9   -B17  +BYE
+20 HART, Ralph          2283  -- NZL  1.5 | -W16  -B10  =BYE  +W22  -B11
+21 HUANG, Alex      (W) 2107  -- NZL  1.0 | +W9   -B1   -W12  -BYE   --
+22 RIVAS VILLANUEVA, An 1938  -- CHI  0.5 | =W10  -B14  -W11  -B20  -B18
+
+2014 Wellington Open
+
+ 1  Ker, Anthony F       2420  IM NZL 5.5 | +W7   +B2   =W3   +B5   +W4   +W8
+ 2  Johnson, Quentin     2153  -- NZL 5.0 | +B9   -W1   +B8   +W20  +B6   +W7
+ 3  Tionko, Efrain       1891  -- AUS 5.0 | +B21  +W10  =B1   =W7   +B12  +W4
+ 4  Vincenti, David      2017  CM MLT 4.0 | +W11  +B5   +W15  +W13  -B1   -B3
+ 5  Nyberg, Michael      2030  -- NZL 4.0 | +B16  -W4   +B9   -W1   +W21  +B14
+ 6  Jackson, L Ross      2013  -- NZL 4.0 | +B22  +W20  -B13  +B14  -W2   +W12
+ 7  Rossiter, Philip E   1831  -- NZL 3.5 | -B1   +W22  +W23  =B3   +W15  -B2
+ 8  Timergazi, Layla     1957  -- NZL 3.5 | +W24  =B14  -W2   +B16  +W13  -B1
+ 9  Brockway, Andrew     1769  -- NZL 3.5 | -W2   =B11  -W5   +B25  +W16  +B18
+ 10  James, Jack          1874  -- NZL 3.5 | -W12  -B3   +W19  =B18  +W17  +B13
+ 11  Chen, Wei Kai        1723  -- NZL 3.5 | -B4   =W9   -B16  +B19  +W24  +W20
+ 12  Li, Henry               0  -- NZL 3.0 | +B10  -W13  +W18  +B15  -W3   -B6
+ 13  Perry, Roger L       2074  -- NZL 3.0 | +W18  +B12  +W6   -B4   -B8   -W10
+ 14  Lyall, Simon         1846  -- NZL 3.0 | +B23  =W8   =B17  -W6   +B20  -W5
+ 15  Nicholls, Leighton   1965  -- NZL 3.0 | +B25  +W17  -B4   -W12  -B7   +W21
+ 16  Farrington, Lawrence 1733  -- NZL 2.5 | -W5   =B19  +W11  -W8   -B9   +B24
+ 17  Aldridge, Alan L     1980  -- NZL 2.5 | +W19  -B15  =W14   --   -B10  +W23
+ 18  Cunningham, Patrick  1766  -- NZL 2.5 | -B13  +W25  -B12  =W10  +B23  -W9
+ 19  List, Robert         1661  -- NZL 2.5 | -B17  =W6   -B10  -W11  +B22  +W25
+ 20  Rose, Nathan            0  -- NZL 2.0 | +BYE  -B6   +W24  -B2   -W14  -B11
+ 21  Aumeier, Beate       1110  -- NZL 2.0 | -W3   -B24  +BYE  +W22  -B5   -B15
+ 22  Capper, David S      1685  -- NZL 2.0 | -W6   -B7   +W25  -B21  -W19  +BYE
+ 23  Meravanage, Satwik      0  -- NZL 1.5 | -W14  +BYE  -B7   =B24  -W18  -B17
+ 24  Wight, Joshua        1267  -- NZL 1.5 | -B8   +W21  -B20  =W23  -B11  -W16
+ 25  Konakanchi, Karthik  1308  -- NZL 1.0 | -W15  -B18  -B22  -W9   +BYE  -B19
+
+
+2014 Trusts Open, A Grade
+
+ 1 Hague, Ben           2385  FM NZL  5.5 | +W7   +B17  +W15  +B6   +W4   =B3
+ 2 Polishchuk, Kirill   2200  -- NZL  5.0 | +W24  =B3   +W5   =B16  +W15  +B8
+ 3 Dive, Russell J      2451  IM NZL  4.5 | +B20  =W2   +B11  =W8   +B7   =W1
+ 4 Smith, Robert W      2342  FM NZL  4.5 | +W18  +B12  =W6   +B9   -B1   +W13
+ 5 Krstev, Antonio      2103  -- NZL  4.5 | =B22  +W30  -B2   +W23  +B11  +W17
+ 6 Garbett, Paul A      2345  IM NZL  4.0 | +B37  +W10  =B4   -W1   =B9   +W19
+ 7 Vincenti, David      2017  CM MLT  4.0 | -B1   +W38  +B22  +W10  -W3   +B16
+ 8 Perry, Roger L       2074  -- NZL  4.0 | =W31  +B35  +W17  =B3   +W16  -W2
+ 9 Bennett, Hilton P    2110  CM NZL  4.0 | =B30  +W25  +B23  -W4   =W6   +B15
+10 Goodhue, Nathan      2138  -- NZL  4.0 | +W36  -B6   +W24  -B7   +W22  +W18
+11 Morrell, Gordon      2248  -- CAN  3.5 | +W34  +B29  -W3   =B19  -W5   +B28
+12 Lim, Benjamin U      2126  -- NZL  3.5 | +B33  -W4   -W29  +B21  =W14  +B26
+13 Huang, Alex          2103  -- NZL  3.5 | =W35  +B31  -W16  +B32  +W26  -B4
+14 Duneas, John         2198  -- NZL  3.5 | -B29  -W23  +B34  +W30  =B12  +W27
+15 Steadman, Michael V  2307  FM NZL  3.0 | +B27  +W19  -B1   +W29  -B2   -W9
+16 Thornton, Giovanni A 2207  -- NZL  3.0 | =B25  +W32  +B13  =W2   -B8   -W7
+17 Li, William Xiang We 2184  -- NZL  3.0 | +W38  -W1   -B8   +B36  +W25  -B5
+18 Zhang, Leo           1999  -- NZL  3.0 | -B4   +W33  =W26  +B28  =W19  -B10
+19 Stuart, Peter W      2122  NM NZL  3.0 | +W21  -B15  +W36  =W11  =B18  -B6
+20 Milligan, Helen      2049  CM NZL  3.0 | -W3   -B24  =B38  +W31  +B23  =B25
+21 Tionko, Efrain       1891  -- AUS  3.0 | -B19  =W27  =B30  -W12  +B38  +W33
+22 Smith, Vivian J      1855 WFM NZL  2.5 | =W5   =B28  -W7   +B24  -B10  =W32
+23 Fan, Allen Chi Zhou  1773  -- NZL  2.5 | =W28  +B14  -W9   -B5   -W20  +B36
+24 Power, P Wayne       1983  -- NZL  2.5 | -B2   +W20  -B10  -W22  =B30  +W35
+25 Gong, Daniel Hanwen  1989  -- NZL  2.5 | =W16  -B9   =W31  +B33  -B17  =W20
+26 Yang, Scott          2165  -- NZL  2.5 | -B32  +W34  =B18  +W27  -B13  -W12
+27 Guico, Leonides      1994  -- NZL  2.5 | -W15  =B21  +W35  -B26  +W32  -B14
+28 Gibbons, Robert E    2072  -- NZL  2.5 | =B23  =W22  =B32  -W18  +B35  -W11
+29 Ang, Alphaeus Wei(W) 1981  -- NZL  2.0 | +W14  -W11  +B12  -B15   --    --
+30 Gilmour, Mark        1890  -- NZL  2.0 | =W9   -B5   =W21  -B14  =W24  =B31
+31 Lyall, Simon         1846  -- NZL  2.0 | =B8   -W13  =B25  -B20  =W36  =W30
+32 Zhang, William Jiewe 1965  -- NZL  2.0 | +W26  -B16  =W28  -W13  -B27  =B22
+33 Rider, Brett         1942  -- NZL  2.0 | -W12  -B18  +B37  -W25  +W34  -B21
+34 Macdonald, Paul      1993  -- NZL  2.0 | -B11  -B26  -W14  +W37  -B33  +BYE
+35 Cooper, Nigel        1885  -- NZL  1.5 | =B13  -W8   -B27  +W38  -W28  -B24
+36 Hair, Philip I       1944  -- NZL  1.5 | -B10  +W37  -B19  -W17  =B31  -W23
+37 Marko, Helmut S      2002  CM PNG  1.5 | -W6   -B36  -W33  -B34  +BYE  =B38
+38 Nicholls, Leighton   1965  -- NZL  1.0 | -B17  -B7   =W20  -B35  -W21  =W37
+
+2014 NZ Senior Championships
+
+ 1 Steadman, Michael V  2307  FM NZL  6.0 | +B16 +W13 =B4  +W3  +W2  +B9  =W6
+ 2 Garbett, Paul A      2345  IM NZL  5.5 | +B15 +W9  =B3  +W5  -B1  +W4  +B11
+ 3 Smith, Robert W      2342  FM NZL  5.0 | +W19 +B6  =W2  -B1  +W10 +W11 =B4
+ 4 Morrell, Gordon      2248  -- CAN  4.5 | =W12 +B18 =W1  +W11 +B7  -B2  =W3
+ 5 Bennett, Hilton P    2110  CM NZL  4.5 | =W18 +B12 =W10 -B2  =B6  +W7  +W9
+ 6 Gibbons, Robert E    2072  -- NZL  4.0 | +B14 -W3  =B11 =B18 =W5  +W15 =B1
+ 7 Taylor, Richard      1850  -- NZL  4.0 | -W10 +B8  +W12 +B19 -W4  -B5  +W14
+ 8 Booth, Anthony J     1689  -- NZL  4.0 | -B11 -W7  +B20 +W13  --  +B18 +W12
+ 9 Cornford, Lindsay    1970  -- NZL  3.5 | +W17 -B2  +W15 =B10 +W19 -W1  -B5
+ 10 Stuart, Peter W      2122  NM NZL  3.5 | +B7  =W11 =B5  =W9  -B3   --  +W15
+ 11 Spiller, Paul S      2013  CM NZL  3.0 | +W8  =B10 =W6  -B4  +W18 -B3  -W2
+ 12 Carpinter, Bernard   1852  -- NZL  3.0 | =B4  -W5  -B7  +W16 =B15 +W19 -B8
+ 13 Power, P Wayne       1983  -- NZL  3.0 | +B20 -B1  -W19 -B8  +W17 -B14 +W18
+ 14 Roberts, Michael H   1759  -- NZL  3.0 | -W6  -B19 -W17 +B20 +B16 +W13 -B7
+ 15 Cooper, Nigel        1885  -- NZL  2.5 | -W2  +W20 -B9  +B17 =W12 -B6  -B10
+ 16 Smith, Vivian J      1855 WFM NZL  2.5 | -W1  =B17 -W18 -B12 -W14 +BYE +B20
+ 17 Ansell, David        1231  -- NZL  2.5 | -B9  =W16 +B14 -W15 -B13 -W20 +BYE
+ 18 Goffin, Peter B      1819  -- NZL  2.0 | =B5  -W4  +B16 =W6  -B11 -W8  -B13
+ 19 Lynn, K William  (W) 1863  -- NZL  2.0 | -B3  +W14 +B13 -W7  -B9  -B12  –
+
+
+
+2014 Bay of Plenty Rapid, A grade
+ 
+ 1 Steadman, Michael V  2232  FM NZL  4.5 | +W14  +B4   =W3   -B2   +B5   +W10
+ 2 Smith, Robert W      2274  FM NZL  4.5 | =B10  +W9   +B5   +W1   -B4   +W6
+ 3 Hague, Ben           2367  FM NZL  4.5 | +W12  +B7   =B1   -W5   +B10  +W4
+ 4 Pinic, Noel          2228  -- NZL  4.0 | +B13  -W1   +B10  +W11  +W2   -B3
+ 5 Thornton, Giovanni A 2178  -- NZL  4.0 | +W16  +B8   -W2   +B3   -W1   +B12
+ 6 Runcan, Daniel I     1986  -- ROU  3.0 | -B8   +B16  +W7   -W10  +B11  -B2
+ 7 Bennett, Hilton P    2004  CM NZL  3.0 | +B11  -W3   -B6   =W13  =W14  +B15
+ 8 Ang, Alphaeus Wei Er 1632  -- NZL  3.0 | +W6   -W5   -B11  +W9   -B15  +B16
+ 9 Lim, Benjamin U      2003  -- NZL  3.0 | =W15  -B2   =W14  -B8   +W16  +B13
+10 Jackson, L Ross      1975  -- NZL  2.5 | =W2   +B15  -W4   +B6   -W3   -B1
+11 Marko, Helmut S      1876  CM PNG  2.5 | -W7   +B12  +W8   -B4   -W6   =B14
+12 James, Jack          1979  -- NZL  2.5 | -B3   -W11  +W16  +B14  =B13  -W5
+13 Spiller, Paul S      1954  CM NZL  2.5 | -W4   =B14  +W15  =B7   =W12  -W9
+14 Milligan, Helen      1957  CM NZL  2.0 | -B1   =W13  =B9   -W12  =B7   =W11
+15 Smith, Vivian J      1740 WFM NZL  1.5 | =B9   -W10  -B13  -B16  +W8   -W7
+16 Wright, Caleb        1880  -- NZL  1.0 | -B5   -W6   -B12  +W15  -B9   -W8....
+
+2014 Auckland Chess Centre March Weekender
+ 
+ 1 Hague, Ben           2385  FM NZL  5.0 | +B21  +W13  +W7   +B4   =W2   =B3
+ 2 Garbett, Paul A      2345  IM NZL  5.0 | +W29  +B18  +W5   =BYE  =B1   +W6
+ 3 Duneas, John         2198  -- NZL  4.5 | +BYE  =B8   +W14  +B15  =W5   =W1
+ 4 Smith, Robert W      2342  FM NZL  4.5 | +B23  +W20  =B6   -W1   +B28  +W15
+ 5 Thornton, Giovanni A 2207  -- NZL  4.5 | +B31  +W19  -B2   +W13  =B3   +W12
+ 6 Lim, Benjamin U      2126  -- NZL  4.0 | +W32  +B22  =W4   =B9   +W7   -B2
+ 7 Li, William Xiang We 2184  -- NZL  4.0 | +B26  +W28  -B1   +W16  -B6   +W20
+ 8 Ang, Alphaeus Wei Er 1981  -- NZL  4.0 | +B39  =W3   -B12  +W18  +B19  =W10
+ 9 Krstev, Antonio      2103  -- NZL  4.0 | +W38  +B10  =BYE  =W6   -B12  +W23
+10 Gibbons, Robert E    2072  -- NZL  4.0 | +B40  -W9   =BYE  +B24  +W22  =B8
+11 Milligan, Helen      2049  CM NZL  4.0 | +W37  =B17  =BYE  =W19  =B20  +W21
+12 Morrell, Gordon      2248  -- CAN  3.5 | +W24  -B15  +W8   =B14  +W9   -B5
+13 Lyall, Simon         1846  -- NZL  3.5 | +W33  -B1   +W23  -B5   +W14  =B16
+14 Fan, Allen Chi Zhou  1773  -- NZL  3.5 | +B35  +W21  -B3   =W12  -B13  +W28
+15 Eade, Don            1911  -- NZL  3.5 | +B36  +W12  =BYE  -W3   +B17  -B4
+16 Matejevic, Bojan        0  -- SRB  3.5 | -B20  +W26  +W38  -B7   +B25  =W13
+17 Bennett, Hilton P    2110  CM NZL  3.5 | +B25  =W11  =BYE  =B22  -W15  +B29
+18 Taylor, Richard      1850  -- NZL  3.5 | +B34  -W2   =BYE  -B8   +W30  +B31
+19 Nicholls, Leighton   1965  -- NZL  3.0 | +BYE  -B5   +W27  =B11  -W8   =B22
+20 Gilmour, Mark        1890  -- NZL  3.0 | +W16  -B4   =W29  +B32  =W11  -B7
+21 Chen, Wei Kai        1723  -- NZL  3.0 | -W1   -B14  +W33  +B26  +W31  -B11
+22 Zhang, Leo           1999  -- NZL  3.0 | +B30  -W6   +B31  =W17  -B10  =W19
+23 Huang, Nicholas      1602  -- NZL  3.0 | -W4   +W34  -B13  +B38  +W24  -B9
+24 Wang, Aaron Ziwen    1382  -- NZL  3.0 | -B12  +W36  +B25  -W10  -B23  +W35
+25 Li, Rodney Xiang Rei 1127  -- NZL  3.0 | -W17  +B37  -W24  +B36  -W16  +B33
+26 Qin, Nicole Shu Yu   1305  -- NZL  3.0 | -W7   -B16  +B39  -W21  +W40  +B32
+27 Li, Leo Xiang Yu      829  -- NZL  3.0 | -B28  +W40  -B19  -W31  +B39  +W36
+28 Gong, Daniel Hanwen  1989  -- NZL  2.5 | +W27  -B7   =W32  +B29  -W4   -B14
+29 Qin, Joy Shu Yan     1627  -- NZL  2.5 | -B2   +W35  =B20  -W28  +B34  -W17
+30 Pan, Darrick         1045  -- NZL  2.5 | -W22  -B38  =B35  +W34  -B18  +W39
+31 Zhang, Jasmine       1342  -- NZL  2.0 | -W5   +B33  -W22  +B27  -B21  -W18
+32 Ansell, David        1231  -- NZL  2.0 | -B6   +W39  =B28  -W20  =B35  -W26
+33 Qin, Oscar Shu Xuan     0  -- NZL  2.0 | -B13  -W31  -B21  +BYE  +W37  -W25
+34 Picken, Oliver          0  -- NZL  2.0 | -W18  -B23  +W37  -B30  -W29  +W38
+35 Xu, David               0  -- NZL  2.0 | -W14  -B29  =W30  +B40  =W32  -B24
+36 Huang, Yan Yu           0  -- NZL  2.0 | -W15  -B24  +W40  -W25  +B38  -B27
+37 Zhang, Toby           872  -- NZL  1.5 | -B11  -W25  -B34  =W39  -B33  +B40
+38 Su, Danny            1079  -- NZL  1.0 | -B9   +W30  -B16  -W23  -W36  -B34
+39 Fu, Alex              812  -- NZL  0.5 | -W8   -B32  -W26  =B37  -W27  -B30
+40 Barry, Jacob         1073  -- NZL  0.0 | -W10  -B27  -B36  -W35  -B26  -W37
+
+2014 Hawkes Bay Rapid, A grade
+
+ 1 Smith, Robert W      2274  FM NZL  5.5 | +B11  +W4   =B2   +W3   +B9   +W6
+ 2 Noble, Mark F        2310  FM NZL  5.5 | +W14  +B12  =W1   +B6   +W4   +B3
+ 3 James, Jack          1979  -- NZL  4.0 | +W6   +B7   +W9   -B1   +W12  -W2
+ 4 Ang, Alphaeus Wei Er 1632  -- NZL  4.0 | +W8   -B1   +W12  +W7   -B2   +W9
+ 5 Sharko, Andrei V     1860  -- NZL  3.5 | =W9   -B8   +W14  -B12  +W11  +W10
+ 6 Smith, Christopher   1840  -- NZL  3.0 | -B3   +W11  +B13  -W2   +B7   -B1
+ 7 Cooze, Brent         1625  -- NZL  3.0 | +B10  -W3   +W8   -B4   -W6   +B14
+ 8 Jackson, L Ross      1975  -- NZL  3.0 | -B4   +W5   -B7   -W10  +B14  +W12
+ 9 Benson, James        1454  -- NZL  2.5 | =B5   +W10  -B3   +W13  -W1   -B4
+10 Milligan, Helen      1957  CM NZL  2.5 | -W7   -B9   =W11  +B8   +W13  -B5
+11 Timergazi, Layla     1853  -- NZL  2.5 | -W1   -B6   =B10  +W14  -B5   +B13
+12 Spiller, Paul S      1954  CM NZL  2.0 | +B13  -W2   -B4   +W5   -B3   -B8
+13 List, Robert         1575  -- NZL  1.0 | -W12  +B14  -W6   -B9   -B10  -W11
+14 Macfarlane, Magnus   1881  -- NZL  0.0 | -B2   -W13  -B5   -B11  -W8   -W7
+
+
+2014 121st NZ Congress Championship, Auckland, Alexandra Park, Auckland Chess Centre
+ 
+ 1 Wang, Pu Chen       2440 7.5 | +W18  +W11  =B4   -B2   +W13  +W5   +B3   +B6   +W7
+ 2 Dive, Russell J     2441 7.0 | =B7   +W12  +B22  +W1   =B3   -W4   +W10  +B8   +W6
+ 3 Ker, Anthony F      2423 6.0 | +B19  +W6   =B5   +W4   =W2   +B14  -W1   -W7   +B13
+ 4 Hague, Ben          2387 5.5 | +W29  +B26  =W1   -B3   +W7   +B2   -W6   =B5   =W9
+ 5 Garbett, Paul A     2339 5.5 | +W16  +B13  =W3   =B8   =W10  -B1   +W9   =W4   =B11
+ 6 Steadman, Michael   2291 5.5 | +W23  -B3   +W29  =B10  +W8   +B13  +B4   -W1   -B2
+ 7 Li, William         2116 5.5 | =W2   =B17  +W16  =B26  -B4   +W22  +W14  +B3   -B1
+ 8 Smith, Robert W     2348 5.5 | -B12  +W28  +B27  =W5   -B6   +W11  +B26  -W2   +W16
+ 9 Duneas, John        2185 5.5 | -W22  +B24  -W13  +B21  +B20  +W27  -B5   +W10  =B4
+10 Thornton, Giovanni  2202 5.0 | =B15  =W20  +B18  =W6   =B5   +W12  -B2   -B9   +W21
+11 Morrell, Gord       2159 5.0 | +W24  -B1   =W14  =B17  +W16  -B8   +W15  =B13  =W5
+12 Lam,Daniel King-wai 2100 5.0 | +W8   -B2   +W23  -B13  +W15  -B10  =W17  +W22  =B14
+13 McLaren, Leonard J  2326 4.5 | +B25  -W5   +B9   +W12  -B1   -W6   +B27  =W11  -W3
+14 Yang, Scott         2150 4.5 | =B20  =W15  =B11  +W22  +B26  -W3   -B7   =W17  =W12
+15 Kumar, Vinod        2021 4.5 | =W10  =B14  =W17  =B29  -B12  +W19  -B11  =B23  +W26
+16 Rains, Edward       2086 4.5 | -B5   +W25  -B7   +W28  -B11  =B18  +W20  +W27  -B8
+17 Stuart, Peter W     2118 4.5 | =B28  =W7   =B15  =W11  =B22  =W26  =B12  =B14  =W18
+18 Lim, Benjamin U     2109 4.5 | -B1   +W21  -W10  +B30  -B27  =W16  =B19  +W26  =B17
+19 Huang, Alex         2103 4.5 | -W3   -B23  +W30  =B25  =W29  -B15  =W18  +W24  +B22
+20 Rains, Timothy      1998 4.0 | =W14  =B10  -W26  +B23  -W9   +BYE  -B16  -B21  +W30
+21 Jia, Hao            1995 4.0 | -B27  -B18  +W25  -W9   +B28  =W23  =B24  +W20  -B10
+22 Martin-Buss,Barry   2009 3.5 | +B9   +W27  -W2   -B14  =W17  -B7   +W30  -B12  -W19
+23 Milligan, Helen     2062 3.5 | -B6   +W19  -B12  -W20  =W24  =B21  =B25  =W15  =W28
+24 Gong, Daniel Hanwen 2000 3.5 | -B11  -W9   +B28  -W27  =B23  =W25  =W21  -B19  +BYE
+25 Meyer, Marany       2062 3.5 | -W13  -B16  -B21  =W19  =W30  =B24  =W23  =B28  +B27
+26 Goodhue, Nathan     2165 3.0 | +B30  -W4   +B20  =W7   -W14  =B17  -W8   -B18  -B15
+27 Bennett, Hilton P   2137 3.0 | +W21  -B22  -W8   +B24  +W18  -B9   -W13  -B16  -W25
+28 Nicholls, Leighton  1985 3.0 | =W17  -B8   -W24  -B16  -W21  =B30  +BYE  =W25  =B23
+29 Krstev,Antonio (W)  2103 2.0 | -B4   +W30  -B6   =W15  =B19  -BYE   --    --    --
+30 Zhang,William Jiewe 2007 2.0 | -W26  -B29  -B19  -W18  =B25  =W28  -B22  +BYE  -B20
+
+
+2014 121st NZ Congress Major Open, Auckland, Alexandra Park, Auckland Chess Centre
+
+ 1 Martin-Buss, Sean   1983 7.0 | +B39  +W25  +B2   +W7   +B3   +W4   -B5   +W6   -B8
+ 2 Macdonald, Paul     1967 7.0 | +W24  +B15  -W1   +W33  +B12  =W7   +B26  +W5   =B4
+ 3 Ang,Alphaeus Wei Er 1993 6.5 | +W22  +B34  +W10  +B6   -W1   +W9   +B4   =W7   -B5
+ 4 Cooper, Nigel       1719 6.5 | +B12  +W35  +W16  +B13  +W10  -B1   -W3   +B11  =W2
+ 5 McNally, Ian        1913 6.5 | =W30  =B29  +W11  =B15  +W16  +B13  +W1   -B2   +W3
+ 6 Timergazi, Layla    1952 6.0 | +B33  +W32  +B8   -W3   -B9   +W17  +B12  -B1   +W19
+ 7 Jackson, L Ross     2000 6.0 | +W40  +B11  +W17  -B1   +W23  =B2   +W31  =B3   -W10
+ 8 Al-Muhaisen,Neethea 2055 6.0 | +W19  +B27  -W6   -W9   +B32  -B11  +W21  +B18  +W1
+ 9 Kong-Lim, Qi Le     1506 6.0 | =W16  =B44  +W24  +B8   +W6   -B3   -W11  +B23  +W15
+10 Vital, Henry        1997 6.0 | +B21  +W23  -B3   +W31  -B4   -W12  +B39  +W32  +B7
+11 Fan, Allen Chi Zhou 1745 6.0 | +B45  -W7   -B5   +W43  +B39  +W8   +B9   -W4   +B17
+12 Eade, Don           1929 5.5 | -W4   +B46  +W30  +B19  -W2   +B10  -W6   =B16  +W24
+13 Tionko, Efrain      1966 5.5 | =B28  +W36  +B29  -W4   +B25  -W5   =B17  +W26  =B14
+14 Liu, Brian          1965 5.5 | -W29  +B37  =W34  -B36  +W42  +B24  +W23  =B15  =W13
+15 Smith, Vivian J     1837 5.0 | +B20  -W2   +B35  =W5   -B17  +W25  +B30  =W14  -B9
+16 Cotty, Richard      2049 5.0 | =B9   +W28  -B4   +W27  -B5   =W30  +B35  =W12  =B26
+17 Taylor, Richard     1862 5.0 | +B47  +W31  -B7   =W25  +W15  -B6   =W13  +B33  -W11
+18 Holdo, Karl         1665 5.0 | =B43  =W26  -B25  +W21  -B30  +W20  +B34  -W8   +B35
+19 Qin, Joy Shu Yan    1545 5.0 | -B8   +W49  +B39  -W12  +B34  -W26  +B29  +W31  -B6
+20 Qin, Nicole Shu Yu  1129 5.0 | -W15  -B22  +W46  =B24  +W41  -B18  +B27  =W25  +B29
+21 Lee, Ryan           1425 5.0 | -W10  +W38  -B31  -B18  +W43  +B44  -B8   +W37  +BYE
+22 Yan, Sarah          1384 5.0 | -B3   +W20  -B33  -W39  -B35  +W48  +B44  +W34  +B31
+23 Knightbridge, Wayne 1600 4.5 | +BYE  -B10  +W44  +W26  -B7   +W33  -B14  -W9   =B25
+24 Holdaway, Steven    1337 4.5 | -B2   +W47  -B9   =W20  +B27  -W14  +B42  +W30  -B12
+25 Li, Jiapeng         1655 4.5 | +W46  -B1   +W18  =B17  -W13  -B15  +W41  =B20  =W23
+26 Gold, Hamish R      1848 4.5 | =W44  =B18  +W40  -B23  +W36  +B19  -W2   -B13  =W16
+27 Michael, Andrew     1633 4.5 | +B49  -W8   =B32  -B16  -W24  +B28  -W20  +B41  +W33
+28 Wang, Aaron Ziwen   1278 4.5 | =W13  -B16  -W36  -B41  +B48  -W27  +BYE  +B40  +W39
+29 Kong-Lim, Yu Le     1273 4.0 | +B14  =W5   -W13  =B34  +W37  -B31  -W19  +B36  -W20
+30 Dong, Olivia        1236 4.0 | =B5   +W43  -B12  =W32  +W18  =B16  -W15  -B24  =W38
+31 Pakenham, John      1748 4.0 | +W41  -B17  +W21  -B10  +W40  +W29  -B7   -B19  -W22
+32 Mukkattu, Philip    1678 4.0 | +W42  -B6   =W27  =B30  -W8   +B38  +W36  -B10  -BYE
+33 Yan, Caroline       1255 4.0 | -W6   +B41  +W22  -B2   +W44  -B23  +W40  -W17  -B27
+34 Kay, J Bruce        1782 4.0 | +B38  -W3   =B14  =W29  -W19  +B45  -W18  -B22  +W44
+35 Laughland,Alexander 1561 4.0 | +W48  -B4   -W15  =B37  +W22  =B36  -W16  +B45  -W18
+36 Roberts, Michael H  1814 4.0 | =W37  -B13  +B28  +W14  -B26  =W35  -B32  -W29  +B43
+37 Li, Rodney          1077 4.0 | =B36  -W14  +B48  =W35  -B29  -W39  +W46  -B21  +W45
+38 Su, Danny            957 4.0 | -W34  -B21  +W47  -B40  +B49  -W32  +B43  =W39  =B30
+39 Zhang, Jasmine      1347 3.5 | -W1   +B42  -W19  +B22  -W11  +B37  -W10  =B38  -B28
+40 Garland, Mana       1471 3.5 | -B7   +W45  -B26  +W38  -B31  =W42  -B33  -W28  +B48
+41 Barry, Jacob         954 3.5 | -B31  -W33  =B43  +W28  -B20  +W47  -B25  -W27  +W46
+42 Li, Leo Xiang Yu     777 3.5 | -B32  -W39  +B45  +W49  -B14  =B40  -W24  -W43  +BYE
+43 Zhang, Jennifer      623 3.0 | =W18  -B30  =W41  -B11  -B21  +BYE  -W38  +B42  -W36
+44 McRae, John         1147 3.0 | =B26  =W9   -B23  +W48  -B33  -W21  -W22  +BYE  -B34
+45 Zhang, Leo           912 3.0 | -W11  -B40  -W42  +B47  +B46  -W34  +B49  -W35  -B37
+46 Ryu, Rosa            599 2.5 | -B25  -W12  -B20  +BYE  -W45  +W49  -B37  =W47  -B41
+47 Rudkins, Linton R   1175 2.5 | -W17  -B24  -B38  -W45  +BYE  -B41  =W48  =B46  =B49
+48 Lee, Dylan           507 2.0 | -B35  +BYE  -W37  -B44  -W28  -B22  =B47  =W49  -W40
+49 Lee, Amy             578 2.0 | -W27  -B19  +BYE  -B42  -W38  -B46  -W45  =B48  =W47
+
+2014 121st NZ Congress Rapid, Auckland, Alexandra Park, Auckland Chess Centre
+
+ 1 Wang, Pu Chen       2420 8.5 | +B34  +W37  +B12  +W6   +B15  +W3   +B20  =W5   +B7
+ 2 Shen, Daniel        2231 7.0 | +W56  +B22  +W4   =B5   -W8   =W9   +B11  +W17  +B6
+ 3 Ker, Anthony F      2357 7.0 | +W41  +B43  +W16  -B15  +W22  -B1   +W14  +W20  +B5
+ 4 Gao, Hans           2280 6.5 | +B19  +W31  -B2   +W37  =B9   -B5   +W51  +W21  +B16
+ 5 Pinic, Noel         2228 6.0 | +B32  +W13  +B20  =W2   -B6   +W4   +W8   =B1   -W3
+ 6 Dive, Russell J     2390 6.0 | +W45  +B39  +W10  -B1   +W5   =W17  +B15  =B7   -W2
+ 7 Hague, Ben          2367 6.0 | +B28  +W26  =W24  =B8   +B13  +W23  =B17  =W6   -W1
+ 8 Smith, Robert W     2274 6.0 | +W51  =B46  +W21  =W7   +B2   =W15  -B5   +B33  =W9
+ 9 Green, Ewen M       2201 6.0 | +W40  -B10  +W35  +B39  =W4   =B2   =W33  +B22  =B8
+10 Goodhue, Nathan     1978 6.0 | +B38  +W9   -B6   =W27  -B11  +W53  =B25  +W18  +B23
+11 Lam,Daniel King-wai 2002 6.0 | +W47  -B16  +W45  -B33  +W10  +B44  -W2   +B31  +W24
+12 Ansell, Alan        2086 6.0 | +W59  +B29  -W1   +B30  +W24  -W20  -B21  +B48  +W25
+13 James, Jack         1979 6.0 | +W64  -B5   +W34  +B38  -W7   -B14  +W39  +B28  +W21
+14 Rains, Edward       1867 6.0 | +B61  -W23  -B27  +W57  +B31  +W13  -B3   +W38  +B20
+15 Steadman, Michael V 2232 5.5 | +B42  +W18  +B23  +W3   -W1   =B8   -W6   -W16  +B33
+16 Thornton, Giovanni  2178 5.5 | +B49  +W11  -B3   +W42  -B20  +W40  =W24  +B15  -W4
+17 Carpinter, Anthony  2129 5.5 | +W53  =B21  +W46  =B24  +W33  =B6   =W7   -B2   =W19
+18 Tanoi, T Edward     1917 5.5 | +W58  -B15  -W30  +B53  +W43  =B26  +W29  -B10  +W34
+19 Fan, Allen Chi Zhou 1645 5.5 | -W4   +B66  +W29  -B22  +W41  -B33  +W44  +B26  =B17
+20 Hart, Ralph         2257 5.0 | +B27  +W36  -W5   +B40  +W16  +B12  -W1   -B3   -W14
+21 Runcan, Daniel I    1986 5.0 | +B50  =W17  -B8   +W46  +B27  =W25  +W12  -B4   -B13
+22 Duffin, Mike        1903 5.0 | +B57  -W2   +B31  +W19  -B3   +W28  =B23  -W9   =B30
+23 Lukey, Stephen G    2239 5.0 | +W35  +B14  -W15  +W52  +B25  -B7   =W22  =B24  -W10
+24 Barlow, Matthew J   2121 5.0 | +B52  +W25  =B7   =W17  -B12  +W38  =B16  =W23  -B11
+25 Zhang,William Jiewe 2023 5.0 | +W44  -B24  +W41  +B26  -W23  =B21  =W10  +W27  -B12
+26 Carpinter, Bernard  1841 5.0 | +W48  -B7   +B36  -W25  +B34  =W18  =B27  -W19  +W39
+27 Ang,Alphaeus Wei Er 1632 5.0 | -W20  +B62  +W14  =B10  -W21  +B35  =W26  -B25  +W37
+28 Gong, Daniel Hanwen 1698 5.0 | -W7   +B65  -W33  +B47  +W29  -B22  +B42  -W13  +B38
+29 Lim, Benjamin U     2003 5.0 | +B60  -W12  -B19  +W65  -B28  +W36  -B18  +W41  +B43
+30 Gilmour, Mark       1825 5.0 | +W65  -B33  +B18  -W12  =B32  =W42  =B52  +W51  =W22
+31 Timergazi, Layla    1853 5.0 | +W66  -B4   -W22  +B58  -W14  +B62  +B40  -W11  +B49
+32 Qin, Joy Shu Yan    1520 5.0 | -W5   +B64  -W39  +B56  =W30  -B51  =W41  +B44  +W46
+33 McNabb, Matthew D   2046 4.5 | -B37  +W30  +B28  +W11  -B17  +W19  =B9   -W8   -W15
+34 Nicholls, Leighton  1728 4.5 | -W1   +W63  -B13  +B45  -W26  =B41  +W35  +W52  -B18
+35 Zhan, Judd          1610 4.5 | -B23  +W57  -B9   =W55  +B46  -W27  -B34  +W63  +B51
+36 Macfarlane, Magnus  1881 4.5 | +W62  -B20  -W26  -B43  +W63  -B29  =W47  +B53  +W48
+37 Zhang, Jasmine      1274 4.0 | +W33  -B1   +W44  -B4   -W40  +B45  -B48  +W57  -B27
+38 Pan, Darrick        1031 4.0 | -W10  +B56  +B54  -W13  +W39  -B24  +W57  -B14  -W28
+39 Hair, Philip I      1819 4.0 | +B63  -W6   +B32  -W9   -B38  +W49  -B13  +W56  -B26
+40 Li, Jiapeng         1437 4.0 | -B9   +W50  +B48  -W20  +B37  -B16  -W31  -W49  +B59
+41 Lam, Byron          1687 4.0 | -B3   +W67  -B25  +W48  -B19  =W34  =B32  -B29  +W58
+42 Chen, Johnson       1575 4.0 | -W15  +B58  +W43  -B16  =W51  =B30  -W28  =B46  =W47
+43 Rains, Timothy      1838 4.0 | +B55  -W3   -B42  +W36  -B18  -W48  +B61  +B45  -W29
+44 Qin, Nicole Shu Yu  1238 4.0 | -B25  +W49  -B37  +W50  +B52  -W11  -B19  -W32  +B57
+45 Gold, Hamish R      1723 4.0 | -B6   +W55  -B11  -W34  +B60  -W37  +B54  -W43  +B52
+46 Tionko, Efrain      1844 4.0 | +B67  =W8   -B17  -B21  -W35  +W55  +B53  =W42  -B32
+47 Wang, Aaron Ziwen   1168 4.0 | -B11  -W54  +B61  -W28  +B50  -W52  =B36  +W55  =B42
+48 Picken, Oliver         0 4.0 | -B26  +BYE  -W40  -B41  +W64  +B43  +W37  -W12  -B36
+49 Ansell, John        1341 4.0 | -W16  -B44  -W53  +B66  +W59  -B39  +W60  +B40  -W31
+50 Zhang, Jennifer     1129 4.0 | -W21  -B40  +W59  -B44  -W47  -B58  +B66  +W60  +B56
+51 Mukkattu, Philip    1642 3.5 | -B8   +W61  -B52  +W54  =B42  +W32  -B4   -B30  -W35
+52 Wang, Tony          1315 3.5 | -W24  +B59  +W51  -B23  -W44  +B47  =W30  -B34  -W45
+53 Yan, Caroline       1316 3.5 | -B17  =W60  +B49  -W18  +B55  -B10  -W46  -W36  +B63
+54 Credo, James        1520 3.5 |  --   +B47  -W38  -B51  -W56  +B59  -W45  =B58  +W61
+55 Starr, Aaron           0 3.5 | -W43  -B45  +W66  =B35  -W53  -B46  +W67  -B47  +B64
+56 Gothorp, Thomas H T 1548 3.0 | -B2   -W38  +B60  -W32  +B54  -BYE  +W62  -B39  -W50
+57 Salazar Eyre, Lucas 1008 3.0 | -W22  -B35  +W64  -B14  +W58  +BYE  -B38  -B37  -W44
+58 Xu, David           1020 3.0 | -B18  -W42  +B67  -W31  -B57  +W50  =B63  =W54  -B41
+59 Dong, Olivia        1282 3.0 | -B12  -W52  -B50  +W67  -B49  -W54  +B65  +B62  -W40
+60 Yan, Sarah          1217 3.0 | -W29  =B53  -W56  +B62  -W45  =W61  -B49  -B50  +W65
+61 Su, Danny            914 3.0 | -W14  -B51  -W47  =B64  +W66  =B60  -W43  +BYE  -B54
+62 Barry, Jacob         968 3.0 | -B36  -W27  +B63  -W60  +B65  -W31  -B56  -W59  +BYE
+63 Zhang, Leo             0 2.5 | -W39  -B34  -W62  +BYE  -B36  +B64  =W58  -B35  -W53
+64 McRae, John         1115 2.5 | -B13  -W32  -B57  =W61  -B48  -W63  +BYE  +B67  -W55
+65 Steadman, Mathew       0 2.0 | -B30  -W28  +BYE  -B29  -W62  -B67  -W59  +W66  -B60
+66 Qin, Oscar Shu Xuan  893 2.0 | -B31  -W19  -B55  -W49  -B61  +BYE  -W50  -B65  +W67
+67 Salazar Eyre, Emma   623 2.0 | -W46  -B41  -W58  -B59  +BYE  +W65  -B55  -W64  -B66
+
+
+2013 North Shore Open
+
+ 1 Wang, Pu Chen        2379  IM NZL  5.0 | +W20  +B7   +W11  +B3   +B5
+ 2 Garbett, Paul A      2332  IM NZL  4.0 | -W7   +B17  +W12  +B18  +W10
+ 3 Hague, Ben           2399  FM NZL  3.5 | +B19  +W15  +B9   -W1   =B4
+ 4 Gao, Hans            2236  -- NZL  3.5 | -B6   +W22  +B7   +W8   =W3
+ 5 Jia, Hao             1783  -- NZL  3.5 | +B13  +W8   =BYE  +B11  -W1
+ 6 Runcan, Daniel I     1949  -- ROU  3.5 | +W4   -B9   =BYE  +B20  +W14
+ 7 Ang, Alphaeus WeiErn 1973  -- NZL  3.0 | +B2   -W1   -W4   +B17  +W20
+ 8 Thornton, Giovanni A 2209  -- NZL  3.0 | +W16  -B5   +W10  -B4   +W18
+ 9 Watson, Bruce R      2373  FM NZL  3.0 | +B23  +W6   -W3   -B10  +W16
+10 Lim, Benjamin U      2108  -- NZL  3.0 | +B12  +W24  -B8   +W9   -B2
+11 Duneas, John         2195  -- NZL  2.5 | +B25  +W14  -B1   -W5   =B15
+12 Gong, Daniel         1880  -- NZL  2.5 | -W10  +BYE  -B2   =W13  +B21
+13 Li, William (Xiang W 2060  -- NZL  2.5 | -W5   =B16  =W17  =B12  +W23
+14 Zhang, Leo           1858  -- NZL  2.5 | +W18  -B11  =W20  +B21  -B6
+15 Bennett, Hilton P    2100  CM NZL  2.5 | +W21  -B3   =BYE  =B16  =W11
+16 Johns, Daniel P      1930  -- NZL  2.0 | -B8   =W13  +B22  =W15  -B9
+17 Timergazi, Layla     1889  -- NZL  2.0 | =B22  -W2   =B13  -W7   +B24
+18 McCrone, Jeffrey     2086  -- NZL  2.0 | -B14  +W23  +B24  -W2   -B8
+19 Milligan, Helen      2049 WFM NZL  2.0 | -W3   =B21  =BYE  +W24   --
+20 Evans, David J       2034  -- NZL  1.5 | -B1   +W25  =B14  -W6   -B7
+21 Taylor, Richard      1862  -- NZL  1.5 | -B15  =W19  +B25  -W14  -W12
+22 Krstev, Antonio      2157  -- NZL  1.5 | =W17  -B4   -W16  -B23  +W25
+23 Gunn, Neil J         1989  -- NZL  1.5 | -W9   -B18  =BYE  +W22  -B13
+24 Cooper, Nigel        1692  -- NZL  1.0 | +BYE  -B10  -W18  -B19  -W17
+25 Gilmour, Mark        1922  -- NZL  1.0 | -W11  -B20  -W21  +BYE  -B22
+
+
+
+2013 Waikato Open
+
+ 1 Smith, Robert W      2323  FM 5.0 | +B9   +W8   =B6   +W2   +W5   =B3
+ 2 Noble, Mark F        2305  FM 4.0 | +W4   =B3   +W12  -B1   =W7   +B6
+ 3 Steadman, Michael V  2289  FM 4.0 | +B19  =W2   =B5   +W9   =W6   =W1
+ 4 Blaxall, Craig S     1934  -- 4.0 | -B2   +W15  +B16  =BYE  =W8   +B9
+ 5 Hague, Ben           2399  FM 3.5 | =W7   +B11  =W3   +W10  -B1   =B8
+ 6 Stuart, Peter W      2108  NM 3.5 | +W13  +B10  =W1   =BYE  =B3   -W2
+ 7 Wright, Caleb        1976  -- 3.5 | =B5   =W16  -B9   +W15  =B2   +W14
+ 8 Hart, Ralph          2279  -- 3.5 | +W18  -B1   +W13  =BYE  =B4   =W5
+ 9 Ang, Alphaeus WeiErn 1973  -- 3.0 | -W1   +B18  +W7   -B3   +B12  -W4
+10 Yang, Scott          2148  -- 3.0 | =B16  -W6   +W14  -B5   +B15  =W11
+11 Lyall, Simon         1820  -- 3.0 | =B12  -W5   =B19  =B13  +W16  =B10
+12 Tan, Eddie K C (ENG) 1998  -- 3.0 | =W11  +B14  -B2   =BYE  -W9   +B16
+13 Zhang, Leo           1858  -- 2.5 | -B6   +W19  -B8   =W11  -B14  +W18
+14 Cooper, Nigel        1692  -- 2.5 | =BYE  -W12  -B10  +B18  +W13  -B7
+15 James, Jack          1857  -- 2.0 | -W17  -B4   +W18  -B7   -W10  +B19
+16 Dolejs, Dan          1871  -- 1.5 | =W10  =B7   -W4   =BYE  -B11  -W12
+17 Bennett, Hilton P(W) 2100  CM 1.0 | +B15   --    --    --    --    --
+18 Gautam, Asheesh (FIJ)1902  -- 1.0 | -B8   -W9   -B15  -W14  +W19  -B13
+19 Lynn, K William      1927  -- 1.0 | -W3   -B13  =W11  =BYE  -B18  -W15
+
+2013 Oceania Seniors
+
+ 1 Lovejoy David     1930  6.0 | +B8   +W5   =B3   =W2   +B9   +B6   +W7
+ 2 Nijman Arie J     1824  6.0 | +B10  =W3   +B6   =B1   +W8   +W4   +B9
+ 3 Milligan Helen    1978  5.5 | +W9   =B2   =W1   +W6   =B4   +W5   +B8
+ 4 Glissan Paul      1850  3.5 | -W6   +B7   +W10  +B9   =W3   -B2   -W5
+ 5 Booth Anthony J   1819  3.0 | +W7   -B1   -W9   -B8   +W10  -B3   +B4
+ 6 Smith Vivian J    1742  3.0 | +B4   =W8   -W2   -B3   +B7   -W1   =W10
+ 7 Dellaca Bruce     1601  2.5 | -B5   -W4   =B8   +B10  -W6   +W9   -B1
+ 8 Cooper Nigel      1772  2.5 | -W1   =B6   =W7   +W5   -B2   =B10  -W3
+ 9 Gloistein Bruce H 1790  2.0 | -B3   +W10  +B5   -W4   -W1   -B7   -W2
+10 Keeling Roy L     1648  1.0 | -W2   -B9   -B4   -W7   -B5   =W8   =B6
+
+
+2013 Auckland Chess Centre May Weekender
+ 
+ 1 Gao, Hans            2204  -- NZL  6.0 | =B26  +W17  +B13  +W12  +B2   +W11  =W4
+ 2 Hague, Ben           2355  FM NZL  5.0 | +W23  +B18  +W11  +B3   -W1   =B4   =W6
+ 3 Runcan, Daniel I     1927  -- ROU  5.0 | +B27  =W13  +B22  -W2   =B7   +W21  +W9
+ 4 Steadman, Michael V  2232  FM NZL  5.0 | +B21  =W12  +B7   =BYE  +W10  =W2   =B1
+ 5 Ang, Alphaeus WeiErn 1737  -- NZL  5.0 | +B28  =W9   -B12  =W19  +B15  +W16  +B11
+ 6 Green, Ewen M        2204  FM NZL  5.0 | +W25  =B7   =BYE  +W21  =B8   +W20  =B2
+ 7 Zhang, Leo           1756  -- NZL  4.5 | +B32  =W6   -W4   +B24  =W3   +B25  =W10
+ 8 Duneas, John         2074  -- NZL  4.5 | +B15  +W20  =B10  =BYE  =W6   -B9   +W14
+ 9 Wheeler, Bruce       2098  -- NZL  4.5 | +W19  =B5   =BYE  +W15  =B20  +W8   -B3
+10 Tanoi, T Edward      1911  -- NZL  4.5 | +W24  +B31  =W8   =BYE  -B4   +W22  =B7
+11 Milligan, Helen      2006 WFM NZL  4.0 | +W35  +B14  -B2   +W16  +W18  -B1   -W5
+12 Perry, Roger L       1803  -- NZL  4.0 | +W34  =B4   +W5   -B1   =W22  -B14  +B20
+13 Mukkattu, Philip     1673  -- NZL  4.0 | +W29  =B3   -W1   -B22  =W32  +B24  +W25
+14 Gong, Daniel         1589  -- NZL  4.0 | +B30  -W11  -B15  +W27  +B19  +W12  -B8
+15 Wang, Tony           1135  -- NZL  4.0 | -W8   +B33  +W14  -B9   -W5   +B31  +W23
+16 Zhang, Jasmine       1006  -- NZL  4.0 | -W18  +B37  +W25  -B11  +W23  -B5   +B30
+17 Crombie, William R   1617  -- NZL  4.0 | +W37  -B1   -W24  =BYE  +B26  =B18  +W27
+18 Charamova, Jennya    1843  -- NZL  3.5 | +B16  -W2   =B19  +W26  -B11  =W17  =B21
+19 Huang, Nicholas      1232  -- NZL  3.5 | -B9   +W28  =W18  =B5   -W14  +B32  =B22
+20 Lyall, Simon         1741  -- NZL  3.5 | +W33  -B8   +W35  +B23  =W9   -B6   -W12
+21 Li, Johnson          1518  -- NZL  3.5 | -W4   +B34  +W31  -B6   +W24  -B3   =W18
+22 Liu, Brian           1622  -- NZL  3.5 | +B36  =BYE  -W3   +W13  =B12  -B10  =W19
+23 Qin, Joy Shu Yan     1555  -- NZL  3.0 | -B2   +W26  +B27  -W20  -B16  +W28  -B15
+24 Yan, Sarah           1034  -- NZL  3.0 | -B10  +W30  +B17  -W7   -B21  -W13  +W31
+25 Holdaway, Stephen    1382  -- NZL  3.0 | -B6   +W32  -B16  +W28  +B31  -W7   -B13
+26 Yan, Caroline        1293  -- NZL  3.0 | =W1   -B23  +W34  -B18  -W17  =B29  +W36
+27 Wang, Aaron          1063  -- NZL  3.0 | -W3   +B29  -W23  -B14  +W34  +B33  -B17
+28 Burduk, Vanya           0  -- NZL  3.0 | -W5   -B19  +W37  -B25  +W29  -B23  +W33
+29 Masfen-Yan, Nathanie    0  -- NZL  3.0 | -B13  -W27  +B30  =W33  -B28  =W26  +W32
+30 Pan, Darrick            0  -- NZL  2.5 | -W14  -B24  -W29  =B36  +BYE  +B35  -W16
+31 Sivabalan, Brijesh D    0  -- NZL  2.0 | +BYE  -W10  -B21  +B35  -W25  -W15  -B24
+32 Su, Danny             776  -- NZL  2.0 | -W7   -B25  +W36  =BYE  =B13  -W19  -B29
+33 Lin Zou, Oliver       602  -- NZL  2.0 | -B20  -W15  =BYE  =B29  +W35  -W27  -B28
+34 Fu, Alex              933  -- NZL  2.0 | -B12  -W21  -B26  +W37  -B27  -B36  +BYE
+35 Qin, Nicole Shu Yu   1084  -- NZL  2.0 | -B11  +W36  -B20  -W31  -B33  -W30  +B37
+36 Mo, Julian              0  -- NZL  2.0 | -W22  -B35  -B32  =W30  =B37  +W34  -B26
+37 Mo, Justin              0  -- NZL  1.5 | -B17  -W16  -B28  -B34  =W36  +BYE  -W35
+
+
+2013 Bay of Plenty Rapid
+
+1 Hague, Ben        FM 2366  5.0 | +W11  =B9   +W5   +W8   =B2   +W4
+2 Smith, Robert W   FM 2257  5.0 | +B20  +W4   +B8   +W7   =W1   =B3
+3 Hulshof, Peter       2093  4.5 | +W22  =W7   =B14  +B6   +W10  =W2
+4 Pinic, Noel          2177  4.0 | +W12  -B2   +W19  +B5   +W14  -B1
+5 Bennett, Hilton      2024  4.0 | +B13  +W14  -B1   -W4   +B17  +W16
+6 Freeman, Michael     2109  4.0 | =B16  =W11  +B17  -W3   +B7   +B10
+7 Steadman, Michael FM 2208  3.5 | +W19  =B3   +W9   -B2   -W6   +B14
+8 Gao, Hans            2207  3.0 | +B17  +W10  -W2   -B1   =W15  =B12
+9 Thornton, Giovanni   2180  3.0 | +B15  =W1   -B7   -W10  =B13  +W21
+10 Krstev, Antonio     2019  3.0 | +W21  -B8   +W15  +B9   -B3   -W6
+11 Milligan, Helen WFM 2018  3.0 | -B1   =B6   =W12  -B15  +W22  +B18
+12 Wright, Caleb       1829  3.0 | -B4   =W20  =B11  +B19  =W18  =W8
+13 Ang, Alphaeus       1673  3.0 | -W5   =B18  +B20  -W14  =W9   +B15
+14 Dordevic, Ivan      2199  2.5 | +W18  -B5   =W3   +B13  -B4   -W7
+15 Runcan, Daniel I    1881  2.5 | -W9   +B21  -B10  +W11  =B8   -W13
+16 MacFarlane, Magnus  1800  2.5 | =W6   -B19  -W18  +W21  +B20  -B5
+17 Kumar, Vinod        1925  2.0 | -W8   +B22  -W6   +B18  -W5    --
+18 Jackson, L Ross     1894  2.0 | -B14  =W13  +B16  -W17  =B12  -W11
+19 Marko, Helmut S  CM 1925  2.0 | -B7   +W16  -B4   -W12  -B21  +W20
+20 Spiller, Paul S     1933  1.5 | -W2   =B12  -W13  +B22  -W16  -B19
+21 Gibbons, John       1354  1.5 | -B10  -W15  =W22  -B16  +W19  -B9
+22 Hothersall, Rik     1799  1.5 | -B3   -W17  =B21  -W20  -B11  +BYE
+
+2013 Auckland Chess Centre March Weekender
+
+ 1 Kumar, Vinod         1928  -- NZL  5.5 | +B27  +W16  +B9   +W2   -W4   +B5   =B3
+ 2 Steadman, Michael V  2232  FM NZL  5.5 | +W20  +B11  =W6   -B1   +W24  +B12  +W4
+ 3 Runcan, Daniel I     1927  -- ROU  5.5 | +W21  +B26  +W12  -B4   +W14  +B6   =W1
+ 4 Hague, Ben           2355  FM NZL  5.0 | +B15  +W10  +B5   +W3   +B1   -W7   -B2
+ 5 Li, William (Xiang W 2040  -- NZL  5.0 | +W17  +B14  -W4   +B8   +W6   -W1   +B7
+ 6 Krstev, Antonio      2074  -- NZL  4.5 | +B13  +W18  =B2   +W7   -B5   -W3   +B15
+ 7 Wheeler, Bruce       2098  -- NZL  4.5 | +BYE  =B12  +W11  -B6   +W18  +B4   -W5
+ 8 Li, Johnson          1518  -- NZL  4.5 | -B9   +W22  +B10  -W5   =B15  +W16  +B18
+ 9 Duneas, John         2074  -- NZL  4.5 | +W8   +B24  -W1   -B14  +W19  +B18  =W11
+10 Eade, Don            1744  -- NZL  4.5 | +W19  -B4   -W8   +B21  +W17  +B14  =W12
+11 Zhang, Leo           1756  -- NZL  4.5 | +B25  -W2   -B7   +W27  +B20  +W13  =B9
+12 Ang, Alphaeus Wei Er 1737  -- NZL  4.0 | +B22  =W7   -B3   +W20  +B16  -W2   =B10
+13 Yan, Caroline        1293  -- NZL  4.0 | -W6   +B28  -W24  +B26  +W21  -B11  +W19
+14 Gong, Daniel         1589  -- NZL  3.5 | +B29  -W5   +B27  +W9   -B3   -W10  =B17
+15 Qin, Joy Shu Yan     1555  -- NZL  3.5 | -W4   -B19  +W23  +B22  =W8   +B24  -W6
+16 Crombie, William R   1617  -- NZL  3.5 | +W30  -B1   +W21  =B24  -W12  -B8   +W22
+17 Huang, Nicholas      1232  -- NZL  3.5 | -B5   +W23  -B18  +W29  -B10  +W25  =W14
+18 Power, P Wayne       1694  -- NZL  3.0 | +W28  -B6   +W17  +B19  -B7   -W9   -W8
+19 Yan, Sarah           1034  -- NZL  3.0 | -B10  +W15  +B25  -W18  -B9   +W20  -B13
+20 Fan, Allen           1542  -- NZL  3.0 | -B2   +W25  +W26  -B12  -W11  -B19  +W24
+21 Wang, Aaron          1063  -- NZL  3.0 | -B3   +W29  -B16  -W10  -B13  +W30  +B26
+22 Zhang, Jasmine       1006  -- NZL  3.0 | -W12  -B8   +W30  -W15  +B29  +W27  -B16
+23 Li, Leo               632  -- NZL  3.0 | -W24  -B17  -B15  -W25  +B30  +W29  +B27
+24 Mukkattu, Philip     1673  -- NZL  2.5 | +B23  -W9   +B13  =W16  -B2   -W15  -B20
+25 Li, Rodney (Xiang Re 1052  -- NZL  2.5 | -W11  -B20  -W19  +B23  +W26  -B17  =W28
+26 Sivabalan, Brijesh D    0  -- NZL  2.0 | +BYE  -W3   -B20  -W13  -B25  +B28  -W21
+27 Qin, Nicole Shu Yu   1084  -- NZL  2.0 | -W1   +B30  -W14  -B11  +W28  -B22  -W23
+28 Salazar, Lucas        813  -- NZL  1.5 | -B18  -W13  -B29  +W30  -B27  -W26  =B25
+29 Fia, Michael            0  -- NZL  1.0 | -W14  -B21  +W28  -B17  -W22  -B23  -B30
+30 Xie, Zhuosi           626  -- NZL  1.0 | -B16  -W27  -B22  -B28  -W23  -B21  +W29
+
+2013 North Island Championships / Wellington Open, Wellington
+
+1 Dive, Russell J      2423 8.0 | +W13  +B11  +W4   +B2   +W3   +B5   +W8   +B7
+2 Berg-Jensen, Joachim 2183 7.0 | +W19  +B15  +W8   -W1   +B10  +W4   +B3   +W12
+3 Rains, Edward        1945 5.5 | +W24  +B5   =W11  +W9   -B1   +B6   -W2   +W4
+4 Johnson, Quentin     2132 5.0 | +W16  +B7   -B1   +W14  +W6   -B2   +W5   -B3
+5 Turner, Michael G    2139 5.0 | +B10  -W3   +B20  +W12  +B9   -W1   -B4   +W14
+6 Nijman, Brian        2218 5.0 | +B25  +W12  -B9   +W7   -B4   -W3   +B19  +W10
+7 Ang, Alphaeus WeiErn 1878 5.0 | +B27  -W4   +B28  -B6   +W16  +W10  +B9   -W1
+8 McDonald, John A     2098 4.5 | +B18  +W28  -B2   -W10  +B19  +W14  -B1   =W9
+9 Forster, William     2088 4.5 | +W21  +B23  +W6   -B3   -W5   +B11  -W7   =B8
+10 Gold, Hamish R       1809 4.0 | -W5   +B26  +W15  +B8   -W2   -B7   +W13  -B6
+11 Nyberg, Michael      2044 4.0 | +B17  -W1   =B3   +W23  +B12  -W9   -B14  =W15
+12 Rains, Timothy       2038 4.0 | +W22  -B6   +W13  -B5   -W11  +B21  +W16  -B2
+13 James, Jack          1857 4.0 | -B1   +W17  -B12  +W20  -B14  +W18  -B10  +W22
+14 Timergazi, Layla     1862 4.0 | -W23  +B21  +W16  -B4   +W13  -B8   +W11  -B5
+15 Jackson, L Ross      1959 4.0 | +B20  -W2   -B10  =W18  -B17  +W25  +W26  =B11
+16 Roberts, Michael H   1788 4.0 | -B4   +W27  -B14  +W17  -B7   +W20  -B12  +W24
+17 Stracy, Don M        1729 4.0 | -W11  -B13  +W26  -B16  +W15  +B22  =W18  =W19
+18 Nicholls, Leighton   1753 4.0 | -W8   =B24  =W22  =B15  +W21  -B13  =B17  +W20
+19 Nijman, Arie J       1818 3.5 | -B2   -W20  +W24  +B22  -W8   +B23  -W6   =B17
+20 Capper, David S      1657 3.0 | -W15  +B19  -W5   -B13  +W27  -B16  +W21  -B18
+21 Cooper, Nigel        1752 3.0 | -B9   -W14  +B27  +W25  -B18  -W12  -B20  +W26
+22 Gloistein, Bruce H   1715 3.0 | -B12  =W25  =B18  -W19  +B28  -W17  +W23  -B13
+23 Chen, Wei Kai           0 3.0 | +B14  -W9   =B25  -B11  =W24  -W19  -B22  +B28
+24 Shierlaw, Hamish     1618 2.5 | -B3   =W18  -B19  +W28  =B23   --   =W25  -B16
+25 Brockway, Andrew     1836 2.5 | -W6   =B22  =W23  -B21  =W26  -B15  =B24  =W27
+26 List, Robert         1665 2.5 |  --   -W10  -B17  +W27  =B25  +W28  -B15  -B21
+27 Cunningham, Patrick  1431 2.5 | -W7   -B16  -W21  -B26  -B20  +BYE  +W28  =B25
+28 Stanton, Lynn           0 1.0 | +BYE  -B8   -W7   -B24  -W22  -B26  -B27  -W23
+
+2013 120th NZ Congress Championship, Wellington
+
+ 1 Wastney, Scott   2381 10  +W15 =B3  +W5  =B6  +W7  +B4  +W2  +B11 +W8  +W9  +B14
+ 2 Smith, Robert    2321 7.5 +B17 +W13 =W6  =B3  =W4  =B7  -B1  +W5  +W11 =B10 +W12
+ 3 Green, Ewen      2184 7.5 +B18 =W1  +B12 =W2  +W6  =B5  =W11 =B4  +W16 =B8  =W7
+ 4 Steadman, Mike   2271 7.0 +B10 -B6  +W16 +W8  =B2  -W1  +B7  =W3  -B5  +W15 +B11
+ 5 Nijman, Brian    2154 7.0 +B8  =W7  -B1  +W12 +B18 =W3  -W6  -B2  +W4  +B16 +W17
+ 6 Hague, Ben       2430 6.5 +B11 +W4  =B2  =W1  -B3  +W8  +B5  +W12 =B9  -B7  -W13
+ 7 Russell, Athula  2274 6.0 =W12 =B5  +W15 +B11 -B1  =W2  -W4  -B9  +B14 +W6  =B3
+ 8 Ker, Anthony     2452 6.0 -W5  +B14 +W13 -B4  +W15 -B6  =W9  +B16 -B1  =W3  +B18
+ 9 Van Der Hoorn, M 2165 6.0 =W14 -B12 =W10 -B18 +W17 +B13 =B8  +W7  =W6  -B1  +B15
+10 Fuatai, Fuatai   2071 5.5 -W4  =W11 =B9  =B13 =W14 +W18 -B12 =W17 =B15 =W2  +B16
+11 Goodhue, Nathan  2146 5.0 -W6  =B10 +W14 -W7  +B16 +W12 =B3  -W1  -B2  +B17 -W4
+12 Forster, Bill    2078 5.0 =B7  +W9  -W3  -B5  +W13 -B11 +W10 -B6  =W17 +W18 -B2
+13 Thomas, Ben      2260 5.0 +W16 -B2  -B8  =W10 -B12 -W9  +B17 =W15 +B18 -W14 +B6
+14 Li, William      1970 4.0 =B9  -W8  -B11 -W17 =B10 =W16 =B15 +B18 -W7  +B13 -W1
+15 Stuart, Peter    2130 3.5 -B1  +W18 -B7  =W16 -B8  =B17 =W14 =B13 =W10 -B4  -W9
+16 Nyberg, Michael  2062 3.0 -B13 +W17 -B4  =B15 -W11 =B14 +W18 -W8  -B3  -W5  -W10
+17 Milligan, Helen  2082 2.5 -W2  -B16 -W18 +B14 -B9  =W15 -W13 =B10 =B12 -W11 -B5
+18 Reedy, Brendan   2014 2.0 -W3  -B15 +B17 +W9  -W5  -B10 -B16 -W14 -W13 -B12 -W8
+
+2013 120th NZ Congress Major Open, Wellington
+
+ 1 Chew Lee, Max    1845  9.0 +W23 +B11 +W14 +B3  +W2  +B5  =W6  -B4  =W7  +B8  +W10
+ 2 Rains, Timothy   1756  8.5 +B27 +W13 +B18 +W34 -B1  +W16 -W4  =B7  +B5  +W3  +B6
+ 3 James, Jack      1775  7.5 +B35 +W16 +B15 -W1  -B4  +W28 +B12 +B10 =W8  -B2  +W7
+ 4 Rains, Edward    1884  7.0 -B18 +W25 +B20 =B5  +W3  +W13 +B2  +W1  =B6  -B7  -W8
+ 5 Timergazi, Layla 1828  7.0 +B24 +W20 =B34 =W4  +B15 -W1  +B13 =B6  -W2  =W9  +B12
+ 6 Jackson, Ross    1996  7.0 -W15 +B33 +B10 +W18 =B13 +W17 =B1  =W5  =W4  +B11 -W2
+ 7 Paul, David      1880  7.0 =B10 =W12 -B31 +W24 +B18 +W20 +B16 =W2  =B1  +W4  -B3
+ 8 Lyall, Simon     1795  7.0 +B25 -W18 =B12 =W10 +B31 =W15 +B17 +W16 =B3  -W1  +B4
+ 9 Brockway, Andrew 1792  7.0 +W33 -B15 -W28 =B26 +W32 +B29 -W10 +W12 +B20 =B5  +W17
+10 Gong, Daniel     1630  6.5 =W7  +B17 -W6  =B8  =W29 +B19 +B9  -W3  +B21 +W15 -B1
+11 Stracy, Don      1764  6.5 +W22 -W1  -B16 +B33 -W17 +B23 +W31 =B15 +W28 -W6  +B19
+12 McIntosh, Andrew    0  6.0 =W17 =B7  =W8  =B29 +W19 +B14 -W3  -B9  +W24 +B28 -W5
+13 Gold, Hamish     1828  6.0 +W29 -B2  +W26 +B28 =W6  -B4  -W5  -B17 +W22 =B14 +W23
+14 Pakenham, John   1749  6.0 +B36 +W21 -B1  +W31 -B16 -W12 -B28 +W27 =B18 =W13 +B15
+15 Cooper, Nigel    1662  5.5 +B6  +W9  -W3  +B19 -W5  =B8  =B21 =W11 +W17 -B10 -W14
+16 Nijman, Arie     1882  5.5 +W26 -B3  +W11 +B23 +W14 -B2  -W7  -B8  -W19 +B25 =W21
+17 Farrington, L    1732  5.5 =B12 -W10 +B27 +W21 +B11 -B6  -W8  +W13 -B15 +W20 -B9
+18 Whittle, J       1656  5.5 +W4  +B8  -W2  -B6  -W7  -B31 +W22 +B26 =W14 -B23 +W28
+19 Roberts, Michael 1841  5.5 +B31 -W34 +B24 -W15 -B12 -W10 +B23 +W25 +B16 =W21 -W11
+20 Gloistein, Bruce 1748  5.5 +W30 -B5  -W4  +B22 +W23 -B7  +W29 =B28 -W9  -B17 +B33
+21 Nicholls, L      1797  5.5 +W28 -B14 -W23 -B17 +W33 +B26 =W15 +B31 -W10 =B19 =B16
+22 Wang, Aaron       970  5.5 -B11 -B23 +W30 -W20 =B25 +W24 -B18 +W32 -B13 +W33 +B29
+23 List, Robert     1626  5.0 -B1  +W22 +B21 -W16 -B20 -W11 -W19 +B36 +B33 +W18 -B13
+24 Chew Lee, Alanna 1551  5.0 -W5  +B30 -W19 -B7  =W26 -B22 +W35 +B29 -B12 +W31 =B27
+25 Cunningham, Pat  1505  5.0 -W8  -B4  -W29 +B30 =W22 +B32 =W27 -B19 +W26 -W16 +BYE
+26 Qin, Joy Shu Yan 1643  5.0 -B16 +W35 -B13 =W9  =B24 -W21 +B33 -W18 -B25 +BYE +W36
+27 Qin, Nicole       960  5.0 -W2  =B29 -W17 -B32 +W30 +W35 =B25 -B14 =W31 +B36 =W24
+28 Gillespie, John  1551  4.5 -B21 +W36 +B9  -W13 +B35 -B3  +W14 =W20 -B11 -W12 -B18
+29 Veldhuizen, Matt 1578  4.5 -B13 =W27 +B25 =W12 =B10 -W9  -B20 -W24 +W36 +B32 -W22
+30 Li, Leo           581  4.5 -B20 -W24 -B22 -W25 -B27 =W36 +BYE -W33 +BYE +BYE +B32
+31 Reid, Anton      1607  3.5 -W19 +B32 +W7  -B14 -W8  +W18 -B11 -W21 =B27 -B24  --
+32 Li, Rodney        951  3.5 -B34 -W31 =B35 +W27 -B9  -W25 +W36 -B22 +BYE -W29 -W30
+33 Wight, Joshua    1386  3.0 -B9  -W6  +B36 -W11 -B21 +BYE -W26 +B30 -W23 -B22 -W20
+34 Millikan, Erlend 1750  2.5 +W32 +B19 =W5  -B2   --   --   --   --   --   --   --
+35 Qian, Bella      1078  2.5 -W3  -B26 =W32 +B36 -W28 -B27 -B24 +BYE -BYE -BYE  --
+36 Konakanchi, S K   809  1.5 -W14 -B28 -W33 -W35 +BYE =B30 -B32 -W23 -B29 -W27 -B26
+
+2007 North Island Championship, Manukau, Papatoetoe Club
+
+  1 McLaren,Leonard J    2182  6.5  +W16  +B23  -W3   +W5   +B4   +B15  +W9   =B2
+  2 Eade,Don             1693  6.5  +W55  -B8   +W49  +B21  +W19  +W20  +B3   =W1
+  3 Cheng,Bobby Sky      1837  6.0  +B40  +W26  +B1   +W11  +B14  +W10  -W2   -B4
+  4 Krstev,Mario         1718  6.0  =W47  +B43  +W19  =B8   -W1   +B29  +B13  +W3
+  5 Chen,Eachen          1639  5.5  +B45  +W20  =W9   -B1   +W24  =B8   =W12  +B19
+  6 Gibbons,Robert E     1879  5.5  +W49  +B29  -W11  -B26  +W16  +B28  +W15  =B8
+  7 Dolejs,Dan E         1664  5.5  +B37  -B9   +W40  -W13  +B31  +W41  =B10  +W20
+  8 Stuart,Peter W       2091  5.0  +B36  +W2   =B25  =W4   =B11  =W5   =B14  =W6
+  9 Browne,Jeremy A      1899  5.0  +B30  +W7   =B5   -W14  +B23  +W22  -B1   =W12
+ 10 Thornton,Giovanni A  1981  5.0  +W44  +B17  =W15  =B12  +W26  -B3   =W7   =B11
+ 11 Petreski,Filip       1515  5.0  +B48  +W22  +B6   -B3   =W8   =W13  =B20  =W10
+ 12 Forster,William      1880  5.0  +B27  +W28  =B14  =W10  -B20  +W26  =B5   =B9
+ 13 Perry,Roger L        2013  5.0  =W32  +B47  =W21  +B7   =W15  =B11  -W4   +B28
+ 14 Shen,Daniel          1493  5.0  +W53  +B24  =W12  +B9   -W3   =B25  =W8   =B17
+ 15 Milligan,Helen       1728  5.0  +B35  +W50  =B10  +W25  =B13  -W1   -B6   +W27
+ 16 Michael,Andrew       1350  5.0  -B1   =W35  +B50  +W18  -B6   +W37  =B22  +W25
+ 17 Chen,Andy Gengyu     1684  5.0  +B39  -W10  =B27  +W35  -B22  +W36  +B26  =W14
+ 18 Cruden,Neil B        1657  5.0  =W43  -B19  +W47  -B16  +W30  +B35  =W25  +W31
+ 19 Goodhue,Nathan       2008  4.5  =B21  +W18  -B4   +W36  -B2   +W38  +B23  -W5
+ 20 Krstev,Antonio       1896  4.5  +W38  -B5   +W34  +B28  +W12  -B2   =W11  -B7
+ 21 Huang,Edward         1299  4.5  =W19  +B32  =B13  -W2   =W33  =B24  +W29  =B22
+ 22 Rawnsley,Louis D     1797  4.5  +W31  -B11  +W38  =B29  +W17  -B9   =W16  =W21
+ 23 Gloistein,Bruce N    1708  4.5  +B42  -W1   =B30  +W27  -W9   +B33  -W19  +B35
+ 24 Taylor,Richard       1744  4.5  +B41  -W14  +B36  +W30  -B5   =W21  -B27  +B44
+ 25 Aldridge,Alan L      1739  4.0  +W33  +B34  =W8   -B15  =W29  =W14  =B18  -B16
+ 26 Gao,Si Judy          1548  4.0  +W52  -B3   +W33  +W6   -B10  -B12  -W17  +W41
+ 27 Ruan,Harry           1220  4.0  -W12  +B46  =W17  -B23  =W32  +B45  +W24  -B15
+ 28 Ward,Simon           1627  4.0  +W46  -B12  +W31  -W20  +B40  -W6   +B41  -W13
+ 29 Kay,J Bruce          1557  4.0  +B51  -W6   +B41  =W22  =B25  -W4   -B21  +W42
+ 30 Alipiev,Atanas A     1234  4.0  -W9   +B37  =W23  -B24  -B18  +W47  +B48  =W32
+ 31 Tsoi,Nicole          1161  4.0  -B22  +W48  -B28  +W45  -W7   +B51  +W34  -B18
+ 32 Taylor,David C       1303  4.0  =B13  -W21  -B35  +W48  =B27  =W42  +B37  =B30
+ 33 Wu,Bill              1124  4.0  -B25  +W54  -B26  +W44  =B21  -W23  =B36  +W40
+ 34 Gothorp,Thomas HT    1391  4.0  +B54  -W25  -B20  +W42  -B41  +W50  -B31  +W45
+ 35 Guo,Charlie          1100  3.5  -W15  =B16  +W32  -B17  +B44  -W18  +B38  -W23
+ 36 Huang,Alex           1310  3.5  -W8   +B42  -W24  -B19  +W47  -B17  =W33  +B43
+ 37 Chen,Wan-Xin          967  3.5  -W7   -W30  +B52  +B49  =W38  -B16  -W32  +B39
+ 38 Ruan,Jack            1222  3.5  -B20  +W45  -B22  +W50  =B37  -B19  -W35  +W48
+ 39 Lin,Howard           1006  3.5  -W17  -B44  =W43  +B47  -B51  +W53  +B50  -W37
+ 40 McRae,John H         1183  3.0  -W3   +W52  -B7   +B43  -W28  =W48  =B42  -B33
+ 41 Zhu,Karl             1142  3.0  -W24  +B53  -W29  +B54  +W34  -B7   -W28  -B26
+ 42 Zhang,Harrison       1038  3.0  -W23  -W36  +B51  -B34  +W46  =B32  =W40  -B29
+ 43 Yang,Mona             947  3.0  =B18  -W4   =B39  -W40  -B48  +W54  +B52  -W36
+ 44 Maroroa,Temu A       1236  3.0  -B10  +W39        -B33  -W35  +B46  +W51  -W24
+ 45 Zhu,Leo               925  3.0  -W5   -B38  +W53  -B31  +W49  -W27  +B54  -B34
+ 46 Yang,Edison           909  3.0  -B28  -W27  -B48  +W52  -B42  -W44  +B53  +W51
+ 47 Zhang,Leon           1096  2.5  =B4   -W13  -B18  -W39  -B36  -B30  +W49  +W50
+ 48 Chen,Thomas           761  2.5  -W11  -B31  +W46  -B32  +W43  =B40  -W30  -B38
+ 49 Adriel,Shawn         1200  2.0  -B6   +W51  -B2   -W37  -B45  +W52  -B47  -W53
+ 50 Li,Jiapeng            999  2.0  +B56  -B15  -W16  -B38  +W54  -B34  -W39  -B47
+ 51 Gao,Hans              883  2.0  -W29  -B49  -W42  +B53  +W39  -W31  -B44  -B46
+ 52 Guo,Nelson            853  2.0  -B26  -B40  -W37  -B46  +W53  -B49  -W43  +W54
+ 53 Lin,Jimmy             509  1.0  -B14  -W41  -B45  -W51  -B52  -B39  -W46  +B49
+ 54 Yang,Oscar            422  1.0  -W34  -B33  +BYE  -W41  -B50  -B43  -W45  -B52
+ 55 Chen,George          1014  0.0  -B2
+ 56 Yip,Edwin            1674  0.0  -W50
